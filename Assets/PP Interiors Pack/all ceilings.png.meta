@@ -1,0 +1,2366 @@
+fileFormatVersion: 2
+guid: b78394e5b0b08734b9c2e062120a958f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3354620766403858330
+    second: all ceilings_0
+  - first:
+      213: -826898388326522798
+    second: all ceilings_1
+  - first:
+      213: 684091309396097633
+    second: all ceilings_2
+  - first:
+      213: 4047028335548561912
+    second: all ceilings_3
+  - first:
+      213: 5161386263337511812
+    second: all ceilings_4
+  - first:
+      213: 6070296401218807962
+    second: all ceilings_5
+  - first:
+      213: 5027128926465617601
+    second: all ceilings_6
+  - first:
+      213: 2289429636215066295
+    second: all ceilings_7
+  - first:
+      213: 2497739323831965659
+    second: all ceilings_8
+  - first:
+      213: 654526045675350274
+    second: all ceilings_9
+  - first:
+      213: 1029598235208090275
+    second: all ceilings_10
+  - first:
+      213: -360181581613297859
+    second: all ceilings_11
+  - first:
+      213: 6863785700032693270
+    second: all ceilings_12
+  - first:
+      213: -5280473243936628497
+    second: all ceilings_13
+  - first:
+      213: -882228065303006954
+    second: all ceilings_14
+  - first:
+      213: 6257740449803362606
+    second: all ceilings_15
+  - first:
+      213: -6773568706511392351
+    second: all ceilings_16
+  - first:
+      213: -1619672501429749960
+    second: all ceilings_17
+  - first:
+      213: 2089492732327781632
+    second: all ceilings_18
+  - first:
+      213: -8495003168563035390
+    second: all ceilings_19
+  - first:
+      213: 8261308133633147727
+    second: all ceilings_20
+  - first:
+      213: 4707064659353232569
+    second: all ceilings_21
+  - first:
+      213: -5143272447730048179
+    second: all ceilings_22
+  - first:
+      213: -6223664171702036634
+    second: all ceilings_23
+  - first:
+      213: 6700124609998617380
+    second: all ceilings_24
+  - first:
+      213: 4997079991946556980
+    second: all ceilings_25
+  - first:
+      213: -1376759559526681083
+    second: all ceilings_26
+  - first:
+      213: -6038655407946000297
+    second: all ceilings_27
+  - first:
+      213: -628164405116092027
+    second: all ceilings_28
+  - first:
+      213: 224300445263856868
+    second: all ceilings_29
+  - first:
+      213: 3973348384866328248
+    second: all ceilings_30
+  - first:
+      213: 1719975216001242830
+    second: all ceilings_31
+  - first:
+      213: 5819707672376627147
+    second: all ceilings_32
+  - first:
+      213: -3367051315887980300
+    second: all ceilings_33
+  - first:
+      213: -5828337130210516024
+    second: all ceilings_34
+  - first:
+      213: 3691434802331256188
+    second: all ceilings_35
+  - first:
+      213: 3895847645925484231
+    second: all ceilings_36
+  - first:
+      213: 725189166233715915
+    second: all ceilings_37
+  - first:
+      213: -118928277044453371
+    second: all ceilings_38
+  - first:
+      213: 6008310074094351033
+    second: all ceilings_39
+  - first:
+      213: -2198912370379247923
+    second: all ceilings_40
+  - first:
+      213: 3771476112345964614
+    second: all ceilings_41
+  - first:
+      213: -5125284152319067102
+    second: all ceilings_42
+  - first:
+      213: -8461794800150629382
+    second: all ceilings_43
+  - first:
+      213: -1416958144572963592
+    second: all ceilings_44
+  - first:
+      213: 4278117878929969744
+    second: all ceilings_45
+  - first:
+      213: 3348992185458827390
+    second: all ceilings_46
+  - first:
+      213: 5736823712266686971
+    second: all ceilings_47
+  - first:
+      213: -3675418348233960224
+    second: all ceilings_48
+  - first:
+      213: 1468408140912206805
+    second: all ceilings_49
+  - first:
+      213: -1062004651190509642
+    second: all ceilings_50
+  - first:
+      213: -1976700831029987487
+    second: all ceilings_51
+  - first:
+      213: -4603784625674811416
+    second: all ceilings_52
+  - first:
+      213: 375067112544221009
+    second: all ceilings_53
+  - first:
+      213: -7365542938536871057
+    second: all ceilings_54
+  - first:
+      213: 4458946435943135361
+    second: all ceilings_55
+  - first:
+      213: 2726748460169797586
+    second: all ceilings_56
+  - first:
+      213: -2720722295444403812
+    second: all ceilings_57
+  - first:
+      213: 1269338780461217529
+    second: all ceilings_58
+  - first:
+      213: 205814979632241612
+    second: all ceilings_59
+  - first:
+      213: -6219926273182472724
+    second: all ceilings_60
+  - first:
+      213: -9038582349239770827
+    second: all ceilings_61
+  - first:
+      213: -1964942762323612329
+    second: all ceilings_62
+  - first:
+      213: -470659534304182065
+    second: all ceilings_63
+  - first:
+      213: -8425133139826512636
+    second: all ceilings_64
+  - first:
+      213: -584052579767505159
+    second: all ceilings_65
+  - first:
+      213: 7146576303795249654
+    second: all ceilings_66
+  - first:
+      213: -1395144393148187009
+    second: all ceilings_67
+  - first:
+      213: -8417920527729585681
+    second: all ceilings_68
+  - first:
+      213: 8745297374789677071
+    second: all ceilings_69
+  - first:
+      213: -5925634396778616456
+    second: all ceilings_70
+  - first:
+      213: -2874802267491075551
+    second: all ceilings_71
+  - first:
+      213: 5885106521618736374
+    second: all ceilings_72
+  - first:
+      213: 6194966558147923932
+    second: all ceilings_73
+  - first:
+      213: -5599858587921761541
+    second: all ceilings_74
+  - first:
+      213: 7282595239707671892
+    second: all ceilings_75
+  - first:
+      213: 2453195759634483331
+    second: all ceilings_76
+  - first:
+      213: 314684583163133334
+    second: all ceilings_77
+  - first:
+      213: -6111760393992158023
+    second: all ceilings_78
+  - first:
+      213: -4291132413435569183
+    second: all ceilings_79
+  - first:
+      213: 1078079140540561120
+    second: all ceilings_80
+  - first:
+      213: 8363700211846507477
+    second: all ceilings_81
+  - first:
+      213: -4707260808465566181
+    second: all ceilings_82
+  - first:
+      213: -3350377159529193109
+    second: all ceilings_83
+  - first:
+      213: -2806812880556468110
+    second: all ceilings_84
+  - first:
+      213: -8701849563907696539
+    second: all ceilings_85
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: all ceilings_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 863
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660795ebf2ef171d0800000000000000
+      internalID: -3354620766403858330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 815
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25064720c444684f0800000000000000
+      internalID: -826898388326522798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_2
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 863
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a7c72eb616e7900800000000000000
+      internalID: 684091309396097633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_3
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 815
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9ff4044dee92830800000000000000
+      internalID: 4047028335548561912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_4
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 863
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b20d6d57de0a740800000000000000
+      internalID: 5161386263337511812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_5
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 815
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98aaf34a660e3450800000000000000
+      internalID: 6070296401218807962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_6
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 863
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cee21eaf13f3c540800000000000000
+      internalID: 5027128926465617601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_7
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 815
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bec9dccf10b5cf10800000000000000
+      internalID: 2289429636215066295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_8
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 815
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd757827ea0c9a220800000000000000
+      internalID: 2497739323831965659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_9
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 815
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20968b088f7551900800000000000000
+      internalID: 654526045675350274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_10
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 815
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a282fec32ed94e00800000000000000
+      internalID: 1029598235208090275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_11
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 815
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f0d4582c0600bf0800000000000000
+      internalID: -360181581613297859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_12
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 735
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614cad07ab0114f50800000000000000
+      internalID: 6863785700032693270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_13
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 687
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0e331df8df7b6b0800000000000000
+      internalID: -5280473243936628497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_14
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 735
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611fbb4bf32b1c3f0800000000000000
+      internalID: -882228065303006954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_15
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 687
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e216f1fb8c5f7d650800000000000000
+      internalID: 6257740449803362606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_16
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 735
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1bfaa36237ff1a0800000000000000
+      internalID: -6773568706511392351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_17
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 687
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837bfcbf074c589e0800000000000000
+      internalID: -1619672501429749960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_18
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 735
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0056827c19e5ffc10800000000000000
+      internalID: 2089492732327781632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_19
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 687
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2038bfb60afab1a80800000000000000
+      internalID: -8495003168563035390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_20
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 687
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43cf3d2aff06a270800000000000000
+      internalID: 8261308133633147727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_21
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 687
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b46b8b5e5ad25140800000000000000
+      internalID: 4707064659353232569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_22
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 687
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d432ff185fc6f98b0800000000000000
+      internalID: -5143272447730048179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_23
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 687
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667df54096a11a9a0800000000000000
+      internalID: -6223664171702036634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_24
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 575
+        width: 130
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42bf1d185df9bfc50800000000000000
+      internalID: 6700124609998617380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_25
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 575
+        width: 130
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 436bf2ae6c1395540800000000000000
+      internalID: 4997079991946556980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_26
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 575
+        width: 72
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506f9499974c4ece0800000000000000
+      internalID: -1376759559526681083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_27
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 645
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758136096e2623ca0800000000000000
+      internalID: -6038655407946000297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_28
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 607
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581c28c3dcf4847f0800000000000000
+      internalID: -628164405116092027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_29
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 607
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e40aea0110ec1300800000000000000
+      internalID: 224300445263856868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_30
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 575
+        width: 72
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be54d8ed4b242730800000000000000
+      internalID: 3973348384866328248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_31
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 645
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6da3c98549ed710800000000000000
+      internalID: 1719975216001242830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_32
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 607
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcfcf9c3b41c3c050800000000000000
+      internalID: 5819707672376627147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_33
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 607
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f04cf7eaa4d541d0800000000000000
+      internalID: -3367051315887980300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_34
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 607
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3259a82469d1fa0800000000000000
+      internalID: -5828337130210516024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_35
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 607
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c750878056c9a3330800000000000000
+      internalID: 3691434802331256188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_36
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 463
+        width: 130
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c62e6afac4d01630800000000000000
+      internalID: 3895847645925484231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_37
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 463
+        width: 130
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4825854b3601a00800000000000000
+      internalID: 725189166233715915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_38
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 463
+        width: 72
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5002405bc5b795ef0800000000000000
+      internalID: -118928277044453371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_39
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 533
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b27bc2dd2ec16350800000000000000
+      internalID: 6008310074094351033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_40
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 495
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce255779d4eb71e0800000000000000
+      internalID: -2198912370379247923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_41
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 495
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640a043ca89f65430800000000000000
+      internalID: 3771476112345964614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_42
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 463
+        width: 72
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c3518e7355fd8b0800000000000000
+      internalID: -5125284152319067102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_43
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 533
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af336c6367aa19a80800000000000000
+      internalID: -8461794800150629382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_44
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 495
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4c12b2314f55ce0800000000000000
+      internalID: -1416958144572963592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_45
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 495
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0525ed06b8dee5b30800000000000000
+      internalID: 4278117878929969744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_46
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 495
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7025d126a20a7e20800000000000000
+      internalID: 3348992185458827390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_47
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 495
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf191b475ca4d9f40800000000000000
+      internalID: 5736823712266686971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_48
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 351
+        width: 130
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4df884c7a4efcc0800000000000000
+      internalID: -3675418348233960224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_49
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 351
+        width: 130
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d32d589c65d06410800000000000000
+      internalID: 1468408140912206805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_50
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 351
+        width: 72
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf1aff75600341f0800000000000000
+      internalID: -1062004651190509642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_51
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 421
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167fc3331195194e0800000000000000
+      internalID: -1976700831029987487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_52
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 383
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e78f3c56421c10c0800000000000000
+      internalID: -4603784625674811416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_53
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 383
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157312a3d81843500800000000000000
+      internalID: 375067112544221009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_54
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 351
+        width: 72
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b7f92c8b558c990800000000000000
+      internalID: -7365542938536871057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_55
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 421
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18872e2b82c51ed30800000000000000
+      internalID: 4458946435943135361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_56
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 383
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df9340174b57d520800000000000000
+      internalID: 2726748460169797586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_57
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 383
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c990d8fbc7d0e3ad0800000000000000
+      internalID: -2720722295444403812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_58
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 383
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6b40545e89d9110800000000000000
+      internalID: 1269338780461217529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_59
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 383
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb1f6e22a33bd200800000000000000
+      internalID: 205814979632241612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_60
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 239
+        width: 130
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5e6d552026ea9a0800000000000000
+      internalID: -6219926273182472724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_61
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 239
+        width: 130
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531a278ed31809280800000000000000
+      internalID: -9038582349239770827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_62
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 239
+        width: 72
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75de9b7e7fe1bb4e0800000000000000
+      internalID: -1964942762323612329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_63
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 309
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc006afa5a1e779f0800000000000000
+      internalID: -470659534304182065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_64
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 271
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40de44f2c0ae31b80800000000000000
+      internalID: -8425133139826512636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_65
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 271
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9feaecce54705e7f0800000000000000
+      internalID: -584052579767505159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_66
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 239
+        width: 72
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1a0fbb84dbd2360800000000000000
+      internalID: 7146576303795249654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_67
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 309
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e3604f09373ace0800000000000000
+      internalID: -1395144393148187009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_68
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 271
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1953d41e98d2b80800000000000000
+      internalID: -8417920527729585681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_69
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 271
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00be77b0a98d5970800000000000000
+      internalID: 8745297374789677071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_70
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 271
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879ac2759eae3cda0800000000000000
+      internalID: -5925634396778616456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_71
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 271
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12af4bea196aa18d0800000000000000
+      internalID: -2874802267491075551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_72
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 127
+        width: 130
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f46b6663391ca150800000000000000
+      internalID: 5885106521618736374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_73
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 127
+        width: 130
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdfc4d52341f8f550800000000000000
+      internalID: 6194966558147923932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_74
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 127
+        width: 72
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfab08a984e4942b0800000000000000
+      internalID: -5599858587921761541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_75
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 197
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45df9b129c9f01560800000000000000
+      internalID: 7282595239707671892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_76
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 159
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3880289bb808b0220800000000000000
+      internalID: 2453195759634483331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_77
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 159
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69dfabb06fbfd5400800000000000000
+      internalID: 314684583163133334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_78
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 127
+        width: 72
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4cbcb9d4aae2ba0800000000000000
+      internalID: -6111760393992158023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_79
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 197
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb120d2ec5d274c0800000000000000
+      internalID: -4291132413435569183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_80
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 159
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6bda3344b16fe00800000000000000
+      internalID: 1078079140540561120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_81
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 159
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db68f6a705d11470800000000000000
+      internalID: 8363700211846507477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_82
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 159
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16ba4e1c337caeb0800000000000000
+      internalID: -4707260808465566181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_83
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 159
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b612ea679b11181d0800000000000000
+      internalID: -3350377159529193109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_84
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 15
+        width: 130
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278d0776e823c09d0800000000000000
+      internalID: -2806812880556468110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all ceilings_85
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 47
+        width: 194
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568d46e0de1dc3780800000000000000
+      internalID: -8701849563907696539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      all ceilings_0: -3354620766403858330
+      all ceilings_1: -826898388326522798
+      all ceilings_10: 1029598235208090275
+      all ceilings_11: -360181581613297859
+      all ceilings_12: 6863785700032693270
+      all ceilings_13: -5280473243936628497
+      all ceilings_14: -882228065303006954
+      all ceilings_15: 6257740449803362606
+      all ceilings_16: -6773568706511392351
+      all ceilings_17: -1619672501429749960
+      all ceilings_18: 2089492732327781632
+      all ceilings_19: -8495003168563035390
+      all ceilings_2: 684091309396097633
+      all ceilings_20: 8261308133633147727
+      all ceilings_21: 4707064659353232569
+      all ceilings_22: -5143272447730048179
+      all ceilings_23: -6223664171702036634
+      all ceilings_24: 6700124609998617380
+      all ceilings_25: 4997079991946556980
+      all ceilings_26: -1376759559526681083
+      all ceilings_27: -6038655407946000297
+      all ceilings_28: -628164405116092027
+      all ceilings_29: 224300445263856868
+      all ceilings_3: 4047028335548561912
+      all ceilings_30: 3973348384866328248
+      all ceilings_31: 1719975216001242830
+      all ceilings_32: 5819707672376627147
+      all ceilings_33: -3367051315887980300
+      all ceilings_34: -5828337130210516024
+      all ceilings_35: 3691434802331256188
+      all ceilings_36: 3895847645925484231
+      all ceilings_37: 725189166233715915
+      all ceilings_38: -118928277044453371
+      all ceilings_39: 6008310074094351033
+      all ceilings_4: 5161386263337511812
+      all ceilings_40: -2198912370379247923
+      all ceilings_41: 3771476112345964614
+      all ceilings_42: -5125284152319067102
+      all ceilings_43: -8461794800150629382
+      all ceilings_44: -1416958144572963592
+      all ceilings_45: 4278117878929969744
+      all ceilings_46: 3348992185458827390
+      all ceilings_47: 5736823712266686971
+      all ceilings_48: -3675418348233960224
+      all ceilings_49: 1468408140912206805
+      all ceilings_5: 6070296401218807962
+      all ceilings_50: -1062004651190509642
+      all ceilings_51: -1976700831029987487
+      all ceilings_52: -4603784625674811416
+      all ceilings_53: 375067112544221009
+      all ceilings_54: -7365542938536871057
+      all ceilings_55: 4458946435943135361
+      all ceilings_56: 2726748460169797586
+      all ceilings_57: -2720722295444403812
+      all ceilings_58: 1269338780461217529
+      all ceilings_59: 205814979632241612
+      all ceilings_6: 5027128926465617601
+      all ceilings_60: -6219926273182472724
+      all ceilings_61: -9038582349239770827
+      all ceilings_62: -1964942762323612329
+      all ceilings_63: -470659534304182065
+      all ceilings_64: -8425133139826512636
+      all ceilings_65: -584052579767505159
+      all ceilings_66: 7146576303795249654
+      all ceilings_67: -1395144393148187009
+      all ceilings_68: -8417920527729585681
+      all ceilings_69: 8745297374789677071
+      all ceilings_7: 2289429636215066295
+      all ceilings_70: -5925634396778616456
+      all ceilings_71: -2874802267491075551
+      all ceilings_72: 5885106521618736374
+      all ceilings_73: 6194966558147923932
+      all ceilings_74: -5599858587921761541
+      all ceilings_75: 7282595239707671892
+      all ceilings_76: 2453195759634483331
+      all ceilings_77: 314684583163133334
+      all ceilings_78: -6111760393992158023
+      all ceilings_79: -4291132413435569183
+      all ceilings_8: 2497739323831965659
+      all ceilings_80: 1078079140540561120
+      all ceilings_81: 8363700211846507477
+      all ceilings_82: -4707260808465566181
+      all ceilings_83: -3350377159529193109
+      all ceilings_84: -2806812880556468110
+      all ceilings_85: -8701849563907696539
+      all ceilings_9: 654526045675350274
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

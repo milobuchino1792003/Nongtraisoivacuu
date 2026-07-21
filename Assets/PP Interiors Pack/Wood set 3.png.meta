@@ -1,0 +1,1144 @@
+fileFormatVersion: 2
+guid: 10d13009b2c9c7c4ba9ea2b99f98ebdc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7745556003634875997
+    second: Wood set 3_0
+  - first:
+      213: 1684168896765630646
+    second: Wood set 3_1
+  - first:
+      213: -2021929175140190250
+    second: Wood set 3_2
+  - first:
+      213: -42824608249768620
+    second: Wood set 3_3
+  - first:
+      213: 2050899417771736573
+    second: Wood set 3_4
+  - first:
+      213: 6485970462000469850
+    second: Wood set 3_5
+  - first:
+      213: 6902116776335986221
+    second: Wood set 3_6
+  - first:
+      213: -2782991955619097079
+    second: Wood set 3_7
+  - first:
+      213: 1250937450620727084
+    second: Wood set 3_8
+  - first:
+      213: 9211094252370624206
+    second: Wood set 3_9
+  - first:
+      213: -5847867812456483031
+    second: Wood set 3_10
+  - first:
+      213: -4622000560378480678
+    second: Wood set 3_11
+  - first:
+      213: 4843554292097709138
+    second: Wood set 3_12
+  - first:
+      213: -8189416747217397849
+    second: Wood set 3_13
+  - first:
+      213: 4621324845820076064
+    second: Wood set 3_14
+  - first:
+      213: 3188056717898006520
+    second: Wood set 3_15
+  - first:
+      213: 1312746288343437713
+    second: Wood set 3_16
+  - first:
+      213: -7398667640339622493
+    second: Wood set 3_17
+  - first:
+      213: 4970469419789778110
+    second: Wood set 3_18
+  - first:
+      213: 1967564979280623975
+    second: Wood set 3_19
+  - first:
+      213: 3997337855032952948
+    second: Wood set 3_20
+  - first:
+      213: 7810122121134637409
+    second: Wood set 3_21
+  - first:
+      213: -9177602335065840937
+    second: Wood set 3_22
+  - first:
+      213: -5494818942269558200
+    second: Wood set 3_23
+  - first:
+      213: 70753370216454810
+    second: Wood set 3_24
+  - first:
+      213: -4542637683267129182
+    second: Wood set 3_25
+  - first:
+      213: 2149198758688103813
+    second: Wood set 3_26
+  - first:
+      213: 6281273240491134339
+    second: Wood set 3_27
+  - first:
+      213: -2539265946868474936
+    second: Wood set 3_28
+  - first:
+      213: -2841711512186615899
+    second: Wood set 3_29
+  - first:
+      213: -7253993853211446202
+    second: Wood set 3_30
+  - first:
+      213: -5655264742753060172
+    second: Wood set 3_31
+  - first:
+      213: 5651940961430473609
+    second: Wood set 3_32
+  - first:
+      213: -625764536615822666
+    second: Wood set 3_33
+  - first:
+      213: 6798161035311702312
+    second: Wood set 3_34
+  - first:
+      213: -1854350986974616400
+    second: Wood set 3_35
+  - first:
+      213: 7674916452490072741
+    second: Wood set 3_36
+  - first:
+      213: -1777273554715358448
+    second: Wood set 3_37
+  - first:
+      213: 4031458718084460736
+    second: Wood set 3_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wood set 3_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 431
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1f2773ad1428490800000000000000
+      internalID: -7745556003634875997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood set 3_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 383
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b81a7140be5f5710800000000000000
+      internalID: 1684168896765630646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood set 3_2
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 351
+        width: 142
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d735cab02aa0f3e0800000000000000
+      internalID: -2021929175140190250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood set 3_3
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 351
+        width: 126
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45590a5ee3bd76ff0800000000000000
+      internalID: -42824608249768620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood set 3_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 383
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfdf6528722467c10800000000000000
+      internalID: 2050899417771736573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood set 3_5
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 303
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57d63365cbc20a50800000000000000
+      internalID: 6485970462000469850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood set 3_6
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 255
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e45cb93ae39cf50800000000000000
+      internalID: 6902116776335986221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood set 3_7
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 223
+        width: 72
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906dd80bf83d069d0800000000000000
+      internalID: -2782991955619097079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood set 3_8
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 293
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f2b7ccbf83c5110800000000000000
+      internalID: 1250937450620727084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood set 3_9
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 255
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece71398b6164df70800000000000000
+      internalID: 9211094252370624206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood set 3_10
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 255
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9273719353338dea0800000000000000
+      internalID: -5847867812456483031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood set 3_11
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 287
+        width: 114
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7fbfe8afa5bdfb0800000000000000
+      internalID: -4622000560378480678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood set 3_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 255
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2547dc667f2c73340800000000000000
+      internalID: 4843554292097709138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood set 3_13
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 255
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7d8789bd8595e80800000000000000
+      internalID: -8189416747217397849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood set 3_14
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 239
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020eac2667e322040800000000000000
+      internalID: 4621324845820076064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood set 3_15
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 207
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ffbb12a1b04e3c20800000000000000
+      internalID: 3188056717898006520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood set 3_16
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 240
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1915ce44bcfc73210800000000000000
+      internalID: 1312746288343437713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood set 3_17
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 221
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5116e1bf6a25990800000000000000
+      internalID: -7398667640339622493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood set 3_18
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 221
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebcf2854a97aaf440800000000000000
+      internalID: 4970469419789778110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood set 3_19
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 111
+        width: 130
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769358e8ce13e4b10800000000000000
+      internalID: 1967564979280623975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood set 3_20
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 111
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4780670b995697730800000000000000
+      internalID: 3997337855032952948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood set 3_21
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 111
+        width: 50
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16186aa70b0236c60800000000000000
+      internalID: 7810122121134637409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood set 3_22
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 111
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2ea902d4b92a080800000000000000
+      internalID: -9177602335065840937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood set 3_23
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 111
+        width: 45
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8427fe8e84b7eb3b0800000000000000
+      internalID: -5494818942269558200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood set 3_24
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 111
+        width: 45
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ad96ab0dd5bf000800000000000000
+      internalID: 70753370216454810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood set 3_25
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 111
+        width: 18
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a03f81581f45f0c0800000000000000
+      internalID: -4542637683267129182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood set 3_26
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 56
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d905352ec73dd10800000000000000
+      internalID: 2149198758688103813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood set 3_27
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 56
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d04ac8bb09b2750800000000000000
+      internalID: 6281273240491134339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood set 3_28
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 56
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb98ae2317b2ccd0800000000000000
+      internalID: -2539265946868474936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood set 3_29
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 56
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a78af98f663098d0800000000000000
+      internalID: -2841711512186615899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood set 3_30
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 47
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644f6781603a45b90800000000000000
+      internalID: -7253993853211446202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood set 3_31
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 15
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bab969eda67481b0800000000000000
+      internalID: -5655264742753060172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood set 3_32
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 15
+        width: 50
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b0b81fb5abf6e40800000000000000
+      internalID: 5651940961430473609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood set 3_33
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 15
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba1af92876d057f0800000000000000
+      internalID: -625764536615822666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood set 3_34
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 15
+        width: 45
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821e7a3817be75e50800000000000000
+      internalID: 6798161035311702312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood set 3_35
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 15
+        width: 45
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4ab742a950446e0800000000000000
+      internalID: -1854350986974616400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood set 3_36
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 15
+        width: 18
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2d87f99d7c28a60800000000000000
+      internalID: 7674916452490072741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood set 3_37
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 24
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01bce7e4e1bd557e0800000000000000
+      internalID: -1777273554715358448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood set 3_38
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 24
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c07312385e92f730800000000000000
+      internalID: 4031458718084460736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Wood set 3_0: -7745556003634875997
+      Wood set 3_1: 1684168896765630646
+      Wood set 3_10: -5847867812456483031
+      Wood set 3_11: -4622000560378480678
+      Wood set 3_12: 4843554292097709138
+      Wood set 3_13: -8189416747217397849
+      Wood set 3_14: 4621324845820076064
+      Wood set 3_15: 3188056717898006520
+      Wood set 3_16: 1312746288343437713
+      Wood set 3_17: -7398667640339622493
+      Wood set 3_18: 4970469419789778110
+      Wood set 3_19: 1967564979280623975
+      Wood set 3_2: -2021929175140190250
+      Wood set 3_20: 3997337855032952948
+      Wood set 3_21: 7810122121134637409
+      Wood set 3_22: -9177602335065840937
+      Wood set 3_23: -5494818942269558200
+      Wood set 3_24: 70753370216454810
+      Wood set 3_25: -4542637683267129182
+      Wood set 3_26: 2149198758688103813
+      Wood set 3_27: 6281273240491134339
+      Wood set 3_28: -2539265946868474936
+      Wood set 3_29: -2841711512186615899
+      Wood set 3_3: -42824608249768620
+      Wood set 3_30: -7253993853211446202
+      Wood set 3_31: -5655264742753060172
+      Wood set 3_32: 5651940961430473609
+      Wood set 3_33: -625764536615822666
+      Wood set 3_34: 6798161035311702312
+      Wood set 3_35: -1854350986974616400
+      Wood set 3_36: 7674916452490072741
+      Wood set 3_37: -1777273554715358448
+      Wood set 3_38: 4031458718084460736
+      Wood set 3_4: 2050899417771736573
+      Wood set 3_5: 6485970462000469850
+      Wood set 3_6: 6902116776335986221
+      Wood set 3_7: -2782991955619097079
+      Wood set 3_8: 1250937450620727084
+      Wood set 3_9: 9211094252370624206
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
