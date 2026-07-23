@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: d0f95055d91167246bb9d69f87773c46
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4000461613460614268
+    second: Fishing rod 7 64x32_0
+  - first:
+      213: 7872652297069450756
+    second: Fishing rod 7 64x32_1
+  - first:
+      213: 2164815529981404251
+    second: Fishing rod 7 64x32_2
+  - first:
+      213: 8892503508845302809
+    second: Fishing rod 7 64x32_3
+  - first:
+      213: 1016749013575241355
+    second: Fishing rod 7 64x32_4
+  - first:
+      213: 5948968646093147021
+    second: Fishing rod 7 64x32_5
+  - first:
+      213: 7033706870402348995
+    second: Fishing rod 7 64x32_6
+  - first:
+      213: -9135659499186070475
+    second: Fishing rod 7 64x32_7
+  - first:
+      213: -1746720532759071957
+    second: Fishing rod 7 64x32_8
+  - first:
+      213: -6564623176815604862
+    second: Fishing rod 7 64x32_9
+  - first:
+      213: 1705520614924054139
+    second: Fishing rod 7 64x32_10
+  - first:
+      213: -7688383567313184640
+    second: Fishing rod 7 64x32_11
+  - first:
+      213: 5463035903943180803
+    second: Fishing rod 7 64x32_12
+  - first:
+      213: -4559112468813210654
+    second: Fishing rod 7 64x32_13
+  - first:
+      213: -8621765767306783766
+    second: Fishing rod 7 64x32_14
+  - first:
+      213: 6695797305243527154
+    second: Fishing rod 7 64x32_15
+  - first:
+      213: -1097727579690820462
+    second: Fishing rod 7 64x32_16
+  - first:
+      213: 1146425214315472595
+    second: Fishing rod 7 64x32_17
+  - first:
+      213: 4148904915810016509
+    second: Fishing rod 7 64x32_18
+  - first:
+      213: 1104011097274721597
+    second: Fishing rod 7 64x32_19
+  - first:
+      213: -7174330491923636838
+    second: Fishing rod 7 64x32_20
+  - first:
+      213: 6864557644307301158
+    second: Fishing rod 7 64x32_21
+  - first:
+      213: -1780849340648848550
+    second: Fishing rod 7 64x32_22
+  - first:
+      213: 6649537842786167738
+    second: Fishing rod 7 64x32_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fishing rod 7 64x32_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 65
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4831810ab518b78c0800000000000000
+      internalID: -4000461613460614268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishing rod 7 64x32_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 65
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406dcf69d87414d60800000000000000
+      internalID: 7872652297069450756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishing rod 7 64x32_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 66
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b546acc3148fa0e10800000000000000
+      internalID: 2164815529981404251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishing rod 7 64x32_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 66
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91493a8a3d4886b70800000000000000
+      internalID: 8892503508845302809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishing rod 7 64x32_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 66
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e81e347d73c1e00800000000000000
+      internalID: 1016749013575241355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishing rod 7 64x32_5
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 65
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b8152f67bfe8250800000000000000
+      internalID: 5948968646093147021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishing rod 7 64x32_6
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 65
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c77e88e12fbc9160800000000000000
+      internalID: 7033706870402348995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishing rod 7 64x32_7
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c571a961e973180800000000000000
+      internalID: -9135659499186070475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishing rod 7 64x32_8
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 31
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23b3031ee662c7e0800000000000000
+      internalID: -1746720532759071957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishing rod 7 64x32_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 31
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b0c956006c5e4a0800000000000000
+      internalID: -6564623176815604862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishing rod 7 64x32_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 31
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e67a986f93ba710800000000000000
+      internalID: 1705520614924054139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishing rod 7 64x32_11
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 31
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088d85d51ef5d4590800000000000000
+      internalID: -7688383567313184640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishing rod 7 64x32_12
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 31
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3020db1d53a90db40800000000000000
+      internalID: 5463035903943180803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishing rod 7 64x32_13
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 31
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb95556d57cab0c0800000000000000
+      internalID: -4559112468813210654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishing rod 7 64x32_14
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 31
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae35e07f6b5595880800000000000000
+      internalID: -8621765767306783766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishing rod 7 64x32_15
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 31
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7ee0b5c204cec50800000000000000
+      internalID: 6695797305243527154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishing rod 7 64x32_16
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 0
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c1160159614c0f0800000000000000
+      internalID: -1097727579690820462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishing rod 7 64x32_17
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 0
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d623dc88abe8ef00800000000000000
+      internalID: 1146425214315472595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishing rod 7 64x32_18
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 0
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc5ab10a0fd39930800000000000000
+      internalID: 4148904915810016509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishing rod 7 64x32_19
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 0
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3526216e3c325f00800000000000000
+      internalID: 1104011097274721597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishing rod 7 64x32_20
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 3
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d53a7cd68af6c90800000000000000
+      internalID: -7174330491923636838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishing rod 7 64x32_21
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 0
+        width: 75
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6230129becec34f50800000000000000
+      internalID: 6864557644307301158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishing rod 7 64x32_22
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 3
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a530324c5f62947e0800000000000000
+      internalID: -1780849340648848550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishing rod 7 64x32_23
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 3
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb69cfef67e74c50800000000000000
+      internalID: 6649537842786167738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Fishing rod 7 64x32_0: -4000461613460614268
+      Fishing rod 7 64x32_1: 7872652297069450756
+      Fishing rod 7 64x32_10: 1705520614924054139
+      Fishing rod 7 64x32_11: -7688383567313184640
+      Fishing rod 7 64x32_12: 5463035903943180803
+      Fishing rod 7 64x32_13: -4559112468813210654
+      Fishing rod 7 64x32_14: -8621765767306783766
+      Fishing rod 7 64x32_15: 6695797305243527154
+      Fishing rod 7 64x32_16: -1097727579690820462
+      Fishing rod 7 64x32_17: 1146425214315472595
+      Fishing rod 7 64x32_18: 4148904915810016509
+      Fishing rod 7 64x32_19: 1104011097274721597
+      Fishing rod 7 64x32_2: 2164815529981404251
+      Fishing rod 7 64x32_20: -7174330491923636838
+      Fishing rod 7 64x32_21: 6864557644307301158
+      Fishing rod 7 64x32_22: -1780849340648848550
+      Fishing rod 7 64x32_23: 6649537842786167738
+      Fishing rod 7 64x32_3: 8892503508845302809
+      Fishing rod 7 64x32_4: 1016749013575241355
+      Fishing rod 7 64x32_5: 5948968646093147021
+      Fishing rod 7 64x32_6: 7033706870402348995
+      Fishing rod 7 64x32_7: -9135659499186070475
+      Fishing rod 7 64x32_8: -1746720532759071957
+      Fishing rod 7 64x32_9: -6564623176815604862
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

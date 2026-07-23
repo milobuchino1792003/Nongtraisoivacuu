@@ -1,0 +1,2340 @@
+fileFormatVersion: 2
+guid: aa5b330707c5f8e41879bba1924e384f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7060472727965580092
+    second: All Character Wood 64x32_0
+  - first:
+      213: -5996117911638973586
+    second: All Character Wood 64x32_1
+  - first:
+      213: -3847090549830634524
+    second: All Character Wood 64x32_2
+  - first:
+      213: 3714898623397675003
+    second: All Character Wood 64x32_3
+  - first:
+      213: -651913439537463637
+    second: All Character Wood 64x32_4
+  - first:
+      213: 269911110244235230
+    second: All Character Wood 64x32_5
+  - first:
+      213: -4799635995011185015
+    second: All Character Wood 64x32_6
+  - first:
+      213: -4636456989386400797
+    second: All Character Wood 64x32_7
+  - first:
+      213: 3907142083582282875
+    second: All Character Wood 64x32_8
+  - first:
+      213: -239018831430914385
+    second: All Character Wood 64x32_9
+  - first:
+      213: 3856610651398834553
+    second: All Character Wood 64x32_10
+  - first:
+      213: -4014495567799813185
+    second: All Character Wood 64x32_11
+  - first:
+      213: -1987363795455103405
+    second: All Character Wood 64x32_12
+  - first:
+      213: 5013963550373865568
+    second: All Character Wood 64x32_13
+  - first:
+      213: 8149988479947114566
+    second: All Character Wood 64x32_14
+  - first:
+      213: 8649801581397954170
+    second: All Character Wood 64x32_15
+  - first:
+      213: 336993976077062992
+    second: All Character Wood 64x32_16
+  - first:
+      213: 1212918514308210007
+    second: All Character Wood 64x32_17
+  - first:
+      213: -2860298205937960450
+    second: All Character Wood 64x32_18
+  - first:
+      213: -3159163176946857292
+    second: All Character Wood 64x32_19
+  - first:
+      213: -8860671570844769392
+    second: All Character Wood 64x32_20
+  - first:
+      213: -599954504979472412
+    second: All Character Wood 64x32_21
+  - first:
+      213: 7241320114471421810
+    second: All Character Wood 64x32_22
+  - first:
+      213: -4842815104879853705
+    second: All Character Wood 64x32_23
+  - first:
+      213: -8882864832898684255
+    second: All Character Wood 64x32_24
+  - first:
+      213: -8046344846004650983
+    second: All Character Wood 64x32_25
+  - first:
+      213: 2858937139863785362
+    second: All Character Wood 64x32_26
+  - first:
+      213: 1280675363901943920
+    second: All Character Wood 64x32_27
+  - first:
+      213: -8514452682128833154
+    second: All Character Wood 64x32_28
+  - first:
+      213: 3675455183597794543
+    second: All Character Wood 64x32_29
+  - first:
+      213: -8728860906280458357
+    second: All Character Wood 64x32_30
+  - first:
+      213: 525526966849315011
+    second: All Character Wood 64x32_31
+  - first:
+      213: 5056391622928155254
+    second: All Character Wood 64x32_32
+  - first:
+      213: 9055813936687590769
+    second: All Character Wood 64x32_33
+  - first:
+      213: 3388661700702950073
+    second: All Character Wood 64x32_34
+  - first:
+      213: 7317444922408366799
+    second: All Character Wood 64x32_35
+  - first:
+      213: -2114059956155329790
+    second: All Character Wood 64x32_36
+  - first:
+      213: 1503972494387602343
+    second: All Character Wood 64x32_37
+  - first:
+      213: -8737191103349677394
+    second: All Character Wood 64x32_38
+  - first:
+      213: 1097037555224837354
+    second: All Character Wood 64x32_39
+  - first:
+      213: 2291633031857609217
+    second: All Character Wood 64x32_40
+  - first:
+      213: 5677195482781113468
+    second: All Character Wood 64x32_41
+  - first:
+      213: 1410623597188898218
+    second: All Character Wood 64x32_42
+  - first:
+      213: -5114934653481956715
+    second: All Character Wood 64x32_43
+  - first:
+      213: 1331735175967680399
+    second: All Character Wood 64x32_44
+  - first:
+      213: -7643454533665224792
+    second: All Character Wood 64x32_45
+  - first:
+      213: -4178253456246549632
+    second: All Character Wood 64x32_46
+  - first:
+      213: 3887557711686657302
+    second: All Character Wood 64x32_47
+  - first:
+      213: 782473921944726238
+    second: All Character Wood 64x32_48
+  - first:
+      213: 1564978090254373275
+    second: All Character Wood 64x32_49
+  - first:
+      213: 3774966803666910162
+    second: All Character Wood 64x32_50
+  - first:
+      213: 6238750040240383424
+    second: All Character Wood 64x32_51
+  - first:
+      213: 2387292848549981920
+    second: All Character Wood 64x32_52
+  - first:
+      213: 2381965216938734034
+    second: All Character Wood 64x32_53
+  - first:
+      213: -495979994444086357
+    second: All Character Wood 64x32_54
+  - first:
+      213: -8966613558452521750
+    second: All Character Wood 64x32_55
+  - first:
+      213: -5075784127618633517
+    second: All Character Wood 64x32_56
+  - first:
+      213: 1639603099960182473
+    second: All Character Wood 64x32_57
+  - first:
+      213: 5707347855491380523
+    second: All Character Wood 64x32_58
+  - first:
+      213: -1672339403892401154
+    second: All Character Wood 64x32_59
+  - first:
+      213: 4950284878389017926
+    second: All Character Wood 64x32_60
+  - first:
+      213: -8440741084176158964
+    second: All Character Wood 64x32_61
+  - first:
+      213: -7316083061429735762
+    second: All Character Wood 64x32_62
+  - first:
+      213: -663036385218132605
+    second: All Character Wood 64x32_63
+  - first:
+      213: -696200465222073918
+    second: All Character Wood 64x32_64
+  - first:
+      213: 4064575396436777394
+    second: All Character Wood 64x32_65
+  - first:
+      213: 538174294274503324
+    second: All Character Wood 64x32_66
+  - first:
+      213: -2527102807678034695
+    second: All Character Wood 64x32_67
+  - first:
+      213: -7317969303854180288
+    second: All Character Wood 64x32_68
+  - first:
+      213: 4390554480857644648
+    second: All Character Wood 64x32_69
+  - first:
+      213: -508040924073238501
+    second: All Character Wood 64x32_70
+  - first:
+      213: -1745435157500630990
+    second: All Character Wood 64x32_71
+  - first:
+      213: -4812086492642368709
+    second: All Character Wood 64x32_72
+  - first:
+      213: 715329673050967764
+    second: All Character Wood 64x32_73
+  - first:
+      213: 7281837789975323966
+    second: All Character Wood 64x32_74
+  - first:
+      213: 661086322508581798
+    second: All Character Wood 64x32_75
+  - first:
+      213: -4188349280312054671
+    second: All Character Wood 64x32_76
+  - first:
+      213: 4673933324878751804
+    second: All Character Wood 64x32_77
+  - first:
+      213: -8445382566868876375
+    second: All Character Wood 64x32_78
+  - first:
+      213: -8012505467521207974
+    second: All Character Wood 64x32_79
+  - first:
+      213: 1028658707912616809
+    second: All Character Wood 64x32_80
+  - first:
+      213: 5861063750754802538
+    second: All Character Wood 64x32_81
+  - first:
+      213: 2258514452179833113
+    second: All Character Wood 64x32_82
+  - first:
+      213: -2197064395989810539
+    second: All Character Wood 64x32_83
+  - first:
+      213: -6276935913043737072
+    second: All Character Wood 64x32_84
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: All Character Wood 64x32_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 287
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4474f3679240e90800000000000000
+      internalID: -7060472727965580092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 287
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63e665378289cca0800000000000000
+      internalID: -5996117911638973586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 287
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3359617836c9ac0800000000000000
+      internalID: -3847090549830634524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 287
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bffb4389d98fd8330800000000000000
+      internalID: 3714898623397675003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_4
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 291
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baef0144e20f3f6f0800000000000000
+      internalID: -651913439537463637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_5
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 287
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7f90789baeeb300800000000000000
+      internalID: 269911110244235230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_6
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 287
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9860e2afd74446db0800000000000000
+      internalID: -4799635995011185015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_7
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 287
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb1f33eeeef7afb0800000000000000
+      internalID: -4636456989386400797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_8
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 287
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7cc6ea2605f83630800000000000000
+      internalID: 3907142083582282875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_9
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 255
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae6ee1a3a5deacf0800000000000000
+      internalID: -239018831430914385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 255
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9798d9944fe658530800000000000000
+      internalID: 3856610651398834553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_11
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 255
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb79e00d85a948c0800000000000000
+      internalID: -4014495567799813185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_12
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 255
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e2d6458277b64e0800000000000000
+      internalID: -1987363795455103405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_13
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 255
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0686ac0b84d259540800000000000000
+      internalID: 5013963550373865568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_14
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 255
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64806ce87539a1170800000000000000
+      internalID: 8149988479947114566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_15
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 255
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e46dca5b44a0870800000000000000
+      internalID: 8649801581397954170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_16
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 255
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053158b5c3e3da400800000000000000
+      internalID: 336993976077062992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_17
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 223
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75dd5d266f625d010800000000000000
+      internalID: 1212918514308210007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_18
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 223
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9716bafed2e48d0800000000000000
+      internalID: -2860298205937960450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_19
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 223
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba869a14d56824d0800000000000000
+      internalID: -3159163176946857292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_20
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 223
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0932564f622980580800000000000000
+      internalID: -8860671570844769392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_21
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 223
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef9d417e888ca7f0800000000000000
+      internalID: -599954504979472412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_22
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 223
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277c5f727465e7460800000000000000
+      internalID: 7241320114471421810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_23
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 223
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f7db8025ddaccb0800000000000000
+      internalID: -4842815104879853705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_24
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 223
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aaa3477f79b9b480800000000000000
+      internalID: -8882864832898684255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_25
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 223
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91cf8917ef3a55090800000000000000
+      internalID: -8046344846004650983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_26
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 191
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f80c07e2cfca720800000000000000
+      internalID: 2858937139863785362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_27
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 191
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07038f9457fd5c110800000000000000
+      internalID: 1280675363901943920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_28
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 191
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75c6d8a56696d980800000000000000
+      internalID: -8514452682128833154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_29
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 191
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4f63e1407d10330800000000000000
+      internalID: 3675455183597794543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_30
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 191
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87eb53d04bdcd680800000000000000
+      internalID: -8728860906280458357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_31
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 191
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c021f2fdfb0b4700800000000000000
+      internalID: 525526966849315011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_32
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 191
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672c4e12469eb2640800000000000000
+      internalID: 5056391622928155254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_33
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 191
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17dab40bbc6bcad70800000000000000
+      internalID: 9055813936687590769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_34
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 191
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2de56ecd1f60f20800000000000000
+      internalID: 3388661700702950073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_35
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 159
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2f2af2369cc8560800000000000000
+      internalID: 7317444922408366799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_36
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 159
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203db7faba959a2e0800000000000000
+      internalID: -2114059956155329790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_37
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 159
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a36ee7e30f2fd410800000000000000
+      internalID: 1503972494387602343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_38
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 159
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2a32eabf24fb680800000000000000
+      internalID: -8737191103349677394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_39
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 161
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec707818d5793f00800000000000000
+      internalID: 1097037555224837354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_40
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 159
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a9c63d9148dcf10800000000000000
+      internalID: 2291633031857609217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_41
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 159
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7cde97663379ce40800000000000000
+      internalID: 5677195482781113468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_42
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 159
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad5a3610ba839310800000000000000
+      internalID: 1410623597188898218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_43
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 159
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a4fd1680a1409b0800000000000000
+      internalID: -5114934653481956715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_44
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 127
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f87227236164b7210800000000000000
+      internalID: 1331735175967680399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_45
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 127
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a70900399efce590800000000000000
+      internalID: -7643454533665224792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_46
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 127
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08350ee6e9cd306c0800000000000000
+      internalID: -4178253456246549632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_47
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 127
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615e9e0442163f530800000000000000
+      internalID: 3887557711686657302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_48
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 127
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edaa583e2e7ebda00800000000000000
+      internalID: 782473921944726238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_49
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 127
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9191ee084be7b510800000000000000
+      internalID: 1564978090254373275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_50
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 127
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db357bae40636430800000000000000
+      internalID: 3774966803666910162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_51
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 127
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c56bf67b1e749650800000000000000
+      internalID: 6238750040240383424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_52
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 95
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eee6a4823e512120800000000000000
+      internalID: 2387292848549981920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_53
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 95
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d138fe9eb07e0120800000000000000
+      internalID: 2381965216938734034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_54
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 95
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba3c577a2dced19f0800000000000000
+      internalID: -495979994444086357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_55
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 95
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae47c3ac970309380800000000000000
+      internalID: -8966613558452521750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_56
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 95
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0b9b48a313f89b0800000000000000
+      internalID: -5075784127618633517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_57
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 110
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c681c9155a01c610800000000000000
+      internalID: 1639603099960182473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_58
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 95
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25b620c2a2943f40800000000000000
+      internalID: 5707347855491380523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_59
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 95
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efbda1f2c28aac8e0800000000000000
+      internalID: -1672339403892401154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_60
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 95
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d7d518ed1f2b440800000000000000
+      internalID: 4950284878389017926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_61
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 63
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f62a474b67cda80800000000000000
+      internalID: -8440741084176158964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_62
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 63
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae6a38c73d087a90800000000000000
+      internalID: -7316083061429735762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_63
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 63
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3850ae9abeb6cc6f0800000000000000
+      internalID: -663036385218132605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_64
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 63
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c10af19d599656f0800000000000000
+      internalID: -696200465222073918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_65
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 63
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9186bb9c5486830800000000000000
+      internalID: 4064575396436777394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_66
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 63
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c927a755baaf77700800000000000000
+      internalID: 538174294274503324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_67
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 63
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc5575b26dedecd0800000000000000
+      internalID: -2527102807678034695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_68
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 63
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0481f8eb0b9517a90800000000000000
+      internalID: -7317969303854180288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_69
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 31
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ef486c9026eec30800000000000000
+      internalID: 4390554480857644648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_70
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 31
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10e045a87313f8f0800000000000000
+      internalID: -508040924073238501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_71
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 31
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23862b2d8f7f6c7e0800000000000000
+      internalID: -1745435157500630990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_72
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 31
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33a89994d8083db0800000000000000
+      internalID: -4812086492642368709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_73
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 31
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4decf733c8c5de900800000000000000
+      internalID: 715329673050967764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_74
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 31
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35ae7f93e84e0560800000000000000
+      internalID: 7281837789975323966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_75
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 31
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab4efaf186ac2900800000000000000
+      internalID: 661086322508581798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_76
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 31
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17cacb7358effd5c0800000000000000
+      internalID: -4188349280312054671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_77
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38224d68952dd040800000000000000
+      internalID: 4673933324878751804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_78
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 0
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3018d0d49fbca80800000000000000
+      internalID: -8445382566868876375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_79
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 0
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51f587babcddc090800000000000000
+      internalID: -8012505467521207974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_80
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 0
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b6e3015a7864e00800000000000000
+      internalID: 1028658707912616809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_81
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 0
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b98a59d6ea65150800000000000000
+      internalID: 5861063750754802538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_82
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 0
+        width: 75
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911d34a9dead75f10800000000000000
+      internalID: 2258514452179833113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_83
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 0
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5928e5882957281e0800000000000000
+      internalID: -2197064395989810539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Character Wood 64x32_84
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 0
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016c2213b08d3e8a0800000000000000
+      internalID: -6276935913043737072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      All Character Wood 64x32_0: -7060472727965580092
+      All Character Wood 64x32_1: -5996117911638973586
+      All Character Wood 64x32_10: 3856610651398834553
+      All Character Wood 64x32_11: -4014495567799813185
+      All Character Wood 64x32_12: -1987363795455103405
+      All Character Wood 64x32_13: 5013963550373865568
+      All Character Wood 64x32_14: 8149988479947114566
+      All Character Wood 64x32_15: 8649801581397954170
+      All Character Wood 64x32_16: 336993976077062992
+      All Character Wood 64x32_17: 1212918514308210007
+      All Character Wood 64x32_18: -2860298205937960450
+      All Character Wood 64x32_19: -3159163176946857292
+      All Character Wood 64x32_2: -3847090549830634524
+      All Character Wood 64x32_20: -8860671570844769392
+      All Character Wood 64x32_21: -599954504979472412
+      All Character Wood 64x32_22: 7241320114471421810
+      All Character Wood 64x32_23: -4842815104879853705
+      All Character Wood 64x32_24: -8882864832898684255
+      All Character Wood 64x32_25: -8046344846004650983
+      All Character Wood 64x32_26: 2858937139863785362
+      All Character Wood 64x32_27: 1280675363901943920
+      All Character Wood 64x32_28: -8514452682128833154
+      All Character Wood 64x32_29: 3675455183597794543
+      All Character Wood 64x32_3: 3714898623397675003
+      All Character Wood 64x32_30: -8728860906280458357
+      All Character Wood 64x32_31: 525526966849315011
+      All Character Wood 64x32_32: 5056391622928155254
+      All Character Wood 64x32_33: 9055813936687590769
+      All Character Wood 64x32_34: 3388661700702950073
+      All Character Wood 64x32_35: 7317444922408366799
+      All Character Wood 64x32_36: -2114059956155329790
+      All Character Wood 64x32_37: 1503972494387602343
+      All Character Wood 64x32_38: -8737191103349677394
+      All Character Wood 64x32_39: 1097037555224837354
+      All Character Wood 64x32_4: -651913439537463637
+      All Character Wood 64x32_40: 2291633031857609217
+      All Character Wood 64x32_41: 5677195482781113468
+      All Character Wood 64x32_42: 1410623597188898218
+      All Character Wood 64x32_43: -5114934653481956715
+      All Character Wood 64x32_44: 1331735175967680399
+      All Character Wood 64x32_45: -7643454533665224792
+      All Character Wood 64x32_46: -4178253456246549632
+      All Character Wood 64x32_47: 3887557711686657302
+      All Character Wood 64x32_48: 782473921944726238
+      All Character Wood 64x32_49: 1564978090254373275
+      All Character Wood 64x32_5: 269911110244235230
+      All Character Wood 64x32_50: 3774966803666910162
+      All Character Wood 64x32_51: 6238750040240383424
+      All Character Wood 64x32_52: 2387292848549981920
+      All Character Wood 64x32_53: 2381965216938734034
+      All Character Wood 64x32_54: -495979994444086357
+      All Character Wood 64x32_55: -8966613558452521750
+      All Character Wood 64x32_56: -5075784127618633517
+      All Character Wood 64x32_57: 1639603099960182473
+      All Character Wood 64x32_58: 5707347855491380523
+      All Character Wood 64x32_59: -1672339403892401154
+      All Character Wood 64x32_6: -4799635995011185015
+      All Character Wood 64x32_60: 4950284878389017926
+      All Character Wood 64x32_61: -8440741084176158964
+      All Character Wood 64x32_62: -7316083061429735762
+      All Character Wood 64x32_63: -663036385218132605
+      All Character Wood 64x32_64: -696200465222073918
+      All Character Wood 64x32_65: 4064575396436777394
+      All Character Wood 64x32_66: 538174294274503324
+      All Character Wood 64x32_67: -2527102807678034695
+      All Character Wood 64x32_68: -7317969303854180288
+      All Character Wood 64x32_69: 4390554480857644648
+      All Character Wood 64x32_7: -4636456989386400797
+      All Character Wood 64x32_70: -508040924073238501
+      All Character Wood 64x32_71: -1745435157500630990
+      All Character Wood 64x32_72: -4812086492642368709
+      All Character Wood 64x32_73: 715329673050967764
+      All Character Wood 64x32_74: 7281837789975323966
+      All Character Wood 64x32_75: 661086322508581798
+      All Character Wood 64x32_76: -4188349280312054671
+      All Character Wood 64x32_77: 4673933324878751804
+      All Character Wood 64x32_78: -8445382566868876375
+      All Character Wood 64x32_79: -8012505467521207974
+      All Character Wood 64x32_8: 3907142083582282875
+      All Character Wood 64x32_80: 1028658707912616809
+      All Character Wood 64x32_81: 5861063750754802538
+      All Character Wood 64x32_82: 2258514452179833113
+      All Character Wood 64x32_83: -2197064395989810539
+      All Character Wood 64x32_84: -6276935913043737072
+      All Character Wood 64x32_9: -239018831430914385
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

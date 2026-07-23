@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 5d3f5d8da8a88d546a83e2aa11679d5b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3649604642074189299
+    second: Character Fishing rod 6 64x32_0
+  - first:
+      213: -1497713275835063352
+    second: Character Fishing rod 6 64x32_1
+  - first:
+      213: 6788729304812255406
+    second: Character Fishing rod 6 64x32_2
+  - first:
+      213: 6212033035300913724
+    second: Character Fishing rod 6 64x32_3
+  - first:
+      213: -5855330253379578842
+    second: Character Fishing rod 6 64x32_4
+  - first:
+      213: -2728147125138418369
+    second: Character Fishing rod 6 64x32_5
+  - first:
+      213: 5058007578496057992
+    second: Character Fishing rod 6 64x32_6
+  - first:
+      213: 4187723763573931105
+    second: Character Fishing rod 6 64x32_7
+  - first:
+      213: -7728273595825476121
+    second: Character Fishing rod 6 64x32_8
+  - first:
+      213: 6255531398188442846
+    second: Character Fishing rod 6 64x32_9
+  - first:
+      213: -8181510087705511112
+    second: Character Fishing rod 6 64x32_10
+  - first:
+      213: -8928164962406289878
+    second: Character Fishing rod 6 64x32_11
+  - first:
+      213: 6740872963432489258
+    second: Character Fishing rod 6 64x32_12
+  - first:
+      213: -4725715235301595596
+    second: Character Fishing rod 6 64x32_13
+  - first:
+      213: 5315946517075613545
+    second: Character Fishing rod 6 64x32_14
+  - first:
+      213: 3864086357576403094
+    second: Character Fishing rod 6 64x32_15
+  - first:
+      213: -7411546073776684849
+    second: Character Fishing rod 6 64x32_16
+  - first:
+      213: -926468005063299995
+    second: Character Fishing rod 6 64x32_17
+  - first:
+      213: -3894984726041761266
+    second: Character Fishing rod 6 64x32_18
+  - first:
+      213: -6898995439108194528
+    second: Character Fishing rod 6 64x32_19
+  - first:
+      213: -5219430436377192980
+    second: Character Fishing rod 6 64x32_20
+  - first:
+      213: -2868488252033163237
+    second: Character Fishing rod 6 64x32_21
+  - first:
+      213: 2353472839332711245
+    second: Character Fishing rod 6 64x32_22
+  - first:
+      213: -8173314490024654768
+    second: Character Fishing rod 6 64x32_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Character Fishing rod 6 64x32_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 63
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d022d8a1aeff95dc0800000000000000
+      internalID: -3649604642074189299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Fishing rod 6 64x32_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 63
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3e67af5bd073be0800000000000000
+      internalID: -1497713275835063352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Fishing rod 6 64x32_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 63
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea87e91a559663e50800000000000000
+      internalID: 6788729304812255406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Fishing rod 6 64x32_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 63
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c324a120223953650800000000000000
+      internalID: 6212033035300913724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Fishing rod 6 64x32_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 63
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62456bc4820bdbea0800000000000000
+      internalID: -5855330253379578842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Fishing rod 6 64x32_5
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 63
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f351f1fd4aca32ad0800000000000000
+      internalID: -2728147125138418369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Fishing rod 6 64x32_6
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 63
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882cd7b1817a13640800000000000000
+      internalID: 5058007578496057992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Fishing rod 6 64x32_7
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 63
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c39415398cd1a30800000000000000
+      internalID: 4187723763573931105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Fishing rod 6 64x32_8
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 31
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7edaac95c18afb490800000000000000
+      internalID: -7728273595825476121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Fishing rod 6 64x32_9
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 31
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed42356d9ac10d650800000000000000
+      internalID: 6255531398188442846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Fishing rod 6 64x32_10
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 31
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83bb9083cef657e80800000000000000
+      internalID: -8181510087705511112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Fishing rod 6 64x32_11
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 31
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e2fa72549c81480800000000000000
+      internalID: -8928164962406289878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Fishing rod 6 64x32_12
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 31
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21ad6dde346c8d50800000000000000
+      internalID: 6740872963432489258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Fishing rod 6 64x32_13
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 31
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 436623a0803ea6eb0800000000000000
+      internalID: -4725715235301595596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Fishing rod 6 64x32_14
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 31
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9675443313906c940800000000000000
+      internalID: 5315946517075613545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Fishing rod 6 64x32_15
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 31
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69846c4c11eff9530800000000000000
+      internalID: 3864086357576403094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Fishing rod 6 64x32_16
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0891c2d16e42990800000000000000
+      internalID: -7411546073776684849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Fishing rod 6 64x32_17
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 0
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56cef6e02468423f0800000000000000
+      internalID: -926468005063299995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Fishing rod 6 64x32_18
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 0
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a65b6370c32f9c0800000000000000
+      internalID: -3894984726041761266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Fishing rod 6 64x32_19
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 0
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f7ae85338d140a0800000000000000
+      internalID: -6898995439108194528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Fishing rod 6 64x32_20
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 0
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce510edfbabd097b0800000000000000
+      internalID: -5219430436377192980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Fishing rod 6 64x32_21
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 0
+        width: 75
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10ae27f1251138d0800000000000000
+      internalID: -2868488252033163237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Fishing rod 6 64x32_22
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 0
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4bc4f0041739a020800000000000000
+      internalID: 2353472839332711245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Fishing rod 6 64x32_23
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 0
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058078086cd829e80800000000000000
+      internalID: -8173314490024654768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Character Fishing rod 6 64x32_0: -3649604642074189299
+      Character Fishing rod 6 64x32_1: -1497713275835063352
+      Character Fishing rod 6 64x32_10: -8181510087705511112
+      Character Fishing rod 6 64x32_11: -8928164962406289878
+      Character Fishing rod 6 64x32_12: 6740872963432489258
+      Character Fishing rod 6 64x32_13: -4725715235301595596
+      Character Fishing rod 6 64x32_14: 5315946517075613545
+      Character Fishing rod 6 64x32_15: 3864086357576403094
+      Character Fishing rod 6 64x32_16: -7411546073776684849
+      Character Fishing rod 6 64x32_17: -926468005063299995
+      Character Fishing rod 6 64x32_18: -3894984726041761266
+      Character Fishing rod 6 64x32_19: -6898995439108194528
+      Character Fishing rod 6 64x32_2: 6788729304812255406
+      Character Fishing rod 6 64x32_20: -5219430436377192980
+      Character Fishing rod 6 64x32_21: -2868488252033163237
+      Character Fishing rod 6 64x32_22: 2353472839332711245
+      Character Fishing rod 6 64x32_23: -8173314490024654768
+      Character Fishing rod 6 64x32_3: 6212033035300913724
+      Character Fishing rod 6 64x32_4: -5855330253379578842
+      Character Fishing rod 6 64x32_5: -2728147125138418369
+      Character Fishing rod 6 64x32_6: 5058007578496057992
+      Character Fishing rod 6 64x32_7: 4187723763573931105
+      Character Fishing rod 6 64x32_8: -7728273595825476121
+      Character Fishing rod 6 64x32_9: 6255531398188442846
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

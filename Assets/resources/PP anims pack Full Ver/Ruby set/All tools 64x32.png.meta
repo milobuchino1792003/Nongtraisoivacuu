@@ -1,0 +1,2340 @@
+fileFormatVersion: 2
+guid: 88b2dbcbebb5b064ca6e11f278f5ab2e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7631557544211424621
+    second: All tools 64x32_0
+  - first:
+      213: -4646527432082260998
+    second: All tools 64x32_1
+  - first:
+      213: -2030562431593646032
+    second: All tools 64x32_2
+  - first:
+      213: -6954196558084383642
+    second: All tools 64x32_3
+  - first:
+      213: 2551331707403031862
+    second: All tools 64x32_4
+  - first:
+      213: -6043954975958141175
+    second: All tools 64x32_5
+  - first:
+      213: 1430340655954463382
+    second: All tools 64x32_6
+  - first:
+      213: -6481065851796394302
+    second: All tools 64x32_7
+  - first:
+      213: 7723413909055246538
+    second: All tools 64x32_8
+  - first:
+      213: -775738927632413152
+    second: All tools 64x32_9
+  - first:
+      213: 1822667852319114104
+    second: All tools 64x32_10
+  - first:
+      213: 160931844362219929
+    second: All tools 64x32_11
+  - first:
+      213: -5391961936153506680
+    second: All tools 64x32_12
+  - first:
+      213: -1451626225007209274
+    second: All tools 64x32_13
+  - first:
+      213: -2153825191768611886
+    second: All tools 64x32_14
+  - first:
+      213: -2595559136182446812
+    second: All tools 64x32_15
+  - first:
+      213: 6093345547522066745
+    second: All tools 64x32_16
+  - first:
+      213: -7560965583513203219
+    second: All tools 64x32_17
+  - first:
+      213: 2732831740830154491
+    second: All tools 64x32_18
+  - first:
+      213: 922990530038834908
+    second: All tools 64x32_19
+  - first:
+      213: -2279134722752837781
+    second: All tools 64x32_20
+  - first:
+      213: -8056695515547973586
+    second: All tools 64x32_21
+  - first:
+      213: 1448358035284562302
+    second: All tools 64x32_22
+  - first:
+      213: 9223059876030939242
+    second: All tools 64x32_23
+  - first:
+      213: -1299559665280757609
+    second: All tools 64x32_24
+  - first:
+      213: -469455758123506439
+    second: All tools 64x32_25
+  - first:
+      213: 8842904687012832101
+    second: All tools 64x32_26
+  - first:
+      213: 4159767395421822974
+    second: All tools 64x32_27
+  - first:
+      213: -1728357692580795555
+    second: All tools 64x32_28
+  - first:
+      213: -3583689251635483766
+    second: All tools 64x32_29
+  - first:
+      213: -8269955654597596932
+    second: All tools 64x32_30
+  - first:
+      213: 3084772295999563157
+    second: All tools 64x32_31
+  - first:
+      213: 268158674710063622
+    second: All tools 64x32_32
+  - first:
+      213: 5177121006640134359
+    second: All tools 64x32_33
+  - first:
+      213: -1215434929029526233
+    second: All tools 64x32_34
+  - first:
+      213: -3437055498785250470
+    second: All tools 64x32_35
+  - first:
+      213: 1688164408994071178
+    second: All tools 64x32_36
+  - first:
+      213: 4279675198931204702
+    second: All tools 64x32_37
+  - first:
+      213: -1598063331969189716
+    second: All tools 64x32_38
+  - first:
+      213: -2592145030121454010
+    second: All tools 64x32_39
+  - first:
+      213: -7053367203168041341
+    second: All tools 64x32_40
+  - first:
+      213: -5383250502872359210
+    second: All tools 64x32_41
+  - first:
+      213: -1132144253038921156
+    second: All tools 64x32_42
+  - first:
+      213: -2164290168373286150
+    second: All tools 64x32_43
+  - first:
+      213: -231083413960861194
+    second: All tools 64x32_44
+  - first:
+      213: 1525428004043541993
+    second: All tools 64x32_45
+  - first:
+      213: 8786671376671717058
+    second: All tools 64x32_46
+  - first:
+      213: 599498535201058272
+    second: All tools 64x32_47
+  - first:
+      213: 7330276644983619231
+    second: All tools 64x32_48
+  - first:
+      213: -8612431857048390542
+    second: All tools 64x32_49
+  - first:
+      213: 1138833526441696543
+    second: All tools 64x32_50
+  - first:
+      213: -1543472788894555787
+    second: All tools 64x32_51
+  - first:
+      213: 7757044259172969384
+    second: All tools 64x32_52
+  - first:
+      213: 643170701618689539
+    second: All tools 64x32_53
+  - first:
+      213: 5109784490428939578
+    second: All tools 64x32_54
+  - first:
+      213: 6430806139488063512
+    second: All tools 64x32_55
+  - first:
+      213: 146652770155216196
+    second: All tools 64x32_56
+  - first:
+      213: -4887244226877789873
+    second: All tools 64x32_57
+  - first:
+      213: 7550819583666109018
+    second: All tools 64x32_58
+  - first:
+      213: -2690930327382854439
+    second: All tools 64x32_59
+  - first:
+      213: 4261403907859993668
+    second: All tools 64x32_60
+  - first:
+      213: 479086178667932951
+    second: All tools 64x32_61
+  - first:
+      213: -6120127117106907475
+    second: All tools 64x32_62
+  - first:
+      213: 3759031623238817033
+    second: All tools 64x32_63
+  - first:
+      213: -6293552268253339261
+    second: All tools 64x32_64
+  - first:
+      213: 6960225159795683048
+    second: All tools 64x32_65
+  - first:
+      213: 4582191625442402255
+    second: All tools 64x32_66
+  - first:
+      213: 8661880225469639343
+    second: All tools 64x32_67
+  - first:
+      213: -373294138064783033
+    second: All tools 64x32_68
+  - first:
+      213: 4162733287366690569
+    second: All tools 64x32_69
+  - first:
+      213: 9098381056287357624
+    second: All tools 64x32_70
+  - first:
+      213: 6774518260692238227
+    second: All tools 64x32_71
+  - first:
+      213: 2764085010781797101
+    second: All tools 64x32_72
+  - first:
+      213: -6376330289179107602
+    second: All tools 64x32_73
+  - first:
+      213: 4280680948749402900
+    second: All tools 64x32_74
+  - first:
+      213: 2287850863725176446
+    second: All tools 64x32_75
+  - first:
+      213: -6870857372348874426
+    second: All tools 64x32_76
+  - first:
+      213: -89509352115418939
+    second: All tools 64x32_77
+  - first:
+      213: 510485353863693609
+    second: All tools 64x32_78
+  - first:
+      213: -7803396789806860718
+    second: All tools 64x32_79
+  - first:
+      213: 8117832028984779683
+    second: All tools 64x32_80
+  - first:
+      213: 1723415878223790787
+    second: All tools 64x32_81
+  - first:
+      213: -7021497886684291862
+    second: All tools 64x32_82
+  - first:
+      213: 7434781106736895308
+    second: All tools 64x32_83
+  - first:
+      213: 6356889096299354631
+    second: All tools 64x32_84
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: All tools 64x32_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 290
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a5356e8d2471690800000000000000
+      internalID: -7631557544211424621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 290
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbf0ab3be7348fb0800000000000000
+      internalID: -4646527432082260998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 289
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0387b921a3ef1d3e0800000000000000
+      internalID: -2030562431593646032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 291
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66cd229431bbd7f90800000000000000
+      internalID: -6954196558084383642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_4
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 291
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635d2fb9ba6286320800000000000000
+      internalID: 2551331707403031862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_5
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 292
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9077f8bb8fe8f1ca0800000000000000
+      internalID: -6043954975958141175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_6
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 288
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a07f19f3799d310800000000000000
+      internalID: 1430340655954463382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_7
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 289
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cee2c922f0ae06a0800000000000000
+      internalID: -6481065851796394302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_8
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 290
+        width: 35
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac09c86a7041f2b60800000000000000
+      internalID: 7723413909055246538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 260
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e070c2e850c35f0800000000000000
+      internalID: -775738927632413152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 260
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873410931ca6b4910800000000000000
+      internalID: 1822667852319114104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_11
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 255
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9913248e8aebb3200800000000000000
+      internalID: 160931844362219929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_12
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 255
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c8429df27eb25b0800000000000000
+      internalID: -5391961936153506680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_13
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 255
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4ddcfa3a9cadbe0800000000000000
+      internalID: -1451626225007209274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_14
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 255
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3285846631c12e0800000000000000
+      internalID: -2153825191768611886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_15
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 255
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425535ea7b8bafbd0800000000000000
+      internalID: -2595559136182446812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_16
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 255
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939c2c5dd79ef8450800000000000000
+      internalID: 6093345547522066745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_17
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 228
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dedcdbb8cdd021790800000000000000
+      internalID: -7560965583513203219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_18
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 228
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfef7173df7fce520800000000000000
+      internalID: 2732831740830154491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_19
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 223
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6a3023ffe1fcc00800000000000000
+      internalID: 922990530038834908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_20
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 223
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b670f078b03ee50e0800000000000000
+      internalID: -2279134722752837781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_21
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 223
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28c7446d1ed03090800000000000000
+      internalID: -8056695515547973586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_22
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 223
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7118b895f9991410800000000000000
+      internalID: 1448358035284562302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_23
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 223
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a608bf46714eeff70800000000000000
+      internalID: 9223059876030939242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_24
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 223
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790d38aae5907fde0800000000000000
+      internalID: -1299559665280757609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_25
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 223
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4694ba9782c79f0800000000000000
+      internalID: -469455758123506439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_26
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 196
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563690c06fe48ba70800000000000000
+      internalID: 8842904687012832101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_27
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 196
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff9e5028667ab930800000000000000
+      internalID: 4159767395421822974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_28
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 191
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b68e8f5d3a308e0800000000000000
+      internalID: -1728357692580795555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_29
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 191
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ba1e2ec9d244ec0800000000000000
+      internalID: -3583689251635483766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_30
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 191
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf82a73f5273b3d80800000000000000
+      internalID: -8269955654597596932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_31
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 191
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59525043f005fca20800000000000000
+      internalID: 3084772295999563157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_32
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 191
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a6885d4e0b8b300800000000000000
+      internalID: 268158674710063622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_33
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 191
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d87fff3024d8d740800000000000000
+      internalID: 5177121006640134359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_34
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 191
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72dc7972f58e12fe0800000000000000
+      internalID: -1215434929029526233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a532a91fb302d40d0800000000000000
+      internalID: -3437055498785250470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_36
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 163
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a828c80f5909d6710800000000000000
+      internalID: 1688164408994071178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_37
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 160
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5af7523be5746b30800000000000000
+      internalID: 4279675198931204702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_38
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 160
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca83661ddd982d9e0800000000000000
+      internalID: -1598063331969189716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_39
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 161
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646015134d9d60cd0800000000000000
+      internalID: -2592145030121454010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_40
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 162
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38647c826e76d1e90800000000000000
+      internalID: -7053367203168041341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_41
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 163
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de9957703ada45b0800000000000000
+      internalID: -5383250502872359210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_42
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 162
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a7d1bdcc0d940f0800000000000000
+      internalID: -1132144253038921156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_43
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 161
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa6d3b0f85e6f1e0800000000000000
+      internalID: -2164290168373286150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_44
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 127
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9d06dfbd60bccf0800000000000000
+      internalID: -231083413960861194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_45
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9edc27700b86b2510800000000000000
+      internalID: 1525428004043541993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_46
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 129
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c63c94301780f970800000000000000
+      internalID: 8786671376671717058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_47
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 129
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eda602ddb8d15800800000000000000
+      internalID: 599498535201058272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_48
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 128
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e379965cf5ab560800000000000000
+      internalID: 7330276644983619231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_49
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 127
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2747f5c4bde7a7880800000000000000
+      internalID: -8612431857048390542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_50
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 127
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ddcd9fe03fdcf00800000000000000
+      internalID: 1138833526441696543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_51
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 127
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57165791dab749ae0800000000000000
+      internalID: -1543472788894555787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_52
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 98
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8abecf6b7ae86ab60800000000000000
+      internalID: 7757044259172969384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_53
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 110
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306bbef68500de800800000000000000
+      internalID: 643170701618689539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_54
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 98
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d31d6dbe999e640800000000000000
+      internalID: 5109784490428939578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_55
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 98
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810569bac10de3950800000000000000
+      internalID: 6430806139488063512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_56
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 97
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44dbd6edae3090200800000000000000
+      internalID: 146652770155216196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_57
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 96
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49ee56f4450d2cb0800000000000000
+      internalID: -4887244226877789873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_58
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 97
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a3b77c766e9c860800000000000000
+      internalID: 7550819583666109018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_59
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 95
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4f409df15e7aad0800000000000000
+      internalID: -2690930327382854439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_60
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 96
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444d47cb64c832b30800000000000000
+      internalID: 4261403907859993668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_61
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 65
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d2d48575e06a600800000000000000
+      internalID: 479086178667932951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_62
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 65
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da67b9410d0f01ba0800000000000000
+      internalID: -6120127117106907475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_63
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 66
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9051c9a5853ca2430800000000000000
+      internalID: 3759031623238817033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_64
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 66
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381e7638e8fc8a8a0800000000000000
+      internalID: -6293552268253339261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_65
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 66
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eeab5ee7efa79060800000000000000
+      internalID: 6960225159795683048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_66
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 65
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf934f7107379f30800000000000000
+      internalID: 4582191625442402255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_67
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 65
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa29162c2e253870800000000000000
+      internalID: 8661880225469639343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_68
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 64
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749b9ef85fac1daf0800000000000000
+      internalID: -373294138064783033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_69
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 31
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9078f28aedff4c930800000000000000
+      internalID: 4162733287366690569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_70
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 31
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bab62b8d51f34e70800000000000000
+      internalID: 9098381056287357624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_71
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 31
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f35f4177ce30e50800000000000000
+      internalID: 6774518260692238227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_72
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 31
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea71ac2ca00c5620800000000000000
+      internalID: 2764085010781797101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_73
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 31
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee5aee9269b287a0800000000000000
+      internalID: -6376330289179107602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_74
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 31
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4138df294a8086b30800000000000000
+      internalID: 4280680948749402900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_75
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 31
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76e86f2d3410cf10800000000000000
+      internalID: 2287850863725176446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_76
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 31
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64185ca8f9fc5a0a0800000000000000
+      internalID: -6870857372348874426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_77
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8c51fe7bff1cef0800000000000000
+      internalID: -89509352115418939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_78
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 0
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925c51489bb951700800000000000000
+      internalID: 510485353863693609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_79
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 0
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256732eb6f3c4b390800000000000000
+      internalID: -7803396789806860718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_80
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a32de1683558a070800000000000000
+      internalID: 8117832028984779683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_81
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 3
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c20cc53c9dcae710800000000000000
+      internalID: 1723415878223790787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_82
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 75
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aecd601afd0ae8e90800000000000000
+      internalID: -7021497886684291862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_83
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 3
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4596d18606ad2760800000000000000
+      internalID: 7434781106736895308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools 64x32_84
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 3
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a1a7de3f4383850800000000000000
+      internalID: 6356889096299354631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      All tools 64x32_0: -7631557544211424621
+      All tools 64x32_1: -4646527432082260998
+      All tools 64x32_10: 1822667852319114104
+      All tools 64x32_11: 160931844362219929
+      All tools 64x32_12: -5391961936153506680
+      All tools 64x32_13: -1451626225007209274
+      All tools 64x32_14: -2153825191768611886
+      All tools 64x32_15: -2595559136182446812
+      All tools 64x32_16: 6093345547522066745
+      All tools 64x32_17: -7560965583513203219
+      All tools 64x32_18: 2732831740830154491
+      All tools 64x32_19: 922990530038834908
+      All tools 64x32_2: -2030562431593646032
+      All tools 64x32_20: -2279134722752837781
+      All tools 64x32_21: -8056695515547973586
+      All tools 64x32_22: 1448358035284562302
+      All tools 64x32_23: 9223059876030939242
+      All tools 64x32_24: -1299559665280757609
+      All tools 64x32_25: -469455758123506439
+      All tools 64x32_26: 8842904687012832101
+      All tools 64x32_27: 4159767395421822974
+      All tools 64x32_28: -1728357692580795555
+      All tools 64x32_29: -3583689251635483766
+      All tools 64x32_3: -6954196558084383642
+      All tools 64x32_30: -8269955654597596932
+      All tools 64x32_31: 3084772295999563157
+      All tools 64x32_32: 268158674710063622
+      All tools 64x32_33: 5177121006640134359
+      All tools 64x32_34: -1215434929029526233
+      All tools 64x32_35: -3437055498785250470
+      All tools 64x32_36: 1688164408994071178
+      All tools 64x32_37: 4279675198931204702
+      All tools 64x32_38: -1598063331969189716
+      All tools 64x32_39: -2592145030121454010
+      All tools 64x32_4: 2551331707403031862
+      All tools 64x32_40: -7053367203168041341
+      All tools 64x32_41: -5383250502872359210
+      All tools 64x32_42: -1132144253038921156
+      All tools 64x32_43: -2164290168373286150
+      All tools 64x32_44: -231083413960861194
+      All tools 64x32_45: 1525428004043541993
+      All tools 64x32_46: 8786671376671717058
+      All tools 64x32_47: 599498535201058272
+      All tools 64x32_48: 7330276644983619231
+      All tools 64x32_49: -8612431857048390542
+      All tools 64x32_5: -6043954975958141175
+      All tools 64x32_50: 1138833526441696543
+      All tools 64x32_51: -1543472788894555787
+      All tools 64x32_52: 7757044259172969384
+      All tools 64x32_53: 643170701618689539
+      All tools 64x32_54: 5109784490428939578
+      All tools 64x32_55: 6430806139488063512
+      All tools 64x32_56: 146652770155216196
+      All tools 64x32_57: -4887244226877789873
+      All tools 64x32_58: 7550819583666109018
+      All tools 64x32_59: -2690930327382854439
+      All tools 64x32_6: 1430340655954463382
+      All tools 64x32_60: 4261403907859993668
+      All tools 64x32_61: 479086178667932951
+      All tools 64x32_62: -6120127117106907475
+      All tools 64x32_63: 3759031623238817033
+      All tools 64x32_64: -6293552268253339261
+      All tools 64x32_65: 6960225159795683048
+      All tools 64x32_66: 4582191625442402255
+      All tools 64x32_67: 8661880225469639343
+      All tools 64x32_68: -373294138064783033
+      All tools 64x32_69: 4162733287366690569
+      All tools 64x32_7: -6481065851796394302
+      All tools 64x32_70: 9098381056287357624
+      All tools 64x32_71: 6774518260692238227
+      All tools 64x32_72: 2764085010781797101
+      All tools 64x32_73: -6376330289179107602
+      All tools 64x32_74: 4280680948749402900
+      All tools 64x32_75: 2287850863725176446
+      All tools 64x32_76: -6870857372348874426
+      All tools 64x32_77: -89509352115418939
+      All tools 64x32_78: 510485353863693609
+      All tools 64x32_79: -7803396789806860718
+      All tools 64x32_8: 7723413909055246538
+      All tools 64x32_80: 8117832028984779683
+      All tools 64x32_81: 1723415878223790787
+      All tools 64x32_82: -7021497886684291862
+      All tools 64x32_83: 7434781106736895308
+      All tools 64x32_84: 6356889096299354631
+      All tools 64x32_9: -775738927632413152
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

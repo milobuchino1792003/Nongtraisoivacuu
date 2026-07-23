@@ -1,0 +1,4004 @@
+fileFormatVersion: 2
+guid: 550113b49481aaf45b7742d0d14bb12a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6266035678457967461
+    second: All Emerald 64x32_0
+  - first:
+      213: -1569262157498804110
+    second: All Emerald 64x32_1
+  - first:
+      213: 4332764845843610509
+    second: All Emerald 64x32_2
+  - first:
+      213: 1600553568046288536
+    second: All Emerald 64x32_3
+  - first:
+      213: 86331591376821785
+    second: All Emerald 64x32_4
+  - first:
+      213: 4871841883966009591
+    second: All Emerald 64x32_5
+  - first:
+      213: 3073688850994425616
+    second: All Emerald 64x32_6
+  - first:
+      213: -2009683802224180242
+    second: All Emerald 64x32_7
+  - first:
+      213: 8409577579110120133
+    second: All Emerald 64x32_8
+  - first:
+      213: 324056768295213229
+    second: All Emerald 64x32_9
+  - first:
+      213: -3692642739528606310
+    second: All Emerald 64x32_10
+  - first:
+      213: 8529439790800490824
+    second: All Emerald 64x32_11
+  - first:
+      213: 6582440721003121932
+    second: All Emerald 64x32_12
+  - first:
+      213: -1947602156864578371
+    second: All Emerald 64x32_13
+  - first:
+      213: -4196189032403583176
+    second: All Emerald 64x32_14
+  - first:
+      213: 3240111229971518485
+    second: All Emerald 64x32_15
+  - first:
+      213: -7219921349542405164
+    second: All Emerald 64x32_16
+  - first:
+      213: -8981389509782273861
+    second: All Emerald 64x32_17
+  - first:
+      213: 2233984996645751948
+    second: All Emerald 64x32_18
+  - first:
+      213: 2343572023691334023
+    second: All Emerald 64x32_19
+  - first:
+      213: -9196512806619182364
+    second: All Emerald 64x32_20
+  - first:
+      213: -8624111218905755186
+    second: All Emerald 64x32_21
+  - first:
+      213: 7713159591229609432
+    second: All Emerald 64x32_22
+  - first:
+      213: -1222232035237164663
+    second: All Emerald 64x32_23
+  - first:
+      213: -6175287683923964974
+    second: All Emerald 64x32_24
+  - first:
+      213: -7439893363207380082
+    second: All Emerald 64x32_25
+  - first:
+      213: -6463834348314922711
+    second: All Emerald 64x32_26
+  - first:
+      213: 2087190812302475843
+    second: All Emerald 64x32_27
+  - first:
+      213: 442541439407663687
+    second: All Emerald 64x32_28
+  - first:
+      213: 1154259340155707842
+    second: All Emerald 64x32_29
+  - first:
+      213: 4322953098622385825
+    second: All Emerald 64x32_30
+  - first:
+      213: 3089065728124070593
+    second: All Emerald 64x32_31
+  - first:
+      213: 1669344422994366748
+    second: All Emerald 64x32_32
+  - first:
+      213: -6070108456338836298
+    second: All Emerald 64x32_33
+  - first:
+      213: -3321789730241547670
+    second: All Emerald 64x32_34
+  - first:
+      213: 2721641679326986604
+    second: All Emerald 64x32_35
+  - first:
+      213: 2498046048859824977
+    second: All Emerald 64x32_36
+  - first:
+      213: 7148570573968249041
+    second: All Emerald 64x32_37
+  - first:
+      213: 8907913242406070724
+    second: All Emerald 64x32_38
+  - first:
+      213: 613919348095185151
+    second: All Emerald 64x32_39
+  - first:
+      213: -3440060267805507299
+    second: All Emerald 64x32_40
+  - first:
+      213: 7323883218436929117
+    second: All Emerald 64x32_41
+  - first:
+      213: 6015256429484524078
+    second: All Emerald 64x32_42
+  - first:
+      213: -1078925078253415732
+    second: All Emerald 64x32_43
+  - first:
+      213: 3453221547269000613
+    second: All Emerald 64x32_44
+  - first:
+      213: -7800257411617857023
+    second: All Emerald 64x32_45
+  - first:
+      213: 4529293066689216783
+    second: All Emerald 64x32_46
+  - first:
+      213: 54167095250873571
+    second: All Emerald 64x32_47
+  - first:
+      213: -6643642021989372940
+    second: All Emerald 64x32_48
+  - first:
+      213: 946431911402585701
+    second: All Emerald 64x32_49
+  - first:
+      213: 5173585588929233297
+    second: All Emerald 64x32_50
+  - first:
+      213: 2691191253833591351
+    second: All Emerald 64x32_51
+  - first:
+      213: -8822440437962356279
+    second: All Emerald 64x32_52
+  - first:
+      213: 1346006762153106192
+    second: All Emerald 64x32_53
+  - first:
+      213: 4709432957370731170
+    second: All Emerald 64x32_54
+  - first:
+      213: -7939476003718353923
+    second: All Emerald 64x32_55
+  - first:
+      213: -5859875097457899931
+    second: All Emerald 64x32_56
+  - first:
+      213: -708046527287378282
+    second: All Emerald 64x32_57
+  - first:
+      213: -6194428349468123128
+    second: All Emerald 64x32_58
+  - first:
+      213: -1584727631704783755
+    second: All Emerald 64x32_59
+  - first:
+      213: 2138509272171942225
+    second: All Emerald 64x32_60
+  - first:
+      213: 6638786863449404533
+    second: All Emerald 64x32_61
+  - first:
+      213: 5872061364177452544
+    second: All Emerald 64x32_62
+  - first:
+      213: -2312913648577441876
+    second: All Emerald 64x32_63
+  - first:
+      213: -1656871532633485951
+    second: All Emerald 64x32_64
+  - first:
+      213: 7181793120540354012
+    second: All Emerald 64x32_65
+  - first:
+      213: -5165129101718204668
+    second: All Emerald 64x32_66
+  - first:
+      213: -6718241185034674865
+    second: All Emerald 64x32_67
+  - first:
+      213: -1640465380687536244
+    second: All Emerald 64x32_68
+  - first:
+      213: -6402317421043901956
+    second: All Emerald 64x32_69
+  - first:
+      213: -1843916723214679158
+    second: All Emerald 64x32_70
+  - first:
+      213: 7721467855416138736
+    second: All Emerald 64x32_71
+  - first:
+      213: 5627076947598465656
+    second: All Emerald 64x32_72
+  - first:
+      213: 2191634040619546713
+    second: All Emerald 64x32_73
+  - first:
+      213: 8035694092833212196
+    second: All Emerald 64x32_74
+  - first:
+      213: -569884476487537638
+    second: All Emerald 64x32_75
+  - first:
+      213: 5421042236145865682
+    second: All Emerald 64x32_76
+  - first:
+      213: -3208050730874027976
+    second: All Emerald 64x32_77
+  - first:
+      213: -2348485470098570962
+    second: All Emerald 64x32_78
+  - first:
+      213: -2772749138562043156
+    second: All Emerald 64x32_79
+  - first:
+      213: 3277213312793311820
+    second: All Emerald 64x32_80
+  - first:
+      213: 2767713464183060609
+    second: All Emerald 64x32_81
+  - first:
+      213: -7462970368855472808
+    second: All Emerald 64x32_82
+  - first:
+      213: -8848398011050697555
+    second: All Emerald 64x32_83
+  - first:
+      213: 5434346059134050304
+    second: All Emerald 64x32_84
+  - first:
+      213: 1505775217347200332
+    second: All Emerald 64x32_85
+  - first:
+      213: -2606904184647765949
+    second: All Emerald 64x32_86
+  - first:
+      213: 1428870862012767149
+    second: All Emerald 64x32_87
+  - first:
+      213: -7219325914769315933
+    second: All Emerald 64x32_88
+  - first:
+      213: 8134039978963161666
+    second: All Emerald 64x32_89
+  - first:
+      213: 6166432662355179049
+    second: All Emerald 64x32_90
+  - first:
+      213: 2197919037284776626
+    second: All Emerald 64x32_91
+  - first:
+      213: 6339462094888224247
+    second: All Emerald 64x32_92
+  - first:
+      213: 923479535723159977
+    second: All Emerald 64x32_93
+  - first:
+      213: -779410015355013116
+    second: All Emerald 64x32_94
+  - first:
+      213: 7865587836113613783
+    second: All Emerald 64x32_95
+  - first:
+      213: -8614293943697199031
+    second: All Emerald 64x32_96
+  - first:
+      213: 7339847980690002503
+    second: All Emerald 64x32_97
+  - first:
+      213: -8632265970940056238
+    second: All Emerald 64x32_98
+  - first:
+      213: 7087071754041113512
+    second: All Emerald 64x32_99
+  - first:
+      213: -7374495891046153462
+    second: All Emerald 64x32_100
+  - first:
+      213: -8407162682007732304
+    second: All Emerald 64x32_101
+  - first:
+      213: -5894918447647555396
+    second: All Emerald 64x32_102
+  - first:
+      213: -8008746752324583160
+    second: All Emerald 64x32_103
+  - first:
+      213: 6153631113421356384
+    second: All Emerald 64x32_104
+  - first:
+      213: -7767611968408910655
+    second: All Emerald 64x32_105
+  - first:
+      213: 2410811266361085019
+    second: All Emerald 64x32_106
+  - first:
+      213: 7771716572105820096
+    second: All Emerald 64x32_107
+  - first:
+      213: -4176748963136892240
+    second: All Emerald 64x32_108
+  - first:
+      213: -7103386449525108287
+    second: All Emerald 64x32_109
+  - first:
+      213: -8792149935203092230
+    second: All Emerald 64x32_110
+  - first:
+      213: 2234064582175792413
+    second: All Emerald 64x32_111
+  - first:
+      213: -5277923192426166379
+    second: All Emerald 64x32_112
+  - first:
+      213: 2280950463689641707
+    second: All Emerald 64x32_113
+  - first:
+      213: 4354989681130593210
+    second: All Emerald 64x32_114
+  - first:
+      213: -6073576128491307855
+    second: All Emerald 64x32_115
+  - first:
+      213: 2228549942457447052
+    second: All Emerald 64x32_116
+  - first:
+      213: -2614353941062280246
+    second: All Emerald 64x32_117
+  - first:
+      213: 4745068262096182394
+    second: All Emerald 64x32_118
+  - first:
+      213: -722640684085089098
+    second: All Emerald 64x32_119
+  - first:
+      213: -7819263838061236693
+    second: All Emerald 64x32_120
+  - first:
+      213: 4726751099616920371
+    second: All Emerald 64x32_121
+  - first:
+      213: -6708353684890845470
+    second: All Emerald 64x32_122
+  - first:
+      213: 4978526860895933072
+    second: All Emerald 64x32_123
+  - first:
+      213: -8789547798711335161
+    second: All Emerald 64x32_124
+  - first:
+      213: -5182680622064706981
+    second: All Emerald 64x32_125
+  - first:
+      213: 4551939366494838461
+    second: All Emerald 64x32_126
+  - first:
+      213: 7015458334735797171
+    second: All Emerald 64x32_127
+  - first:
+      213: 2680697866922491926
+    second: All Emerald 64x32_128
+  - first:
+      213: -7386801438503500551
+    second: All Emerald 64x32_129
+  - first:
+      213: -4765761139948632570
+    second: All Emerald 64x32_130
+  - first:
+      213: -7672214127399125816
+    second: All Emerald 64x32_131
+  - first:
+      213: -7684944099657589345
+    second: All Emerald 64x32_132
+  - first:
+      213: 139336363392888406
+    second: All Emerald 64x32_133
+  - first:
+      213: -5243427699214898132
+    second: All Emerald 64x32_134
+  - first:
+      213: -6440581254706641815
+    second: All Emerald 64x32_135
+  - first:
+      213: 2690418422345383642
+    second: All Emerald 64x32_136
+  - first:
+      213: 1567191809921112203
+    second: All Emerald 64x32_137
+  - first:
+      213: 6327941976707929485
+    second: All Emerald 64x32_138
+  - first:
+      213: 6648369165689199638
+    second: All Emerald 64x32_139
+  - first:
+      213: 6766788619467384855
+    second: All Emerald 64x32_140
+  - first:
+      213: -3621325271306199534
+    second: All Emerald 64x32_141
+  - first:
+      213: 760326746560066898
+    second: All Emerald 64x32_142
+  - first:
+      213: -5647147100119058223
+    second: All Emerald 64x32_143
+  - first:
+      213: 633158900752235049
+    second: All Emerald 64x32_144
+  - first:
+      213: -6981316708556354575
+    second: All Emerald 64x32_145
+  - first:
+      213: -3743459583730632426
+    second: All Emerald 64x32_146
+  - first:
+      213: -6336680009219822075
+    second: All Emerald 64x32_147
+  - first:
+      213: -6584977915734726333
+    second: All Emerald 64x32_148
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: All Emerald 64x32_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 607
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563396c204e65f650800000000000000
+      internalID: 6266035678457967461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 607
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27812dec16cd83ae0800000000000000
+      internalID: -1569262157498804110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 607
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8bfecbdba2112c30800000000000000
+      internalID: 4332764845843610509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 607
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e02637dfe463610800000000000000
+      internalID: 1600553568046288536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_4
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 611
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ed8ecff16b23100800000000000000
+      internalID: 86331591376821785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_5
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 607
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0f9af91624c9340800000000000000
+      internalID: 4871841883966009591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_6
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 607
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01fe99199bfe7aa20800000000000000
+      internalID: 3073688850994425616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_7
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 607
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee34299ca3b2c14e0800000000000000
+      internalID: -2009683802224180242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_8
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 607
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cab2f99042d4b470800000000000000
+      internalID: 8409577579110120133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_9
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 575
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da81c41f9e74f7400800000000000000
+      internalID: 324056768295213229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 575
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9dd8fb2ef811ccc0800000000000000
+      internalID: -3692642739528606310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_11
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 575
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841debf7c48ae5670800000000000000
+      internalID: 8529439790800490824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_12
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 575
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d0572e5f6895b50800000000000000
+      internalID: 6582440721003121932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_13
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 575
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc5d4c382ab8f4e0800000000000000
+      internalID: -1947602156864578371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_14
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 575
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83fb131be4424c5c0800000000000000
+      internalID: -4196189032403583176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_15
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 575
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514d43f2fff27fc20800000000000000
+      internalID: 3240111229971518485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_16
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 575
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db144e09cfadcb90800000000000000
+      internalID: -7219921349542405164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_17
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 543
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0020883d1bb5380800000000000000
+      internalID: -8981389509782273861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_18
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 543
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c4f9ea485b00f10800000000000000
+      internalID: 2233984996645751948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_19
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 543
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7815aa9b65a068020800000000000000
+      internalID: 2343572023691334023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_20
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 543
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea022dd35c6f5080800000000000000
+      internalID: -9196512806619182364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_21
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 543
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec159a5f980015880800000000000000
+      internalID: -8624111218905755186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_22
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 543
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5532b38c5aa0b60800000000000000
+      internalID: 7713159591229609432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_23
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 543
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989069a8072c90fe0800000000000000
+      internalID: -1222232035237164663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_24
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 543
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db0eddc198fc4aa0800000000000000
+      internalID: -6175287683923964974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_25
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 543
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83ec37876030c890800000000000000
+      internalID: -7439893363207380082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_26
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 511
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92178b538e8db46a0800000000000000
+      internalID: -6463834348314922711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_27
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 511
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3428fb14cf037fc10800000000000000
+      internalID: 2087190812302475843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_28
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 511
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74aa84e2819342600800000000000000
+      internalID: 442541439407663687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_29
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 511
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c168ac11c0c40010800000000000000
+      internalID: 1154259340155707842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_30
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 511
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aebf0070f63efb30800000000000000
+      internalID: 4322953098622385825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_31
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 511
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca2ba4c9e09eda20800000000000000
+      internalID: 3089065728124070593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_32
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 511
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11db5c78e3ba2710800000000000000
+      internalID: 1669344422994366748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_33
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 511
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b434df0584a2cba0800000000000000
+      internalID: -6070108456338836298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_34
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 511
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62796607d1a6e1d0800000000000000
+      internalID: -3321789730241547670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_35
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 479
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61ce2effa635c520800000000000000
+      internalID: 2721641679326986604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_36
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 479
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153abde65a7daa220800000000000000
+      internalID: 2498046048859824977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_37
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 479
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d01031ff03d43360800000000000000
+      internalID: 7148570573968249041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_38
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 479
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9ac97d5e34f9b70800000000000000
+      internalID: 8907913242406070724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_39
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 481
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0f3f7f464158800800000000000000
+      internalID: 613919348095185151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_40
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 479
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d118483a9637240d0800000000000000
+      internalID: -3440060267805507299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_41
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 479
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56b06bcbf8a3a560800000000000000
+      internalID: 7323883218436929117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_42
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 479
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e224f483adb7a7350800000000000000
+      internalID: 6015256429484524078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_43
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 479
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2d1739b53e601f0800000000000000
+      internalID: -1078925078253415732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_44
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 447
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad81b783be4cef20800000000000000
+      internalID: 3453221547269000613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_45
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 447
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102e8ef263befb390800000000000000
+      internalID: -7800257411617857023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_46
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 447
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0186a30c084bde30800000000000000
+      internalID: 4529293066689216783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_47
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 447
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec61f6afa070c000800000000000000
+      internalID: 54167095250873571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_48
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 447
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb2770d7ca0dc3a0800000000000000
+      internalID: -6643642021989372940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_49
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 447
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ebe3b1fc6622d00800000000000000
+      internalID: 946431911402585701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_50
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 447
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191053baea44cc740800000000000000
+      internalID: 5173585588929233297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_51
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 447
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73aa363df28095520800000000000000
+      internalID: 2691191253833591351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_52
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 415
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9463b3a25609580800000000000000
+      internalID: -8822440437962356279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_53
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 415
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01bd86bc40afda210800000000000000
+      internalID: 1346006762153106192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_54
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 415
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa8995b2544b5140800000000000000
+      internalID: 4709432957370731170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_55
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 415
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb21a7c3a051d190800000000000000
+      internalID: -7939476003718353923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_56
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 415
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5664dd355aa8daea0800000000000000
+      internalID: -5859875097457899931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_57
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 430
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e36905f638c26f0800000000000000
+      internalID: -708046527287378282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_58
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 415
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800e7535c38f80aa0800000000000000
+      internalID: -6194428349468123128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_59
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 415
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5748d7e7d9ae10ae0800000000000000
+      internalID: -1584727631704783755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_60
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 415
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15110bc4ad28dad10800000000000000
+      internalID: 2138509272171942225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_61
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 383
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5747e6f7a75b12c50800000000000000
+      internalID: 6638786863449404533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_62
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 383
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00eb71ff2b0cd7150800000000000000
+      internalID: 5872061364177452544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_63
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 383
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf836c7a41e6efd0800000000000000
+      internalID: -2312913648577441876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_64
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 383
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d8cea9e1c9109e0800000000000000
+      internalID: -1656871532633485951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_65
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 383
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5e628dacadaa360800000000000000
+      internalID: 7181793120540354012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_66
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 383
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40fcd01b276c158b0800000000000000
+      internalID: -5165129101718204668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_67
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 383
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ddb9aac3304c2a0800000000000000
+      internalID: -6718241185034674865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_68
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 383
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f1bc58d65eb39e0800000000000000
+      internalID: -1640465380687536244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_69
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 351
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9126bf9366627a0800000000000000
+      internalID: -6402317421043901956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_70
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 351
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83036d72871966e0800000000000000
+      internalID: -1843916723214679158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_71
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 351
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb1daaba1a282b60800000000000000
+      internalID: 7721467855416138736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_72
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 351
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a55699ba4671e40800000000000000
+      internalID: 5627076947598465656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_73
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 351
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95838c45c8f3a6e10800000000000000
+      internalID: 2191634040619546713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_74
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 351
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4274707d335848f60800000000000000
+      internalID: 8035694092833212196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_75
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 351
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c63f7861d5718f0800000000000000
+      internalID: -569884476487537638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_76
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 351
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d31ddd11396b3b40800000000000000
+      internalID: 5421042236145865682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_77
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 319
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83042d47bd6ba73d0800000000000000
+      internalID: -3208050730874027976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_78
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 319
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21cb9268e0886fd0800000000000000
+      internalID: -2348485470098570962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_79
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 319
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce23db069573589d0800000000000000
+      internalID: -2772749138562043156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_80
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 319
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4af93205200b7d20800000000000000
+      internalID: 3277213312793311820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_81
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 319
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18872b05bb4e86620800000000000000
+      internalID: 2767713464183060609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_82
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 319
+        width: 75
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8558a137df33e6890800000000000000
+      internalID: -7462970368855472808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_83
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 319
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dacdc08c3ec243580800000000000000
+      internalID: -8848398011050697555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_84
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 319
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000aa39c2fcaa6b40800000000000000
+      internalID: 5434346059134050304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_85
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 287
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c45019d059695e410800000000000000
+      internalID: 1505775217347200332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_86
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 287
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340379eb47a62dbd0800000000000000
+      internalID: -2606904184647765949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_87
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 287
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab5d208a7e54d310800000000000000
+      internalID: 1428870862012767149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_88
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 287
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a72764845dcfcb90800000000000000
+      internalID: -7219325914769315933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_89
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 287
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242dceec34ae1e070800000000000000
+      internalID: 8134039978963161666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_90
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 287
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926fb03d5d1939550800000000000000
+      internalID: 6166432662355179049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_91
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 287
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba7d6628b3908e10800000000000000
+      internalID: 2197919037284776626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_92
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 287
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5cdd8ff2b4af750800000000000000
+      internalID: 6339462094888224247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_93
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 257
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a12f14bebbd0dc00800000000000000
+      internalID: 923479535723159977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_94
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 257
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408f16478bafe25f0800000000000000
+      internalID: -779410015355013116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_95
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 255
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d37f29967e282d60800000000000000
+      internalID: 7865587836113613783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_96
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 255
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94031277c41e37880800000000000000
+      internalID: -8614293943697199031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_97
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 257
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742556aa9d06cd560800000000000000
+      internalID: 7339847980690002503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_98
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 257
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25dec6bc5d7043880800000000000000
+      internalID: -8632265970940056238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_99
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 255
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab335d16365a5260800000000000000
+      internalID: 7087071754041113512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_100
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 255
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03cd901f0788a990800000000000000
+      internalID: -7374495891046153462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_101
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 226
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf32027512c35b80800000000000000
+      internalID: -8407162682007732304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_102
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 227
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0021c87ea013ea0800000000000000
+      internalID: -5894918447647555396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_103
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 227
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80141abc2473bd090800000000000000
+      internalID: -8008746752324583160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_104
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 226
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d7542f4e6166550800000000000000
+      internalID: 6153631113421356384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_105
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 224
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c40aedb116e33490800000000000000
+      internalID: -7767611968408910655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_106
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 191
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c46ffd21ce47120800000000000000
+      internalID: 2410811266361085019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_107
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 191
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c74267cb0faadb60800000000000000
+      internalID: 7771716572105820096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_108
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 191
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b29e3882f43906c0800000000000000
+      internalID: -4176748963136892240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_109
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 191
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c19bb5d8a3bb6d90800000000000000
+      internalID: -7103386449525108287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_110
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 191
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8fe3c77320cf580800000000000000
+      internalID: -8792149935203092230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_111
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 162
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d9ed1a6edf00f10800000000000000
+      internalID: 2234064582175792413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_112
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 163
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59784a3f1dc01c6b0800000000000000
+      internalID: -5277923192426166379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_113
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 163
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beecb7a9c5097af10800000000000000
+      internalID: 2280950463689641707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_114
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 162
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abbd7409a08007c30800000000000000
+      internalID: 4354989681130593210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_115
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 160
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bcbbf8b0b256bba0800000000000000
+      internalID: -6073576128491307855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_116
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 127
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82b4648d566dee10800000000000000
+      internalID: 2228549942457447052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_117
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 127
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb17d921f2f7bbd0800000000000000
+      internalID: -2614353941062280246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_118
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 127
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c1935a17ed9d140800000000000000
+      internalID: 4745068262096182394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_119
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 127
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bcecd4602aa8f5f0800000000000000
+      internalID: -722640684085089098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_120
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 95
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e6d4fa7f46c7390800000000000000
+      internalID: -7819263838061236693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_121
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 95
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3338a5ae41bc89140800000000000000
+      internalID: 4726751099616920371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_122
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 95
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eef560bdd327e2a0800000000000000
+      internalID: -6708353684890845470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_123
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 95
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09251787dc7471540800000000000000
+      internalID: 4978526860895933072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_124
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 95
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7078e7998d0450680800000000000000
+      internalID: -8789547798711335161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_125
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 63
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a5889ee6b6318b0800000000000000
+      internalID: -5182680622064706981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_126
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 63
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe9a039cbcbb2f30800000000000000
+      internalID: 4551939366494838461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_127
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 63
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb0b7a9f2aeb5160800000000000000
+      internalID: 7015458334735797171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_128
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 63
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610001cc180c33520800000000000000
+      internalID: 2680697866922491926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_129
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 63
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f487a78a3fcc7990800000000000000
+      internalID: -7386801438503500551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_130
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 63
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60640094e7d9cddb0800000000000000
+      internalID: -4765761139948632570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_131
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 63
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc34a776e1d68590800000000000000
+      internalID: -7672214127399125816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_132
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 63
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ddc25de08995590800000000000000
+      internalID: -7684944099657589345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_133
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 31
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ee35c2fa50fe100800000000000000
+      internalID: 139336363392888406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_134
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 31
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c2ad6d94a9b37b0800000000000000
+      internalID: -5243427699214898132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_135
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 31
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964cb26f8757e96a0800000000000000
+      internalID: -6440581254706641815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_136
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 31
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade3019fc49465520800000000000000
+      internalID: 2690418422345383642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_137
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 31
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88df35d5a8cfb510800000000000000
+      internalID: 1567191809921112203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_138
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 31
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8595f073bd51d750800000000000000
+      internalID: 6327941976707929485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_139
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 31
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c90981880c34c50800000000000000
+      internalID: 6648369165689199638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_140
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 31
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718628db56678ed50800000000000000
+      internalID: 6766788619467384855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_141
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e16a33ad77ebdc0800000000000000
+      internalID: -3621325271306199534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_142
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255f0f9c5293d8a00800000000000000
+      internalID: 760326746560066898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_143
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8b60fd1ad41a1b0800000000000000
+      internalID: -5647147100119058223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_144
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ab6b56aae69c800800000000000000
+      internalID: 633158900752235049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_145
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fbcff131716d1f90800000000000000
+      internalID: -6981316708556354575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_146
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 0
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61934b0a75f8c0cc0800000000000000
+      internalID: -3743459583730632426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_147
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 0
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e2223da179f08a0800000000000000
+      internalID: -6336680009219822075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Emerald 64x32_148
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 0
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349e6de69757d94a0800000000000000
+      internalID: -6584977915734726333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      All Emerald 64x32_0: 6266035678457967461
+      All Emerald 64x32_1: -1569262157498804110
+      All Emerald 64x32_10: -3692642739528606310
+      All Emerald 64x32_100: -7374495891046153462
+      All Emerald 64x32_101: -8407162682007732304
+      All Emerald 64x32_102: -5894918447647555396
+      All Emerald 64x32_103: -8008746752324583160
+      All Emerald 64x32_104: 6153631113421356384
+      All Emerald 64x32_105: -7767611968408910655
+      All Emerald 64x32_106: 2410811266361085019
+      All Emerald 64x32_107: 7771716572105820096
+      All Emerald 64x32_108: -4176748963136892240
+      All Emerald 64x32_109: -7103386449525108287
+      All Emerald 64x32_11: 8529439790800490824
+      All Emerald 64x32_110: -8792149935203092230
+      All Emerald 64x32_111: 2234064582175792413
+      All Emerald 64x32_112: -5277923192426166379
+      All Emerald 64x32_113: 2280950463689641707
+      All Emerald 64x32_114: 4354989681130593210
+      All Emerald 64x32_115: -6073576128491307855
+      All Emerald 64x32_116: 2228549942457447052
+      All Emerald 64x32_117: -2614353941062280246
+      All Emerald 64x32_118: 4745068262096182394
+      All Emerald 64x32_119: -722640684085089098
+      All Emerald 64x32_12: 6582440721003121932
+      All Emerald 64x32_120: -7819263838061236693
+      All Emerald 64x32_121: 4726751099616920371
+      All Emerald 64x32_122: -6708353684890845470
+      All Emerald 64x32_123: 4978526860895933072
+      All Emerald 64x32_124: -8789547798711335161
+      All Emerald 64x32_125: -5182680622064706981
+      All Emerald 64x32_126: 4551939366494838461
+      All Emerald 64x32_127: 7015458334735797171
+      All Emerald 64x32_128: 2680697866922491926
+      All Emerald 64x32_129: -7386801438503500551
+      All Emerald 64x32_13: -1947602156864578371
+      All Emerald 64x32_130: -4765761139948632570
+      All Emerald 64x32_131: -7672214127399125816
+      All Emerald 64x32_132: -7684944099657589345
+      All Emerald 64x32_133: 139336363392888406
+      All Emerald 64x32_134: -5243427699214898132
+      All Emerald 64x32_135: -6440581254706641815
+      All Emerald 64x32_136: 2690418422345383642
+      All Emerald 64x32_137: 1567191809921112203
+      All Emerald 64x32_138: 6327941976707929485
+      All Emerald 64x32_139: 6648369165689199638
+      All Emerald 64x32_14: -4196189032403583176
+      All Emerald 64x32_140: 6766788619467384855
+      All Emerald 64x32_141: -3621325271306199534
+      All Emerald 64x32_142: 760326746560066898
+      All Emerald 64x32_143: -5647147100119058223
+      All Emerald 64x32_144: 633158900752235049
+      All Emerald 64x32_145: -6981316708556354575
+      All Emerald 64x32_146: -3743459583730632426
+      All Emerald 64x32_147: -6336680009219822075
+      All Emerald 64x32_148: -6584977915734726333
+      All Emerald 64x32_15: 3240111229971518485
+      All Emerald 64x32_16: -7219921349542405164
+      All Emerald 64x32_17: -8981389509782273861
+      All Emerald 64x32_18: 2233984996645751948
+      All Emerald 64x32_19: 2343572023691334023
+      All Emerald 64x32_2: 4332764845843610509
+      All Emerald 64x32_20: -9196512806619182364
+      All Emerald 64x32_21: -8624111218905755186
+      All Emerald 64x32_22: 7713159591229609432
+      All Emerald 64x32_23: -1222232035237164663
+      All Emerald 64x32_24: -6175287683923964974
+      All Emerald 64x32_25: -7439893363207380082
+      All Emerald 64x32_26: -6463834348314922711
+      All Emerald 64x32_27: 2087190812302475843
+      All Emerald 64x32_28: 442541439407663687
+      All Emerald 64x32_29: 1154259340155707842
+      All Emerald 64x32_3: 1600553568046288536
+      All Emerald 64x32_30: 4322953098622385825
+      All Emerald 64x32_31: 3089065728124070593
+      All Emerald 64x32_32: 1669344422994366748
+      All Emerald 64x32_33: -6070108456338836298
+      All Emerald 64x32_34: -3321789730241547670
+      All Emerald 64x32_35: 2721641679326986604
+      All Emerald 64x32_36: 2498046048859824977
+      All Emerald 64x32_37: 7148570573968249041
+      All Emerald 64x32_38: 8907913242406070724
+      All Emerald 64x32_39: 613919348095185151
+      All Emerald 64x32_4: 86331591376821785
+      All Emerald 64x32_40: -3440060267805507299
+      All Emerald 64x32_41: 7323883218436929117
+      All Emerald 64x32_42: 6015256429484524078
+      All Emerald 64x32_43: -1078925078253415732
+      All Emerald 64x32_44: 3453221547269000613
+      All Emerald 64x32_45: -7800257411617857023
+      All Emerald 64x32_46: 4529293066689216783
+      All Emerald 64x32_47: 54167095250873571
+      All Emerald 64x32_48: -6643642021989372940
+      All Emerald 64x32_49: 946431911402585701
+      All Emerald 64x32_5: 4871841883966009591
+      All Emerald 64x32_50: 5173585588929233297
+      All Emerald 64x32_51: 2691191253833591351
+      All Emerald 64x32_52: -8822440437962356279
+      All Emerald 64x32_53: 1346006762153106192
+      All Emerald 64x32_54: 4709432957370731170
+      All Emerald 64x32_55: -7939476003718353923
+      All Emerald 64x32_56: -5859875097457899931
+      All Emerald 64x32_57: -708046527287378282
+      All Emerald 64x32_58: -6194428349468123128
+      All Emerald 64x32_59: -1584727631704783755
+      All Emerald 64x32_6: 3073688850994425616
+      All Emerald 64x32_60: 2138509272171942225
+      All Emerald 64x32_61: 6638786863449404533
+      All Emerald 64x32_62: 5872061364177452544
+      All Emerald 64x32_63: -2312913648577441876
+      All Emerald 64x32_64: -1656871532633485951
+      All Emerald 64x32_65: 7181793120540354012
+      All Emerald 64x32_66: -5165129101718204668
+      All Emerald 64x32_67: -6718241185034674865
+      All Emerald 64x32_68: -1640465380687536244
+      All Emerald 64x32_69: -6402317421043901956
+      All Emerald 64x32_7: -2009683802224180242
+      All Emerald 64x32_70: -1843916723214679158
+      All Emerald 64x32_71: 7721467855416138736
+      All Emerald 64x32_72: 5627076947598465656
+      All Emerald 64x32_73: 2191634040619546713
+      All Emerald 64x32_74: 8035694092833212196
+      All Emerald 64x32_75: -569884476487537638
+      All Emerald 64x32_76: 5421042236145865682
+      All Emerald 64x32_77: -3208050730874027976
+      All Emerald 64x32_78: -2348485470098570962
+      All Emerald 64x32_79: -2772749138562043156
+      All Emerald 64x32_8: 8409577579110120133
+      All Emerald 64x32_80: 3277213312793311820
+      All Emerald 64x32_81: 2767713464183060609
+      All Emerald 64x32_82: -7462970368855472808
+      All Emerald 64x32_83: -8848398011050697555
+      All Emerald 64x32_84: 5434346059134050304
+      All Emerald 64x32_85: 1505775217347200332
+      All Emerald 64x32_86: -2606904184647765949
+      All Emerald 64x32_87: 1428870862012767149
+      All Emerald 64x32_88: -7219325914769315933
+      All Emerald 64x32_89: 8134039978963161666
+      All Emerald 64x32_9: 324056768295213229
+      All Emerald 64x32_90: 6166432662355179049
+      All Emerald 64x32_91: 2197919037284776626
+      All Emerald 64x32_92: 6339462094888224247
+      All Emerald 64x32_93: 923479535723159977
+      All Emerald 64x32_94: -779410015355013116
+      All Emerald 64x32_95: 7865587836113613783
+      All Emerald 64x32_96: -8614293943697199031
+      All Emerald 64x32_97: 7339847980690002503
+      All Emerald 64x32_98: -8632265970940056238
+      All Emerald 64x32_99: 7087071754041113512
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

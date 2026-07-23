@@ -1,0 +1,2340 @@
+fileFormatVersion: 2
+guid: 603314487c56268498b1bc99bc18aad0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5041584107525007804
+    second: All tools Emerald 64x32_0
+  - first:
+      213: -4076293089276983412
+    second: All tools Emerald 64x32_1
+  - first:
+      213: -5199348575480562987
+    second: All tools Emerald 64x32_2
+  - first:
+      213: -7903143253958768463
+    second: All tools Emerald 64x32_3
+  - first:
+      213: -7889894013233447464
+    second: All tools Emerald 64x32_4
+  - first:
+      213: -6458265128501966720
+    second: All tools Emerald 64x32_5
+  - first:
+      213: 7003370610108007210
+    second: All tools Emerald 64x32_6
+  - first:
+      213: -5962205013638997495
+    second: All tools Emerald 64x32_7
+  - first:
+      213: -2839047338964094069
+    second: All tools Emerald 64x32_8
+  - first:
+      213: -8151555458716289586
+    second: All tools Emerald 64x32_9
+  - first:
+      213: -5579572155380954341
+    second: All tools Emerald 64x32_10
+  - first:
+      213: 624233938176934654
+    second: All tools Emerald 64x32_11
+  - first:
+      213: 989451348617618023
+    second: All tools Emerald 64x32_12
+  - first:
+      213: 415792617581753034
+    second: All tools Emerald 64x32_13
+  - first:
+      213: 1618242918622095821
+    second: All tools Emerald 64x32_14
+  - first:
+      213: 1679959431395170386
+    second: All tools Emerald 64x32_15
+  - first:
+      213: -1159239781417301770
+    second: All tools Emerald 64x32_16
+  - first:
+      213: 6144770355169048627
+    second: All tools Emerald 64x32_17
+  - first:
+      213: 2705501609921878863
+    second: All tools Emerald 64x32_18
+  - first:
+      213: -1810862575479304869
+    second: All tools Emerald 64x32_19
+  - first:
+      213: -9223253250610324329
+    second: All tools Emerald 64x32_20
+  - first:
+      213: 4505047481750203526
+    second: All tools Emerald 64x32_21
+  - first:
+      213: 4291920378235327560
+    second: All tools Emerald 64x32_22
+  - first:
+      213: 9116062102039843358
+    second: All tools Emerald 64x32_23
+  - first:
+      213: 3222076387584023339
+    second: All tools Emerald 64x32_24
+  - first:
+      213: 3488110508915265484
+    second: All tools Emerald 64x32_25
+  - first:
+      213: -5224298041520533518
+    second: All tools Emerald 64x32_26
+  - first:
+      213: 7006648371572725278
+    second: All tools Emerald 64x32_27
+  - first:
+      213: 6121771458467189606
+    second: All tools Emerald 64x32_28
+  - first:
+      213: 1086225744626968462
+    second: All tools Emerald 64x32_29
+  - first:
+      213: 800708952431604156
+    second: All tools Emerald 64x32_30
+  - first:
+      213: 6336883157313250427
+    second: All tools Emerald 64x32_31
+  - first:
+      213: -3148078489707576584
+    second: All tools Emerald 64x32_32
+  - first:
+      213: 7910184275899281496
+    second: All tools Emerald 64x32_33
+  - first:
+      213: -9061306550768221343
+    second: All tools Emerald 64x32_34
+  - first:
+      213: -4802040007371654209
+    second: All tools Emerald 64x32_35
+  - first:
+      213: -5860645380368166931
+    second: All tools Emerald 64x32_36
+  - first:
+      213: 8392357695549471830
+    second: All tools Emerald 64x32_37
+  - first:
+      213: 5223073039628612102
+    second: All tools Emerald 64x32_38
+  - first:
+      213: 619857321799060208
+    second: All tools Emerald 64x32_39
+  - first:
+      213: -1338890135387339005
+    second: All tools Emerald 64x32_40
+  - first:
+      213: -4351542442212690275
+    second: All tools Emerald 64x32_41
+  - first:
+      213: -1633930867747944771
+    second: All tools Emerald 64x32_42
+  - first:
+      213: -7418986687139822591
+    second: All tools Emerald 64x32_43
+  - first:
+      213: 2281463928153679356
+    second: All tools Emerald 64x32_44
+  - first:
+      213: -100063267784599000
+    second: All tools Emerald 64x32_45
+  - first:
+      213: 8488147578752339426
+    second: All tools Emerald 64x32_46
+  - first:
+      213: -919126771611130372
+    second: All tools Emerald 64x32_47
+  - first:
+      213: -5720864772148051507
+    second: All tools Emerald 64x32_48
+  - first:
+      213: -4182507387784823686
+    second: All tools Emerald 64x32_49
+  - first:
+      213: 7194081956187667092
+    second: All tools Emerald 64x32_50
+  - first:
+      213: 2288449204940986751
+    second: All tools Emerald 64x32_51
+  - first:
+      213: 1130069494222464461
+    second: All tools Emerald 64x32_52
+  - first:
+      213: 452062730974127256
+    second: All tools Emerald 64x32_53
+  - first:
+      213: -8187040146970123658
+    second: All tools Emerald 64x32_54
+  - first:
+      213: 8069256336639642726
+    second: All tools Emerald 64x32_55
+  - first:
+      213: 6242584618148380712
+    second: All tools Emerald 64x32_56
+  - first:
+      213: -8356569330850162464
+    second: All tools Emerald 64x32_57
+  - first:
+      213: -1280551621827563515
+    second: All tools Emerald 64x32_58
+  - first:
+      213: 3393169390549680617
+    second: All tools Emerald 64x32_59
+  - first:
+      213: -8489445809616357968
+    second: All tools Emerald 64x32_60
+  - first:
+      213: -1641314605804247279
+    second: All tools Emerald 64x32_61
+  - first:
+      213: -7122587385329767965
+    second: All tools Emerald 64x32_62
+  - first:
+      213: 7055054704738103994
+    second: All tools Emerald 64x32_63
+  - first:
+      213: 2609367817840425411
+    second: All tools Emerald 64x32_64
+  - first:
+      213: -5836082873109456097
+    second: All tools Emerald 64x32_65
+  - first:
+      213: -2486412238954529560
+    second: All tools Emerald 64x32_66
+  - first:
+      213: 7801396490850393259
+    second: All tools Emerald 64x32_67
+  - first:
+      213: -2586191145563118017
+    second: All tools Emerald 64x32_68
+  - first:
+      213: 7103709442054515804
+    second: All tools Emerald 64x32_69
+  - first:
+      213: 6280774472171096912
+    second: All tools Emerald 64x32_70
+  - first:
+      213: 98485990181199828
+    second: All tools Emerald 64x32_71
+  - first:
+      213: 410571735580007354
+    second: All tools Emerald 64x32_72
+  - first:
+      213: 5513164170974661304
+    second: All tools Emerald 64x32_73
+  - first:
+      213: -6281781079208861507
+    second: All tools Emerald 64x32_74
+  - first:
+      213: -916536013186850345
+    second: All tools Emerald 64x32_75
+  - first:
+      213: -5340318911649118565
+    second: All tools Emerald 64x32_76
+  - first:
+      213: 5240809028726194411
+    second: All tools Emerald 64x32_77
+  - first:
+      213: -7717201929301367827
+    second: All tools Emerald 64x32_78
+  - first:
+      213: -8534252556919913375
+    second: All tools Emerald 64x32_79
+  - first:
+      213: -8203367704818618826
+    second: All tools Emerald 64x32_80
+  - first:
+      213: -1173361000078437699
+    second: All tools Emerald 64x32_81
+  - first:
+      213: -1101442311841959837
+    second: All tools Emerald 64x32_82
+  - first:
+      213: -7063024410144238608
+    second: All tools Emerald 64x32_83
+  - first:
+      213: 4753863604590220644
+    second: All tools Emerald 64x32_84
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 287
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44697b537f1b80ab0800000000000000
+      internalID: -5041584107525007804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 287
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87044d48091e67c0800000000000000
+      internalID: -4076293089276983412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 287
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da3c07940438d7b0800000000000000
+      internalID: -5199348575480562987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 287
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b843ca4515625290800000000000000
+      internalID: -7903143253958768463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_4
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 291
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd3db98237718290800000000000000
+      internalID: -7889894013233447464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_5
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 287
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088095e3512af56a0800000000000000
+      internalID: -6458265128501966720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_6
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 287
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2306e5e678f03160800000000000000
+      internalID: 7003370610108007210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_7
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 287
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a9ef3112ef14da0800000000000000
+      internalID: -5962205013638997495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_8
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 287
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83f684bc7da998d0800000000000000
+      internalID: -2839047338964094069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_9
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 255
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5b154cf7bdfde80800000000000000
+      internalID: -8151555458716289586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 255
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b8bdfbfa06192b0800000000000000
+      internalID: -5579572155380954341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_11
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 255
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef287cd9579b9a800800000000000000
+      internalID: 624233938176934654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_12
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 255
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76262ec52cc3bbd00800000000000000
+      internalID: 989451348617618023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_13
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 255
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2b037ce2135c500800000000000000
+      internalID: 415792617581753034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_14
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 255
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9e2c45c57257610800000000000000
+      internalID: 1618242918622095821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_15
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 255
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2585069b33a605710800000000000000
+      internalID: 1679959431395170386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_16
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 255
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8ce1b8f8d89efe0800000000000000
+      internalID: -1159239781417301770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_17
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 223
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338b336e41c964550800000000000000
+      internalID: 6144770355169048627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_18
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 223
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b14ae316fdb8520800000000000000
+      internalID: 2705501609921878863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_19
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 223
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5dc18bf4168ed6e0800000000000000
+      internalID: -1810862575479304869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_20
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 223
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c97e3190c600080800000000000000
+      internalID: -9223253250610324329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_21
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 223
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c2dfdd0d4258e30800000000000000
+      internalID: 4505047481750203526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_22
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 223
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8441afc28d6ff8b30800000000000000
+      internalID: 4291920378235327560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_23
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 223
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e125c7ece22c28e70800000000000000
+      internalID: 9116062102039843358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_24
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 223
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b9e19376d17bc20800000000000000
+      internalID: 3222076387584023339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_25
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 223
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf833de602486030800000000000000
+      internalID: 3488110508915265484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_26
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 191
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff466a5c909f77b0800000000000000
+      internalID: -5224298041520533518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_27
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 191
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1659a5329d9c3160800000000000000
+      internalID: 7006648371572725278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_28
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 191
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663df0af4b6e4f450800000000000000
+      internalID: 6121771458467189606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_29
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 191
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87ef564f8c031f00800000000000000
+      internalID: 1086225744626968462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_30
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 191
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb13926cc80bc1b00800000000000000
+      internalID: 800708952431604156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_31
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 191
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74efc648a121f750800000000000000
+      internalID: 6336883157313250427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_32
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 191
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f28ee7fa47cf44d0800000000000000
+      internalID: -3148078489707576584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_33
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 191
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8507bd060be96cd60800000000000000
+      internalID: 7910184275899281496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_34
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 191
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1634a8073b5cf3280800000000000000
+      internalID: -9061306550768221343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_35
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 159
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbbf56b3e0abb5db0800000000000000
+      internalID: -4802040007371654209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_36
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 159
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def0f9cd31ecaaea0800000000000000
+      internalID: -5860645380368166931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_37
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 159
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65cfd370cd4a77470800000000000000
+      internalID: 8392357695549471830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_38
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 159
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602bbfaa1451c7840800000000000000
+      internalID: 5223073039628612102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_39
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 161
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa024533fc2a9800800000000000000
+      internalID: 619857321799060208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_40
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 159
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30786fef38e4b6de0800000000000000
+      internalID: -1338890135387339005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_41
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 159
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9670ea44373c93c0800000000000000
+      internalID: -4351542442212690275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_42
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 159
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db68650688c1359e0800000000000000
+      internalID: -1633930867747944771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_43
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 159
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104cdaf5ae67a0990800000000000000
+      internalID: -7418986687139822591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_44
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 127
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5a77dda5369af10800000000000000
+      internalID: 2281463928153679356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_45
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 127
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a52a4fcf08c9ef0800000000000000
+      internalID: -100063267784599000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_46
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 127
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed00a03045fbc570800000000000000
+      internalID: 8488147578752339426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_47
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 127
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5219a221b9e33f0800000000000000
+      internalID: -919126771611130372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_48
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 127
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1c118dcc76b90b0800000000000000
+      internalID: -5720864772148051507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_49
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 127
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c73a0d0bfb4f5c0800000000000000
+      internalID: -4182507387784823686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_50
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 127
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49afc9b5c6386d360800000000000000
+      internalID: 7194081956187667092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_51
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 127
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79580b5d6432cf10800000000000000
+      internalID: 2288449204940986751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_52
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 95
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5a2a6b730deaf00800000000000000
+      internalID: 1130069494222464461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_53
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 95
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894e7ef98ac064600800000000000000
+      internalID: 452062730974127256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_54
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 95
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672ebf5fc5ac16e80800000000000000
+      internalID: -8187040146970123658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_55
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 95
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66cc9faa2e1cbff60800000000000000
+      internalID: 8069256336639642726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_56
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 95
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8204d05b2ad12a650800000000000000
+      internalID: 6242584618148380712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_57
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 110
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e890c5f770870c80800000000000000
+      internalID: -8356569330850162464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_58
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 95
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500fa68a5119a3ee0800000000000000
+      internalID: -1280551621827563515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_59
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 95
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1417a3595f61f20800000000000000
+      internalID: 3393169390549680617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_60
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 95
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b573e1e30e6f2a80800000000000000
+      internalID: -8489445809616357968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_61
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 63
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117a064ef01e839e0800000000000000
+      internalID: -1641314605804247279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_62
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 63
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9adb7928c772d90800000000000000
+      internalID: -7122587385329767965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_63
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 63
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2fcdaefd698e160800000000000000
+      internalID: 7055054704738103994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_64
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 63
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9f6be8436563420800000000000000
+      internalID: 2609367817840425411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_65
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 63
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1bd19c3c81120fa0800000000000000
+      internalID: -5836082873109456097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_66
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 63
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec7ee30e3d7e7dd0800000000000000
+      internalID: -2486412238954529560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_67
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 63
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bacdd1d56c0244c60800000000000000
+      internalID: 7801396490850393259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_68
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 63
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f362377fad00c1cd0800000000000000
+      internalID: -2586191145563118017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_69
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 31
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c6f39b912759260800000000000000
+      internalID: 7103709442054515804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_70
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 31
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b89100b1bc92750800000000000000
+      internalID: 6280774472171096912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_71
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 31
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df5a1c7c74ed5100800000000000000
+      internalID: 98485990181199828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_72
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 31
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abbdf0671d4a2b500800000000000000
+      internalID: 410571735580007354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_73
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 31
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba0b5f7a91b28c40800000000000000
+      internalID: 5513164170974661304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_74
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 31
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db06cf80461a2d8a0800000000000000
+      internalID: -6281781079208861507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_75
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 31
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1252e1a5fc743f0800000000000000
+      internalID: -916536013186850345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_76
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 31
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b968adb7e3063e5b0800000000000000
+      internalID: -5340318911649118565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_77
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be082ec6b081bb840800000000000000
+      internalID: 5240809028726194411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_78
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 0
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de368089bbdf6e490800000000000000
+      internalID: -7717201929301367827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_79
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 0
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164c151148e309980800000000000000
+      internalID: -8534252556919913375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_80
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 0
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63eef582988c72e80800000000000000
+      internalID: -8203367704818618826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_81
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 0
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2170d136267bfe0800000000000000
+      internalID: -1173361000078437699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_82
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 0
+        width: 75
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36033169d04e6b0f0800000000000000
+      internalID: -1101442311841959837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_83
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 0
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3907178b81bfd90800000000000000
+      internalID: -7063024410144238608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Emerald 64x32_84
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 0
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4651246e2cd19f140800000000000000
+      internalID: 4753863604590220644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      All tools Emerald 64x32_0: -5041584107525007804
+      All tools Emerald 64x32_1: -4076293089276983412
+      All tools Emerald 64x32_10: -5579572155380954341
+      All tools Emerald 64x32_11: 624233938176934654
+      All tools Emerald 64x32_12: 989451348617618023
+      All tools Emerald 64x32_13: 415792617581753034
+      All tools Emerald 64x32_14: 1618242918622095821
+      All tools Emerald 64x32_15: 1679959431395170386
+      All tools Emerald 64x32_16: -1159239781417301770
+      All tools Emerald 64x32_17: 6144770355169048627
+      All tools Emerald 64x32_18: 2705501609921878863
+      All tools Emerald 64x32_19: -1810862575479304869
+      All tools Emerald 64x32_2: -5199348575480562987
+      All tools Emerald 64x32_20: -9223253250610324329
+      All tools Emerald 64x32_21: 4505047481750203526
+      All tools Emerald 64x32_22: 4291920378235327560
+      All tools Emerald 64x32_23: 9116062102039843358
+      All tools Emerald 64x32_24: 3222076387584023339
+      All tools Emerald 64x32_25: 3488110508915265484
+      All tools Emerald 64x32_26: -5224298041520533518
+      All tools Emerald 64x32_27: 7006648371572725278
+      All tools Emerald 64x32_28: 6121771458467189606
+      All tools Emerald 64x32_29: 1086225744626968462
+      All tools Emerald 64x32_3: -7903143253958768463
+      All tools Emerald 64x32_30: 800708952431604156
+      All tools Emerald 64x32_31: 6336883157313250427
+      All tools Emerald 64x32_32: -3148078489707576584
+      All tools Emerald 64x32_33: 7910184275899281496
+      All tools Emerald 64x32_34: -9061306550768221343
+      All tools Emerald 64x32_35: -4802040007371654209
+      All tools Emerald 64x32_36: -5860645380368166931
+      All tools Emerald 64x32_37: 8392357695549471830
+      All tools Emerald 64x32_38: 5223073039628612102
+      All tools Emerald 64x32_39: 619857321799060208
+      All tools Emerald 64x32_4: -7889894013233447464
+      All tools Emerald 64x32_40: -1338890135387339005
+      All tools Emerald 64x32_41: -4351542442212690275
+      All tools Emerald 64x32_42: -1633930867747944771
+      All tools Emerald 64x32_43: -7418986687139822591
+      All tools Emerald 64x32_44: 2281463928153679356
+      All tools Emerald 64x32_45: -100063267784599000
+      All tools Emerald 64x32_46: 8488147578752339426
+      All tools Emerald 64x32_47: -919126771611130372
+      All tools Emerald 64x32_48: -5720864772148051507
+      All tools Emerald 64x32_49: -4182507387784823686
+      All tools Emerald 64x32_5: -6458265128501966720
+      All tools Emerald 64x32_50: 7194081956187667092
+      All tools Emerald 64x32_51: 2288449204940986751
+      All tools Emerald 64x32_52: 1130069494222464461
+      All tools Emerald 64x32_53: 452062730974127256
+      All tools Emerald 64x32_54: -8187040146970123658
+      All tools Emerald 64x32_55: 8069256336639642726
+      All tools Emerald 64x32_56: 6242584618148380712
+      All tools Emerald 64x32_57: -8356569330850162464
+      All tools Emerald 64x32_58: -1280551621827563515
+      All tools Emerald 64x32_59: 3393169390549680617
+      All tools Emerald 64x32_6: 7003370610108007210
+      All tools Emerald 64x32_60: -8489445809616357968
+      All tools Emerald 64x32_61: -1641314605804247279
+      All tools Emerald 64x32_62: -7122587385329767965
+      All tools Emerald 64x32_63: 7055054704738103994
+      All tools Emerald 64x32_64: 2609367817840425411
+      All tools Emerald 64x32_65: -5836082873109456097
+      All tools Emerald 64x32_66: -2486412238954529560
+      All tools Emerald 64x32_67: 7801396490850393259
+      All tools Emerald 64x32_68: -2586191145563118017
+      All tools Emerald 64x32_69: 7103709442054515804
+      All tools Emerald 64x32_7: -5962205013638997495
+      All tools Emerald 64x32_70: 6280774472171096912
+      All tools Emerald 64x32_71: 98485990181199828
+      All tools Emerald 64x32_72: 410571735580007354
+      All tools Emerald 64x32_73: 5513164170974661304
+      All tools Emerald 64x32_74: -6281781079208861507
+      All tools Emerald 64x32_75: -916536013186850345
+      All tools Emerald 64x32_76: -5340318911649118565
+      All tools Emerald 64x32_77: 5240809028726194411
+      All tools Emerald 64x32_78: -7717201929301367827
+      All tools Emerald 64x32_79: -8534252556919913375
+      All tools Emerald 64x32_8: -2839047338964094069
+      All tools Emerald 64x32_80: -8203367704818618826
+      All tools Emerald 64x32_81: -1173361000078437699
+      All tools Emerald 64x32_82: -1101442311841959837
+      All tools Emerald 64x32_83: -7063024410144238608
+      All tools Emerald 64x32_84: 4753863604590220644
+      All tools Emerald 64x32_9: -8151555458716289586
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

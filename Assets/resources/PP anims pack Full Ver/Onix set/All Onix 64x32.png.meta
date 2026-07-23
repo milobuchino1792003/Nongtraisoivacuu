@@ -1,0 +1,4004 @@
+fileFormatVersion: 2
+guid: bf585cac28d54854bb87be2cf2b57b54
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7525860722334142938
+    second: All Onix 64x32_0
+  - first:
+      213: 1976757100469619550
+    second: All Onix 64x32_1
+  - first:
+      213: 7498934351583847502
+    second: All Onix 64x32_2
+  - first:
+      213: 4937085479898001558
+    second: All Onix 64x32_3
+  - first:
+      213: -8053872770273614037
+    second: All Onix 64x32_4
+  - first:
+      213: -3389501695205921
+    second: All Onix 64x32_5
+  - first:
+      213: 6939636738110737123
+    second: All Onix 64x32_6
+  - first:
+      213: 2539240273596020216
+    second: All Onix 64x32_7
+  - first:
+      213: 2888056001180823654
+    second: All Onix 64x32_8
+  - first:
+      213: 5331350102191037687
+    second: All Onix 64x32_9
+  - first:
+      213: 3856291771280364059
+    second: All Onix 64x32_10
+  - first:
+      213: -1914618270530645796
+    second: All Onix 64x32_11
+  - first:
+      213: -6053062615236162597
+    second: All Onix 64x32_12
+  - first:
+      213: -2302423420581607245
+    second: All Onix 64x32_13
+  - first:
+      213: -6859885808711415148
+    second: All Onix 64x32_14
+  - first:
+      213: 4561427513375464768
+    second: All Onix 64x32_15
+  - first:
+      213: -5442287860996191006
+    second: All Onix 64x32_16
+  - first:
+      213: -175374192561594420
+    second: All Onix 64x32_17
+  - first:
+      213: 5875547721081527959
+    second: All Onix 64x32_18
+  - first:
+      213: -4705064143271420796
+    second: All Onix 64x32_19
+  - first:
+      213: -5812322224036909087
+    second: All Onix 64x32_20
+  - first:
+      213: 5770846547938712970
+    second: All Onix 64x32_21
+  - first:
+      213: 4751692844212019044
+    second: All Onix 64x32_22
+  - first:
+      213: 1677446435043978505
+    second: All Onix 64x32_23
+  - first:
+      213: 2121759809782699869
+    second: All Onix 64x32_24
+  - first:
+      213: -4459119513077339332
+    second: All Onix 64x32_25
+  - first:
+      213: -7718462672405031234
+    second: All Onix 64x32_26
+  - first:
+      213: 436168269953698448
+    second: All Onix 64x32_27
+  - first:
+      213: 2854092914766419841
+    second: All Onix 64x32_28
+  - first:
+      213: -4284830485884762129
+    second: All Onix 64x32_29
+  - first:
+      213: 5793652481281361463
+    second: All Onix 64x32_30
+  - first:
+      213: -7896721698872453896
+    second: All Onix 64x32_31
+  - first:
+      213: -3321803928687922292
+    second: All Onix 64x32_32
+  - first:
+      213: 7620098725498367168
+    second: All Onix 64x32_33
+  - first:
+      213: -6485365814263970450
+    second: All Onix 64x32_34
+  - first:
+      213: 5069588261107813606
+    second: All Onix 64x32_35
+  - first:
+      213: 1971877567487821832
+    second: All Onix 64x32_36
+  - first:
+      213: 1628687208586957540
+    second: All Onix 64x32_37
+  - first:
+      213: 9164379834099607887
+    second: All Onix 64x32_38
+  - first:
+      213: 5786821017028885746
+    second: All Onix 64x32_39
+  - first:
+      213: 6016882654522075654
+    second: All Onix 64x32_40
+  - first:
+      213: 3307803559905238753
+    second: All Onix 64x32_41
+  - first:
+      213: -8849256260177870382
+    second: All Onix 64x32_42
+  - first:
+      213: 4314199121310861643
+    second: All Onix 64x32_43
+  - first:
+      213: -3981379642697985316
+    second: All Onix 64x32_44
+  - first:
+      213: -4012486657609141777
+    second: All Onix 64x32_45
+  - first:
+      213: -3618467929942522498
+    second: All Onix 64x32_46
+  - first:
+      213: -8639569551845715650
+    second: All Onix 64x32_47
+  - first:
+      213: 3019422883147551917
+    second: All Onix 64x32_48
+  - first:
+      213: -3228826304171378437
+    second: All Onix 64x32_49
+  - first:
+      213: -4011885619343178502
+    second: All Onix 64x32_50
+  - first:
+      213: -8155924854368675384
+    second: All Onix 64x32_51
+  - first:
+      213: -5390190903819921688
+    second: All Onix 64x32_52
+  - first:
+      213: -6886559835854751200
+    second: All Onix 64x32_53
+  - first:
+      213: -9219720515363195278
+    second: All Onix 64x32_54
+  - first:
+      213: 8187276419418512854
+    second: All Onix 64x32_55
+  - first:
+      213: 1995278306081243961
+    second: All Onix 64x32_56
+  - first:
+      213: -6163859213291596429
+    second: All Onix 64x32_57
+  - first:
+      213: 6143625637003613406
+    second: All Onix 64x32_58
+  - first:
+      213: -5357812025761267693
+    second: All Onix 64x32_59
+  - first:
+      213: -1496234142157039415
+    second: All Onix 64x32_60
+  - first:
+      213: -9193286017301171656
+    second: All Onix 64x32_61
+  - first:
+      213: 6824637396481386992
+    second: All Onix 64x32_62
+  - first:
+      213: -2680546916399250782
+    second: All Onix 64x32_63
+  - first:
+      213: -5500136744333540331
+    second: All Onix 64x32_64
+  - first:
+      213: 1599898073171097656
+    second: All Onix 64x32_65
+  - first:
+      213: 7166240538538160342
+    second: All Onix 64x32_66
+  - first:
+      213: -5297207410551539799
+    second: All Onix 64x32_67
+  - first:
+      213: -7971680943538229133
+    second: All Onix 64x32_68
+  - first:
+      213: -5289876822677120118
+    second: All Onix 64x32_69
+  - first:
+      213: -3712546761116921184
+    second: All Onix 64x32_70
+  - first:
+      213: -80294230021173367
+    second: All Onix 64x32_71
+  - first:
+      213: 4712313936873209893
+    second: All Onix 64x32_72
+  - first:
+      213: 8772502924244145011
+    second: All Onix 64x32_73
+  - first:
+      213: -6119419467146536838
+    second: All Onix 64x32_74
+  - first:
+      213: -2893679513870395704
+    second: All Onix 64x32_75
+  - first:
+      213: 1577068037688827263
+    second: All Onix 64x32_76
+  - first:
+      213: 6843195868128721381
+    second: All Onix 64x32_77
+  - first:
+      213: -6250786062424649540
+    second: All Onix 64x32_78
+  - first:
+      213: 6191069187444196155
+    second: All Onix 64x32_79
+  - first:
+      213: -806807585067619335
+    second: All Onix 64x32_80
+  - first:
+      213: 5494433171833305713
+    second: All Onix 64x32_81
+  - first:
+      213: -1187914981360992611
+    second: All Onix 64x32_82
+  - first:
+      213: -1964591411184959285
+    second: All Onix 64x32_83
+  - first:
+      213: -7540345666101744302
+    second: All Onix 64x32_84
+  - first:
+      213: -6525620913302906056
+    second: All Onix 64x32_85
+  - first:
+      213: 1009178510161949122
+    second: All Onix 64x32_86
+  - first:
+      213: 6756982980075182459
+    second: All Onix 64x32_87
+  - first:
+      213: -5034930611634089863
+    second: All Onix 64x32_88
+  - first:
+      213: -2630391162420254166
+    second: All Onix 64x32_89
+  - first:
+      213: -8667716795146563419
+    second: All Onix 64x32_90
+  - first:
+      213: 7535519123456131456
+    second: All Onix 64x32_91
+  - first:
+      213: 5369127315370973745
+    second: All Onix 64x32_92
+  - first:
+      213: -3941183949457198267
+    second: All Onix 64x32_93
+  - first:
+      213: -7989230936024274398
+    second: All Onix 64x32_94
+  - first:
+      213: -7350781402861607403
+    second: All Onix 64x32_95
+  - first:
+      213: 375784528104800974
+    second: All Onix 64x32_96
+  - first:
+      213: -8096493710617549503
+    second: All Onix 64x32_97
+  - first:
+      213: -8692554501910265954
+    second: All Onix 64x32_98
+  - first:
+      213: -4077590549546760905
+    second: All Onix 64x32_99
+  - first:
+      213: 6934335576144928128
+    second: All Onix 64x32_100
+  - first:
+      213: -7982077984261087910
+    second: All Onix 64x32_101
+  - first:
+      213: 5463006846779854955
+    second: All Onix 64x32_102
+  - first:
+      213: -8324476976484783766
+    second: All Onix 64x32_103
+  - first:
+      213: -8754794543888957559
+    second: All Onix 64x32_104
+  - first:
+      213: -4879787270057405136
+    second: All Onix 64x32_105
+  - first:
+      213: 7546967888051361871
+    second: All Onix 64x32_106
+  - first:
+      213: -4876562338833159454
+    second: All Onix 64x32_107
+  - first:
+      213: -5943381195891148309
+    second: All Onix 64x32_108
+  - first:
+      213: 5654158302456056967
+    second: All Onix 64x32_109
+  - first:
+      213: -6760051800029943251
+    second: All Onix 64x32_110
+  - first:
+      213: -4728623061041638874
+    second: All Onix 64x32_111
+  - first:
+      213: -1485004212177258930
+    second: All Onix 64x32_112
+  - first:
+      213: 7520281339740286889
+    second: All Onix 64x32_113
+  - first:
+      213: 9028905932864690808
+    second: All Onix 64x32_114
+  - first:
+      213: -3362070049117447173
+    second: All Onix 64x32_115
+  - first:
+      213: 4847089616140771386
+    second: All Onix 64x32_116
+  - first:
+      213: -347044683032812005
+    second: All Onix 64x32_117
+  - first:
+      213: 2966731794576503969
+    second: All Onix 64x32_118
+  - first:
+      213: -2101743763414874700
+    second: All Onix 64x32_119
+  - first:
+      213: 8110400574224365985
+    second: All Onix 64x32_120
+  - first:
+      213: -6518281418053554395
+    second: All Onix 64x32_121
+  - first:
+      213: 1883158260468082737
+    second: All Onix 64x32_122
+  - first:
+      213: -6078038469781052766
+    second: All Onix 64x32_123
+  - first:
+      213: 1066662054794369179
+    second: All Onix 64x32_124
+  - first:
+      213: -6116101631297280054
+    second: All Onix 64x32_125
+  - first:
+      213: 78743421801821535
+    second: All Onix 64x32_126
+  - first:
+      213: -4972481647549038002
+    second: All Onix 64x32_127
+  - first:
+      213: -8105967116420615007
+    second: All Onix 64x32_128
+  - first:
+      213: -3662209524139338780
+    second: All Onix 64x32_129
+  - first:
+      213: 2455227714786422839
+    second: All Onix 64x32_130
+  - first:
+      213: -3021180855575362403
+    second: All Onix 64x32_131
+  - first:
+      213: 5207389350589415985
+    second: All Onix 64x32_132
+  - first:
+      213: -2061399232415407171
+    second: All Onix 64x32_133
+  - first:
+      213: -5292333602702692357
+    second: All Onix 64x32_134
+  - first:
+      213: -1304348307612853136
+    second: All Onix 64x32_135
+  - first:
+      213: -5562746407065192832
+    second: All Onix 64x32_136
+  - first:
+      213: 3461761757591704283
+    second: All Onix 64x32_137
+  - first:
+      213: 5536859102816180491
+    second: All Onix 64x32_138
+  - first:
+      213: -4052497089691430695
+    second: All Onix 64x32_139
+  - first:
+      213: 6468438084548604499
+    second: All Onix 64x32_140
+  - first:
+      213: 4151541667497373915
+    second: All Onix 64x32_141
+  - first:
+      213: -2838774595555486239
+    second: All Onix 64x32_142
+  - first:
+      213: -1242058495562020822
+    second: All Onix 64x32_143
+  - first:
+      213: 1311600974972028532
+    second: All Onix 64x32_144
+  - first:
+      213: -1307689594250127790
+    second: All Onix 64x32_145
+  - first:
+      213: -8270086616261974203
+    second: All Onix 64x32_146
+  - first:
+      213: -1973521213742222692
+    second: All Onix 64x32_147
+  - first:
+      213: 6505214804385859172
+    second: All Onix 64x32_148
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: All Onix 64x32_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 607
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad19ac7047a317860800000000000000
+      internalID: 7525860722334142938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 607
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b09bc0c1ade6b10800000000000000
+      internalID: 1976757100469619550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 607
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44212ccf01911860800000000000000
+      internalID: 7498934351583847502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 607
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6903f0f061d048440800000000000000
+      internalID: 4937085479898001558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_4
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 611
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2766adf265ea3090800000000000000
+      internalID: -8053872770273614037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_5
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 607
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdddd732445f3fff0800000000000000
+      internalID: -3389501695205921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_6
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 607
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea475578da8e4060800000000000000
+      internalID: 6939636738110737123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_7
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 607
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f57e0b43913d3320800000000000000
+      internalID: 2539240273596020216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_8
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 607
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66071d9a1af641820800000000000000
+      internalID: 2888056001180823654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_9
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 575
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fcd656dba2ccf940800000000000000
+      internalID: 5331350102191037687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 575
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b129d693fec448530800000000000000
+      internalID: 3856291771280364059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_11
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 575
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd05c88b3d8ed65e0800000000000000
+      internalID: -1914618270530645796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_12
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 575
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdbc6a73f933ffba0800000000000000
+      internalID: -6053062615236162597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_13
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 575
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b881b509162c00e0800000000000000
+      internalID: -2302423420581607245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_14
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 575
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a4304c33accc0a0800000000000000
+      internalID: -6859885808711415148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_15
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 575
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d107be7227d4f30800000000000000
+      internalID: 4561427513375464768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_16
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 575
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ecc6ef560c1974b0800000000000000
+      internalID: -5442287860996191006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_17
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 543
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf589dd912f09df0800000000000000
+      internalID: -175374192561594420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_18
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 543
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e9be7b5832a8150800000000000000
+      internalID: 5875547721081527959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_19
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 543
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c11e6171144beb0800000000000000
+      internalID: -4705064143271420796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_20
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 543
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1efeb247bbb765fa0800000000000000
+      internalID: -5812322224036909087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_21
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 543
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d1d2f2c5a261050800000000000000
+      internalID: 5770846547938712970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_22
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 543
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46fd50d577761f140800000000000000
+      internalID: 4751692844212019044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_23
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 543
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90daa8a25ac774710800000000000000
+      internalID: 1677446435043978505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_24
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 543
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d575cc03e41027d10800000000000000
+      internalID: 2121759809782699869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_25
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 543
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b2304ad660e12c0800000000000000
+      internalID: -4459119513077339332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_26
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 511
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb69f27f71382e490800000000000000
+      internalID: -7718462672405031234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_27
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 511
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a03e80bb49d0600800000000000000
+      internalID: 436168269953698448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_28
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 511
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1879c946266cb9720800000000000000
+      internalID: 2854092914766419841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_29
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 511
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7031600693984c0800000000000000
+      internalID: -4284830485884762129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_30
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 511
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73606d25c30376050800000000000000
+      internalID: 5793652481281361463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_31
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 511
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f496981475396290800000000000000
+      internalID: -7896721698872453896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_32
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 511
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c833f013de496e1d0800000000000000
+      internalID: -3321803928687922292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_33
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 511
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ccacb6fa6700c960800000000000000
+      internalID: 7620098725498367168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_34
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 511
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e658552272a5ff5a0800000000000000
+      internalID: -6485365814263970450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_35
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 479
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec42d4e9abca5640800000000000000
+      internalID: 5069588261107813606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_36
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 479
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8084cae33348d5b10800000000000000
+      internalID: 1971877567487821832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_37
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 479
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e25c0613624a9610800000000000000
+      internalID: 1628687208586957540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_38
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 479
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49a24677ea6e2f70800000000000000
+      internalID: 9164379834099607887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_39
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 481
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc75ca1e0bee4050800000000000000
+      internalID: 5786821017028885746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_40
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 479
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a6ffd35e2408350800000000000000
+      internalID: 6016882654522075654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_41
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 479
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee9ceeefcda7ed20800000000000000
+      internalID: 3307803559905238753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_42
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 479
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d142b51150213580800000000000000
+      internalID: -8849256260177870382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_43
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 479
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4949044e3d1fdb30800000000000000
+      internalID: 4314199121310861643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_44
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 447
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2d3092f4c4fb8c0800000000000000
+      internalID: -3981379642697985316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_45
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 447
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1763bd4a8c058c0800000000000000
+      internalID: -4012486657609141777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_46
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 447
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7502a4d69e98cdc0800000000000000
+      internalID: -3618467929942522498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_47
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 447
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3194f954451a1880800000000000000
+      internalID: -8639569551845715650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_48
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 447
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da412b85d1527e920800000000000000
+      internalID: 3019422883147551917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_49
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 447
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf87d6a5597e033d0800000000000000
+      internalID: -3228826304171378437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_50
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 447
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af44d8bf84be258c0800000000000000
+      internalID: -4011885619343178502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_51
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 447
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c953909e8550de80800000000000000
+      internalID: -8155924854368675384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_52
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 415
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e695427ee13235b0800000000000000
+      internalID: -5390190903819921688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_53
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 415
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ab76bd0560e60a0800000000000000
+      internalID: -6886559835854751200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_54
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 415
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27635691a09fc0080800000000000000
+      internalID: -9219720515363195278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_55
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 415
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd5f51868c0f9170800000000000000
+      internalID: 8187276419418512854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_56
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 415
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93304064c07a0bb10800000000000000
+      internalID: 1995278306081243961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_57
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 430
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3755c3af3b2957aa0800000000000000
+      internalID: -6163859213291596429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_58
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 415
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4559e67fa824550800000000000000
+      internalID: 6143625637003613406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_59
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 415
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3100f27795a35a5b0800000000000000
+      internalID: -5357812025761267693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_60
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 415
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c81bef99fe4c3be0800000000000000
+      internalID: -1496234142157039415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_61
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 383
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832b23c4313ea6080800000000000000
+      internalID: -9193286017301171656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_62
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 383
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f9ae1abd8bf5be50800000000000000
+      internalID: 6824637396481386992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_63
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 383
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2014c18c8cccad0800000000000000
+      internalID: -2680546916399250782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_64
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 383
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5140de1a5c69ba3b0800000000000000
+      internalID: -5500136744333540331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_65
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 383
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838f13822daf33610800000000000000
+      internalID: 1599898073171097656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_66
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 383
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0329a2dc9937360800000000000000
+      internalID: 7166240538538160342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_67
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 383
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a732880de98c76b0800000000000000
+      internalID: -5297207410551539799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_68
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 383
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37037a9ea66ee5190800000000000000
+      internalID: -7971680943538229133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_69
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 351
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b12c68e059696b0800000000000000
+      internalID: -5289876822677120118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_70
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 351
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2599304626a7cc0800000000000000
+      internalID: -3712546761116921184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_71
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 351
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f031eb2dcb2eef0800000000000000
+      internalID: -80294230021173367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_72
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 351
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52043750f80856140800000000000000
+      internalID: 4712313936873209893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_73
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 351
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373d5ae4ee03eb970800000000000000
+      internalID: 8772502924244145011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_74
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 351
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78de1daa64731ba0800000000000000
+      internalID: -6119419467146536838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_75
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 351
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c61ee140d597d7d0800000000000000
+      internalID: -2893679513870395704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_76
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 351
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d901d460fd2e510800000000000000
+      internalID: 1577068037688827263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_77
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 319
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9bb30a26ae7fe50800000000000000
+      internalID: 6843195868128721381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_78
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 319
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0573eb13fb049a0800000000000000
+      internalID: -6250786062424649540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_79
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 319
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b334a71df981be550800000000000000
+      internalID: 6191069187444196155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_80
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 319
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb24f9a6c4adc4f0800000000000000
+      internalID: -806807585067619335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_81
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 319
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a3f39ebd5204c40800000000000000
+      internalID: 5494433171833305713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_82
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 319
+        width: 75
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9efc984e9da38fe0800000000000000
+      internalID: -1187914981360992611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_83
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 319
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc08987358e5cb4e0800000000000000
+      internalID: -1964591411184959285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_84
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 319
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d6950319f4b5790800000000000000
+      internalID: -7540345666101744302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_85
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 287
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b58b38a565075a0800000000000000
+      internalID: -6525620913302906056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_86
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 287
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c139251282510e00800000000000000
+      internalID: 1009178510161949122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_87
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 287
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79ddb86830a5cd50800000000000000
+      internalID: 6756982980075182459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_88
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 287
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9705fc0f845502ab0800000000000000
+      internalID: -5034930611634089863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_89
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 287
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a2d979c29fe7bd0800000000000000
+      internalID: -2630391162420254166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_90
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 287
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a01a939f7516b780800000000000000
+      internalID: -8667716795146563419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_91
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 287
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08104c7c7ba839860800000000000000
+      internalID: 7535519123456131456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_92
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 287
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a9882b8d8f28a40800000000000000
+      internalID: 5369127315370973745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_93
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 257
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543f12a441a1e49c0800000000000000
+      internalID: -3941183949457198267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_94
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 257
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a26bddacc802190800000000000000
+      internalID: -7989230936024274398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_95
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 255
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516e2ec9247ccf990800000000000000
+      internalID: -7350781402861607403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_96
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 255
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec246cd890e073500800000000000000
+      internalID: 375784528104800974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_97
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 257
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145e4740ed973af80800000000000000
+      internalID: -8096493710617549503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_98
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 257
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f7ae25cb7dd5780800000000000000
+      internalID: -8692554501910265954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_99
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 255
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73586cacffc7967c0800000000000000
+      internalID: -4077590549546760905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_100
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 255
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08dd8718775bb3060800000000000000
+      internalID: 6934335576144928128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_101
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 226
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5dd6aa3d56f93190800000000000000
+      internalID: -7982077984261087910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_102
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 227
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6017db68cf70db40800000000000000
+      internalID: 5463006846779854955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_103
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 227
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a69e4bb7b44897c80800000000000000
+      internalID: -8324476976484783766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_104
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 226
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f78f94fb8b08680800000000000000
+      internalID: -8754794543888957559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_105
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 224
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03551c40553874cb0800000000000000
+      internalID: -4879787270057405136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_106
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 191
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48d4920f473cb860800000000000000
+      internalID: 7546967888051361871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_107
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 191
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea2dc4d368f25cb0800000000000000
+      internalID: -4876562338833159454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_108
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 191
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9fb2eaa4ed48da0800000000000000
+      internalID: -5943381195891148309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_109
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 191
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c08b1e40b977e40800000000000000
+      internalID: 5654158302456056967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_110
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 191
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2aa9f344b87f22a0800000000000000
+      internalID: -6760051800029943251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_111
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 162
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62294e9116e806eb0800000000000000
+      internalID: -4728623061041638874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_112
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 163
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4637337984346be0800000000000000
+      internalID: -1485004212177258930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_113
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 163
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9afe73ac8086d5860800000000000000
+      internalID: 7520281339740286889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_114
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 162
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a11d6db1e1d4d70800000000000000
+      internalID: 9028905932864690808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_115
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 160
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbdf547a178751d0800000000000000
+      internalID: -3362070049117447173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_116
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 127
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a302e8c2352544340800000000000000
+      internalID: 4847089616140771386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_117
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 127
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1624a213bc0f2bf0800000000000000
+      internalID: -347044683032812005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_118
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 127
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4f69749d2fb2920800000000000000
+      internalID: 2966731794576503969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_119
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 127
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b583c4ce2b15d2e0800000000000000
+      internalID: -2101743763414874700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_120
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 95
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a974ccf95eed8070800000000000000
+      internalID: 8110400574224365985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_121
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 95
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f63eae5996a85a0800000000000000
+      internalID: -6518281418053554395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_122
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 95
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138ea03e572522a10800000000000000
+      internalID: 1883158260468082737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_123
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 95
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2aa8de63876aba0800000000000000
+      internalID: -6078038469781052766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_124
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 95
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b981867cc7b8dce00800000000000000
+      internalID: 1066662054794369179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_125
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 63
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7a65888fd3f1ba0800000000000000
+      internalID: -6116101631297280054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_126
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 63
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5575e499b0c71100800000000000000
+      internalID: 78743421801821535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_127
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 63
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42c0b179423efab0800000000000000
+      internalID: -4972481647549038002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_128
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 63
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a470c8dad1d18f80800000000000000
+      internalID: -8105967116420615007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_129
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 63
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e35f9c47d73d2dc0800000000000000
+      internalID: -3662209524139338780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_130
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 63
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730f9862998b21220800000000000000
+      internalID: 2455227714786422839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_131
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 63
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94483dc40c9216d0800000000000000
+      internalID: -3021180855575362403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_132
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 63
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 132c801460d544840800000000000000
+      internalID: 5207389350589415985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_133
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 31
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3ed93e1507463e0800000000000000
+      internalID: -2061399232415407171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_134
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 31
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bffea0ad0aadd86b0800000000000000
+      internalID: -5292333602702692357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_135
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 31
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c9a5dff1606ede0800000000000000
+      internalID: -1304348307612853136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_136
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 31
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0867c4f8d972dc2b0800000000000000
+      internalID: -5562746407065192832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_137
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 31
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd219423af5aa0030800000000000000
+      internalID: 3461761757591704283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_138
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 31
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b091fbab400e6dc40800000000000000
+      internalID: 5536859102816180491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_139
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 31
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d053a33e53a2c7c0800000000000000
+      internalID: -4052497089691430695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_140
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 31
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352b029aa2284c950800000000000000
+      internalID: 6468438084548604499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_141
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0f969962d3d9930800000000000000
+      internalID: 4151541667497373915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_142
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5138abb85aa98d0800000000000000
+      internalID: -2838774595555486239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_143
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2805c5016253cee0800000000000000
+      internalID: -1242058495562020822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_144
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4768348332eb33210800000000000000
+      internalID: 1311600974972028532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_145
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2561f321e372adde0800000000000000
+      internalID: -1307689594250127790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_146
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 0
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5472eff0a00ca3d80800000000000000
+      internalID: -8270086616261974203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_147
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 0
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92723a89e4ac94e0800000000000000
+      internalID: -1973521213742222692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Onix 64x32_148
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 0
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4660803066a274a50800000000000000
+      internalID: 6505214804385859172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      All Onix 64x32_0: 7525860722334142938
+      All Onix 64x32_1: 1976757100469619550
+      All Onix 64x32_10: 3856291771280364059
+      All Onix 64x32_100: 6934335576144928128
+      All Onix 64x32_101: -7982077984261087910
+      All Onix 64x32_102: 5463006846779854955
+      All Onix 64x32_103: -8324476976484783766
+      All Onix 64x32_104: -8754794543888957559
+      All Onix 64x32_105: -4879787270057405136
+      All Onix 64x32_106: 7546967888051361871
+      All Onix 64x32_107: -4876562338833159454
+      All Onix 64x32_108: -5943381195891148309
+      All Onix 64x32_109: 5654158302456056967
+      All Onix 64x32_11: -1914618270530645796
+      All Onix 64x32_110: -6760051800029943251
+      All Onix 64x32_111: -4728623061041638874
+      All Onix 64x32_112: -1485004212177258930
+      All Onix 64x32_113: 7520281339740286889
+      All Onix 64x32_114: 9028905932864690808
+      All Onix 64x32_115: -3362070049117447173
+      All Onix 64x32_116: 4847089616140771386
+      All Onix 64x32_117: -347044683032812005
+      All Onix 64x32_118: 2966731794576503969
+      All Onix 64x32_119: -2101743763414874700
+      All Onix 64x32_12: -6053062615236162597
+      All Onix 64x32_120: 8110400574224365985
+      All Onix 64x32_121: -6518281418053554395
+      All Onix 64x32_122: 1883158260468082737
+      All Onix 64x32_123: -6078038469781052766
+      All Onix 64x32_124: 1066662054794369179
+      All Onix 64x32_125: -6116101631297280054
+      All Onix 64x32_126: 78743421801821535
+      All Onix 64x32_127: -4972481647549038002
+      All Onix 64x32_128: -8105967116420615007
+      All Onix 64x32_129: -3662209524139338780
+      All Onix 64x32_13: -2302423420581607245
+      All Onix 64x32_130: 2455227714786422839
+      All Onix 64x32_131: -3021180855575362403
+      All Onix 64x32_132: 5207389350589415985
+      All Onix 64x32_133: -2061399232415407171
+      All Onix 64x32_134: -5292333602702692357
+      All Onix 64x32_135: -1304348307612853136
+      All Onix 64x32_136: -5562746407065192832
+      All Onix 64x32_137: 3461761757591704283
+      All Onix 64x32_138: 5536859102816180491
+      All Onix 64x32_139: -4052497089691430695
+      All Onix 64x32_14: -6859885808711415148
+      All Onix 64x32_140: 6468438084548604499
+      All Onix 64x32_141: 4151541667497373915
+      All Onix 64x32_142: -2838774595555486239
+      All Onix 64x32_143: -1242058495562020822
+      All Onix 64x32_144: 1311600974972028532
+      All Onix 64x32_145: -1307689594250127790
+      All Onix 64x32_146: -8270086616261974203
+      All Onix 64x32_147: -1973521213742222692
+      All Onix 64x32_148: 6505214804385859172
+      All Onix 64x32_15: 4561427513375464768
+      All Onix 64x32_16: -5442287860996191006
+      All Onix 64x32_17: -175374192561594420
+      All Onix 64x32_18: 5875547721081527959
+      All Onix 64x32_19: -4705064143271420796
+      All Onix 64x32_2: 7498934351583847502
+      All Onix 64x32_20: -5812322224036909087
+      All Onix 64x32_21: 5770846547938712970
+      All Onix 64x32_22: 4751692844212019044
+      All Onix 64x32_23: 1677446435043978505
+      All Onix 64x32_24: 2121759809782699869
+      All Onix 64x32_25: -4459119513077339332
+      All Onix 64x32_26: -7718462672405031234
+      All Onix 64x32_27: 436168269953698448
+      All Onix 64x32_28: 2854092914766419841
+      All Onix 64x32_29: -4284830485884762129
+      All Onix 64x32_3: 4937085479898001558
+      All Onix 64x32_30: 5793652481281361463
+      All Onix 64x32_31: -7896721698872453896
+      All Onix 64x32_32: -3321803928687922292
+      All Onix 64x32_33: 7620098725498367168
+      All Onix 64x32_34: -6485365814263970450
+      All Onix 64x32_35: 5069588261107813606
+      All Onix 64x32_36: 1971877567487821832
+      All Onix 64x32_37: 1628687208586957540
+      All Onix 64x32_38: 9164379834099607887
+      All Onix 64x32_39: 5786821017028885746
+      All Onix 64x32_4: -8053872770273614037
+      All Onix 64x32_40: 6016882654522075654
+      All Onix 64x32_41: 3307803559905238753
+      All Onix 64x32_42: -8849256260177870382
+      All Onix 64x32_43: 4314199121310861643
+      All Onix 64x32_44: -3981379642697985316
+      All Onix 64x32_45: -4012486657609141777
+      All Onix 64x32_46: -3618467929942522498
+      All Onix 64x32_47: -8639569551845715650
+      All Onix 64x32_48: 3019422883147551917
+      All Onix 64x32_49: -3228826304171378437
+      All Onix 64x32_5: -3389501695205921
+      All Onix 64x32_50: -4011885619343178502
+      All Onix 64x32_51: -8155924854368675384
+      All Onix 64x32_52: -5390190903819921688
+      All Onix 64x32_53: -6886559835854751200
+      All Onix 64x32_54: -9219720515363195278
+      All Onix 64x32_55: 8187276419418512854
+      All Onix 64x32_56: 1995278306081243961
+      All Onix 64x32_57: -6163859213291596429
+      All Onix 64x32_58: 6143625637003613406
+      All Onix 64x32_59: -5357812025761267693
+      All Onix 64x32_6: 6939636738110737123
+      All Onix 64x32_60: -1496234142157039415
+      All Onix 64x32_61: -9193286017301171656
+      All Onix 64x32_62: 6824637396481386992
+      All Onix 64x32_63: -2680546916399250782
+      All Onix 64x32_64: -5500136744333540331
+      All Onix 64x32_65: 1599898073171097656
+      All Onix 64x32_66: 7166240538538160342
+      All Onix 64x32_67: -5297207410551539799
+      All Onix 64x32_68: -7971680943538229133
+      All Onix 64x32_69: -5289876822677120118
+      All Onix 64x32_7: 2539240273596020216
+      All Onix 64x32_70: -3712546761116921184
+      All Onix 64x32_71: -80294230021173367
+      All Onix 64x32_72: 4712313936873209893
+      All Onix 64x32_73: 8772502924244145011
+      All Onix 64x32_74: -6119419467146536838
+      All Onix 64x32_75: -2893679513870395704
+      All Onix 64x32_76: 1577068037688827263
+      All Onix 64x32_77: 6843195868128721381
+      All Onix 64x32_78: -6250786062424649540
+      All Onix 64x32_79: 6191069187444196155
+      All Onix 64x32_8: 2888056001180823654
+      All Onix 64x32_80: -806807585067619335
+      All Onix 64x32_81: 5494433171833305713
+      All Onix 64x32_82: -1187914981360992611
+      All Onix 64x32_83: -1964591411184959285
+      All Onix 64x32_84: -7540345666101744302
+      All Onix 64x32_85: -6525620913302906056
+      All Onix 64x32_86: 1009178510161949122
+      All Onix 64x32_87: 6756982980075182459
+      All Onix 64x32_88: -5034930611634089863
+      All Onix 64x32_89: -2630391162420254166
+      All Onix 64x32_9: 5331350102191037687
+      All Onix 64x32_90: -8667716795146563419
+      All Onix 64x32_91: 7535519123456131456
+      All Onix 64x32_92: 5369127315370973745
+      All Onix 64x32_93: -3941183949457198267
+      All Onix 64x32_94: -7989230936024274398
+      All Onix 64x32_95: -7350781402861607403
+      All Onix 64x32_96: 375784528104800974
+      All Onix 64x32_97: -8096493710617549503
+      All Onix 64x32_98: -8692554501910265954
+      All Onix 64x32_99: -4077590549546760905
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

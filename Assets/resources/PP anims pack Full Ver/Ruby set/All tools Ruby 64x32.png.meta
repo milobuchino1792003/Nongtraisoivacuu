@@ -1,0 +1,2340 @@
+fileFormatVersion: 2
+guid: a77c13fb9f09d8f4cafb94f6d625a244
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1318222989264310696
+    second: All tools Ruby 64x32_0
+  - first:
+      213: -1659826602386924204
+    second: All tools Ruby 64x32_1
+  - first:
+      213: 6675152725209842801
+    second: All tools Ruby 64x32_2
+  - first:
+      213: -5280204402094112887
+    second: All tools Ruby 64x32_3
+  - first:
+      213: 2172472952825158142
+    second: All tools Ruby 64x32_4
+  - first:
+      213: 7441768215742796772
+    second: All tools Ruby 64x32_5
+  - first:
+      213: 806968012310604831
+    second: All tools Ruby 64x32_6
+  - first:
+      213: 3138677219232830469
+    second: All tools Ruby 64x32_7
+  - first:
+      213: -2451579629395628061
+    second: All tools Ruby 64x32_8
+  - first:
+      213: 6397725348229682540
+    second: All tools Ruby 64x32_9
+  - first:
+      213: 5887829631638950568
+    second: All tools Ruby 64x32_10
+  - first:
+      213: 3851786696516504017
+    second: All tools Ruby 64x32_11
+  - first:
+      213: -2207121000789035221
+    second: All tools Ruby 64x32_12
+  - first:
+      213: 2244842037823171259
+    second: All tools Ruby 64x32_13
+  - first:
+      213: -5311452567207327936
+    second: All tools Ruby 64x32_14
+  - first:
+      213: 7688220189437939276
+    second: All tools Ruby 64x32_15
+  - first:
+      213: -2935004292013493804
+    second: All tools Ruby 64x32_16
+  - first:
+      213: -8013841229367695258
+    second: All tools Ruby 64x32_17
+  - first:
+      213: -4567134819063522001
+    second: All tools Ruby 64x32_18
+  - first:
+      213: -4913564543376377113
+    second: All tools Ruby 64x32_19
+  - first:
+      213: 5258670768546869670
+    second: All tools Ruby 64x32_20
+  - first:
+      213: 2919457237151807534
+    second: All tools Ruby 64x32_21
+  - first:
+      213: 6665497481088567102
+    second: All tools Ruby 64x32_22
+  - first:
+      213: 5970249721269729534
+    second: All tools Ruby 64x32_23
+  - first:
+      213: 2739275446867648388
+    second: All tools Ruby 64x32_24
+  - first:
+      213: -1392982867747512975
+    second: All tools Ruby 64x32_25
+  - first:
+      213: -6497887474969038272
+    second: All tools Ruby 64x32_26
+  - first:
+      213: -2734941923237138363
+    second: All tools Ruby 64x32_27
+  - first:
+      213: -8833094926678195148
+    second: All tools Ruby 64x32_28
+  - first:
+      213: -8473558259941578607
+    second: All tools Ruby 64x32_29
+  - first:
+      213: 651156851123991860
+    second: All tools Ruby 64x32_30
+  - first:
+      213: 665062950476805268
+    second: All tools Ruby 64x32_31
+  - first:
+      213: -1797700471032193714
+    second: All tools Ruby 64x32_32
+  - first:
+      213: -278245209043063002
+    second: All tools Ruby 64x32_33
+  - first:
+      213: 1827586118472106955
+    second: All tools Ruby 64x32_34
+  - first:
+      213: 5088955681889148553
+    second: All tools Ruby 64x32_35
+  - first:
+      213: 6469780924712235641
+    second: All tools Ruby 64x32_36
+  - first:
+      213: 8298005638021811603
+    second: All tools Ruby 64x32_37
+  - first:
+      213: -9121867180217276526
+    second: All tools Ruby 64x32_38
+  - first:
+      213: -7988763963595368399
+    second: All tools Ruby 64x32_39
+  - first:
+      213: 4200719556460589927
+    second: All tools Ruby 64x32_40
+  - first:
+      213: -8594494322251058941
+    second: All tools Ruby 64x32_41
+  - first:
+      213: -1353656298551280731
+    second: All tools Ruby 64x32_42
+  - first:
+      213: -3540261555642136258
+    second: All tools Ruby 64x32_43
+  - first:
+      213: 525420028173953402
+    second: All tools Ruby 64x32_44
+  - first:
+      213: 8773223846238208350
+    second: All tools Ruby 64x32_45
+  - first:
+      213: 1344858636305831069
+    second: All tools Ruby 64x32_46
+  - first:
+      213: -1991646179628289518
+    second: All tools Ruby 64x32_47
+  - first:
+      213: 1848897635350782373
+    second: All tools Ruby 64x32_48
+  - first:
+      213: 7620794380387409315
+    second: All tools Ruby 64x32_49
+  - first:
+      213: 7359013899790707051
+    second: All tools Ruby 64x32_50
+  - first:
+      213: 683707777513458652
+    second: All tools Ruby 64x32_51
+  - first:
+      213: 384507970687152516
+    second: All tools Ruby 64x32_52
+  - first:
+      213: -167172222652027272
+    second: All tools Ruby 64x32_53
+  - first:
+      213: 3949093316747583577
+    second: All tools Ruby 64x32_54
+  - first:
+      213: 6909579764224829832
+    second: All tools Ruby 64x32_55
+  - first:
+      213: -5793174209859591365
+    second: All tools Ruby 64x32_56
+  - first:
+      213: 976631079934230596
+    second: All tools Ruby 64x32_57
+  - first:
+      213: 3613122447902607992
+    second: All tools Ruby 64x32_58
+  - first:
+      213: 2721787842578944313
+    second: All tools Ruby 64x32_59
+  - first:
+      213: 6015838753421012104
+    second: All tools Ruby 64x32_60
+  - first:
+      213: 4584887848064560763
+    second: All tools Ruby 64x32_61
+  - first:
+      213: -8100686114734679228
+    second: All tools Ruby 64x32_62
+  - first:
+      213: -5773595676159130803
+    second: All tools Ruby 64x32_63
+  - first:
+      213: -7631194849059329377
+    second: All tools Ruby 64x32_64
+  - first:
+      213: -8325405574693480469
+    second: All tools Ruby 64x32_65
+  - first:
+      213: -4191365968465149444
+    second: All tools Ruby 64x32_66
+  - first:
+      213: -7811701542303814216
+    second: All tools Ruby 64x32_67
+  - first:
+      213: -7761062142023457301
+    second: All tools Ruby 64x32_68
+  - first:
+      213: -96720206367192062
+    second: All tools Ruby 64x32_69
+  - first:
+      213: 7236047609552253047
+    second: All tools Ruby 64x32_70
+  - first:
+      213: -5479901479877930341
+    second: All tools Ruby 64x32_71
+  - first:
+      213: 1424533575401177506
+    second: All tools Ruby 64x32_72
+  - first:
+      213: -8993744362791250240
+    second: All tools Ruby 64x32_73
+  - first:
+      213: 5034820594688970797
+    second: All tools Ruby 64x32_74
+  - first:
+      213: 2766482961830914294
+    second: All tools Ruby 64x32_75
+  - first:
+      213: -7039384348295280074
+    second: All tools Ruby 64x32_76
+  - first:
+      213: 183385886420595204
+    second: All tools Ruby 64x32_77
+  - first:
+      213: 1982362428430348137
+    second: All tools Ruby 64x32_78
+  - first:
+      213: -1402879538456557745
+    second: All tools Ruby 64x32_79
+  - first:
+      213: 4218491101402388860
+    second: All tools Ruby 64x32_80
+  - first:
+      213: 4695330827579115968
+    second: All tools Ruby 64x32_81
+  - first:
+      213: 2881472595356886459
+    second: All tools Ruby 64x32_82
+  - first:
+      213: -4993732205246696294
+    second: All tools Ruby 64x32_83
+  - first:
+      213: -901645528084365754
+    second: All tools Ruby 64x32_84
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 287
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ea52eec2bb4bde0800000000000000
+      internalID: -1318222989264310696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 287
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ddbffcf7c17f8e0800000000000000
+      internalID: -1659826602386924204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 287
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1740d9f7908e2ac50800000000000000
+      internalID: 6675152725209842801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 287
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ff9bf6212f8b6b0800000000000000
+      internalID: -5280204402094112887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_4
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 291
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9994de3ac262e10800000000000000
+      internalID: 2172472952825158142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_5
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 287
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3542893c8764760800000000000000
+      internalID: 7441768215742796772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_6
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 287
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c60e6b12de23b00800000000000000
+      internalID: 806968012310604831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_7
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 287
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504dbfc2d42de8b20800000000000000
+      internalID: 3138677219232830469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_8
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 287
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef2a4be05d3afdd0800000000000000
+      internalID: -2451579629395628061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_9
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 255
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c651ebfbe4949c850800000000000000
+      internalID: 6397725348229682540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 255
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2dbdbdad5c5b150800000000000000
+      internalID: 5887829631638950568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_11
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 255
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d90174c79b447530800000000000000
+      internalID: 3851786696516504017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_12
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 255
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b273aa3c42bbe51e0800000000000000
+      internalID: -2207121000789035221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_13
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 255
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba605190f7472f10800000000000000
+      internalID: 2244842037823171259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_14
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 255
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047454a080ee946b0800000000000000
+      internalID: -5311452567207327936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_15
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 255
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e4f62478b02ba60800000000000000
+      internalID: 7688220189437939276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_16
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 255
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1f9409525c447d0800000000000000
+      internalID: -2935004292013493804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_17
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 223
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668a82d6cdd19c090800000000000000
+      internalID: -8013841229367695258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_18
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 223
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d966c64174e90c0800000000000000
+      internalID: -4567134819063522001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_19
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 223
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eab81bb4138fcbb0800000000000000
+      internalID: -4913564543376377113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_20
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 223
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a177fdc33d8af840800000000000000
+      internalID: 5258670768546869670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_21
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 223
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e287065a3eef38820800000000000000
+      internalID: 2919457237151807534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_22
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 223
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e378b8bc4aa908c50800000000000000
+      internalID: 6665497481088567102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_23
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 223
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef838a06d769ad250800000000000000
+      internalID: 5970249721269729534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_24
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 223
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48fde70718cd30620800000000000000
+      internalID: 2739275446867648388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_25
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 223
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d54bd46712bace0800000000000000
+      internalID: -1392982867747512975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_26
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 191
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042b200d4cdd2d5a0800000000000000
+      internalID: -6497887474969038272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_27
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 191
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5407028afc88b0ad0800000000000000
+      internalID: -2734941923237138363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_28
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 191
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4348a04c6fa8a6580800000000000000
+      internalID: -8833094926678195148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_29
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 191
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198ea9c48afd76a80800000000000000
+      internalID: -8473558259941578607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_30
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 191
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435be44c4bf590900800000000000000
+      internalID: 651156851123991860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_31
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 191
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4947174da37ca3900800000000000000
+      internalID: 665062950476805268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_32
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 191
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4dd29b32f84d07e0800000000000000
+      internalID: -1797700471032193714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_33
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 191
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62fa882e479732cf0800000000000000
+      internalID: -278245209043063002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_34
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 191
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc307fb44e3ec5910800000000000000
+      internalID: 1827586118472106955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_35
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 159
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e55b0fa3a9f9640800000000000000
+      internalID: 5088955681889148553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_36
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 159
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9723210097749c950800000000000000
+      internalID: 6469780924712235641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_37
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 159
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d8a7eb920782370800000000000000
+      internalID: 8298005638021811603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_38
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 159
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297eada112e986180800000000000000
+      internalID: -9121867180217276526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_39
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 161
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138d47b5085322190800000000000000
+      internalID: -7988763963595368399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_40
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 159
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763bed32e24fb4a30800000000000000
+      internalID: 4200719556460589927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_41
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 159
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3013d1213f83ab880800000000000000
+      internalID: -8594494322251058941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_42
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 159
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab71e8b4c8d63de0800000000000000
+      internalID: -1353656298551280731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_43
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 159
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e398afb4fd67edec0800000000000000
+      internalID: -3540261555642136258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_44
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 127
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a792f295bbaaa4700800000000000000
+      internalID: 525420028173953402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_45
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 127
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51c30a0b90c0c970800000000000000
+      internalID: 8773223846238208350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_46
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 127
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94102aedc5e9a210800000000000000
+      internalID: 1344858636305831069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_47
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 127
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212fdf01a504c54e0800000000000000
+      internalID: -1991646179628289518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_48
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 127
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1a42d7a9a98a910800000000000000
+      internalID: 1848897635350782373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_49
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 127
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3add84dbc1082c960800000000000000
+      internalID: 7620794380387409315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_50
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 127
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69ef22f628702660800000000000000
+      internalID: 7359013899790707051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_51
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 127
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb8cd8e9940d7900800000000000000
+      internalID: 683707777513458652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_52
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 95
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4813d1e46fb065500800000000000000
+      internalID: 384507970687152516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_53
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 95
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e638ccfb51eadf0800000000000000
+      internalID: -167172222652027272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_54
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 95
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950eb99c27ffdc630800000000000000
+      internalID: 3949093316747583577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_55
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 95
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88929d1ef22c3ef50800000000000000
+      internalID: 6909579764224829832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_56
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 95
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b336d5befb28a9fa0800000000000000
+      internalID: -5793174209859591365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_57
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 110
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4400614fac0bd8d00800000000000000
+      internalID: 976631079934230596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_58
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 95
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a893529b3642230800000000000000
+      internalID: 3613122447902607992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_59
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 95
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93115e64f9bb5c520800000000000000
+      internalID: 2721787842578944313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_60
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 95
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c20b3197d8c7350800000000000000
+      internalID: 6015838753421012104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_61
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 63
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ea4eeb43bc0af30800000000000000
+      internalID: 4584887848064560763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_62
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 63
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44bdc4ed5e4949f80800000000000000
+      internalID: -8100686114734679228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_63
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 63
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43cdc5825110efa0800000000000000
+      internalID: -5773595676159130803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_64
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 63
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a270277bc881690800000000000000
+      internalID: -7631194849059329377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_65
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 63
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7965d5db7367c80800000000000000
+      internalID: -8325405574693480469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_66
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 63
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf149f5cbd645d5c0800000000000000
+      internalID: -4191365968465149444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_67
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 63
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd2c9fd5d2479390800000000000000
+      internalID: -7811701542303814216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_68
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 63
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5a5f80a1b2b4490800000000000000
+      internalID: -7761062142023457301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_69
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 31
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c81e81c7168aef0800000000000000
+      internalID: -96720206367192062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_70
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 31
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7703d2176fa9b6460800000000000000
+      internalID: 7236047609552253047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_71
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 31
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b921db743aa73f3b0800000000000000
+      internalID: -5479901479877930341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_72
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 31
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a187644db5f4c310800000000000000
+      internalID: 1424533575401177506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_73
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 31
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6d727272dcf2380800000000000000
+      internalID: -8993744362791250240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_74
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 31
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20d14eb7a64fd540800000000000000
+      internalID: 5034820594688970797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_75
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 31
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f82a19a895846620800000000000000
+      internalID: 2766482961830914294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_76
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 31
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a4a624b351f4e90800000000000000
+      internalID: -7039384348295280074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_77
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4027be8fd748b8200800000000000000
+      internalID: 183385886420595204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_78
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 0
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96febaa2024c28b10800000000000000
+      internalID: 1982362428430348137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_79
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 0
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4702a71e78f78ce0800000000000000
+      internalID: -1402879538456557745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_80
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 0
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c795c336e471b8a30800000000000000
+      internalID: 4218491101402388860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_81
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 0
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c94bc0c28a292140800000000000000
+      internalID: 4695330827579115968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_82
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 0
+        width: 75
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5254c0f0c0df720800000000000000
+      internalID: 2881472595356886459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_83
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 0
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94b7da6403b2bab0800000000000000
+      internalID: -4993732205246696294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Ruby 64x32_84
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 0
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e36395b26bc73f0800000000000000
+      internalID: -901645528084365754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      All tools Ruby 64x32_0: -1318222989264310696
+      All tools Ruby 64x32_1: -1659826602386924204
+      All tools Ruby 64x32_10: 5887829631638950568
+      All tools Ruby 64x32_11: 3851786696516504017
+      All tools Ruby 64x32_12: -2207121000789035221
+      All tools Ruby 64x32_13: 2244842037823171259
+      All tools Ruby 64x32_14: -5311452567207327936
+      All tools Ruby 64x32_15: 7688220189437939276
+      All tools Ruby 64x32_16: -2935004292013493804
+      All tools Ruby 64x32_17: -8013841229367695258
+      All tools Ruby 64x32_18: -4567134819063522001
+      All tools Ruby 64x32_19: -4913564543376377113
+      All tools Ruby 64x32_2: 6675152725209842801
+      All tools Ruby 64x32_20: 5258670768546869670
+      All tools Ruby 64x32_21: 2919457237151807534
+      All tools Ruby 64x32_22: 6665497481088567102
+      All tools Ruby 64x32_23: 5970249721269729534
+      All tools Ruby 64x32_24: 2739275446867648388
+      All tools Ruby 64x32_25: -1392982867747512975
+      All tools Ruby 64x32_26: -6497887474969038272
+      All tools Ruby 64x32_27: -2734941923237138363
+      All tools Ruby 64x32_28: -8833094926678195148
+      All tools Ruby 64x32_29: -8473558259941578607
+      All tools Ruby 64x32_3: -5280204402094112887
+      All tools Ruby 64x32_30: 651156851123991860
+      All tools Ruby 64x32_31: 665062950476805268
+      All tools Ruby 64x32_32: -1797700471032193714
+      All tools Ruby 64x32_33: -278245209043063002
+      All tools Ruby 64x32_34: 1827586118472106955
+      All tools Ruby 64x32_35: 5088955681889148553
+      All tools Ruby 64x32_36: 6469780924712235641
+      All tools Ruby 64x32_37: 8298005638021811603
+      All tools Ruby 64x32_38: -9121867180217276526
+      All tools Ruby 64x32_39: -7988763963595368399
+      All tools Ruby 64x32_4: 2172472952825158142
+      All tools Ruby 64x32_40: 4200719556460589927
+      All tools Ruby 64x32_41: -8594494322251058941
+      All tools Ruby 64x32_42: -1353656298551280731
+      All tools Ruby 64x32_43: -3540261555642136258
+      All tools Ruby 64x32_44: 525420028173953402
+      All tools Ruby 64x32_45: 8773223846238208350
+      All tools Ruby 64x32_46: 1344858636305831069
+      All tools Ruby 64x32_47: -1991646179628289518
+      All tools Ruby 64x32_48: 1848897635350782373
+      All tools Ruby 64x32_49: 7620794380387409315
+      All tools Ruby 64x32_5: 7441768215742796772
+      All tools Ruby 64x32_50: 7359013899790707051
+      All tools Ruby 64x32_51: 683707777513458652
+      All tools Ruby 64x32_52: 384507970687152516
+      All tools Ruby 64x32_53: -167172222652027272
+      All tools Ruby 64x32_54: 3949093316747583577
+      All tools Ruby 64x32_55: 6909579764224829832
+      All tools Ruby 64x32_56: -5793174209859591365
+      All tools Ruby 64x32_57: 976631079934230596
+      All tools Ruby 64x32_58: 3613122447902607992
+      All tools Ruby 64x32_59: 2721787842578944313
+      All tools Ruby 64x32_6: 806968012310604831
+      All tools Ruby 64x32_60: 6015838753421012104
+      All tools Ruby 64x32_61: 4584887848064560763
+      All tools Ruby 64x32_62: -8100686114734679228
+      All tools Ruby 64x32_63: -5773595676159130803
+      All tools Ruby 64x32_64: -7631194849059329377
+      All tools Ruby 64x32_65: -8325405574693480469
+      All tools Ruby 64x32_66: -4191365968465149444
+      All tools Ruby 64x32_67: -7811701542303814216
+      All tools Ruby 64x32_68: -7761062142023457301
+      All tools Ruby 64x32_69: -96720206367192062
+      All tools Ruby 64x32_7: 3138677219232830469
+      All tools Ruby 64x32_70: 7236047609552253047
+      All tools Ruby 64x32_71: -5479901479877930341
+      All tools Ruby 64x32_72: 1424533575401177506
+      All tools Ruby 64x32_73: -8993744362791250240
+      All tools Ruby 64x32_74: 5034820594688970797
+      All tools Ruby 64x32_75: 2766482961830914294
+      All tools Ruby 64x32_76: -7039384348295280074
+      All tools Ruby 64x32_77: 183385886420595204
+      All tools Ruby 64x32_78: 1982362428430348137
+      All tools Ruby 64x32_79: -1402879538456557745
+      All tools Ruby 64x32_8: -2451579629395628061
+      All tools Ruby 64x32_80: 4218491101402388860
+      All tools Ruby 64x32_81: 4695330827579115968
+      All tools Ruby 64x32_82: 2881472595356886459
+      All tools Ruby 64x32_83: -4993732205246696294
+      All tools Ruby 64x32_84: -901645528084365754
+      All tools Ruby 64x32_9: 6397725348229682540
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

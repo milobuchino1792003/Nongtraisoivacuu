@@ -1,0 +1,2340 @@
+fileFormatVersion: 2
+guid: 1a1343e6c6fe44949a4dfb7c8bd4c067
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4373807538383801850
+    second: All tools Iron 64x32_0
+  - first:
+      213: 6085237733170976376
+    second: All tools Iron 64x32_1
+  - first:
+      213: 187009907154005099
+    second: All tools Iron 64x32_2
+  - first:
+      213: -5933997008461299259
+    second: All tools Iron 64x32_3
+  - first:
+      213: -6083656714902283582
+    second: All tools Iron 64x32_4
+  - first:
+      213: 696265562986262560
+    second: All tools Iron 64x32_5
+  - first:
+      213: 6553505968156967979
+    second: All tools Iron 64x32_6
+  - first:
+      213: -2625887127361178653
+    second: All tools Iron 64x32_7
+  - first:
+      213: -8104766277245106633
+    second: All tools Iron 64x32_8
+  - first:
+      213: 1795474037428558828
+    second: All tools Iron 64x32_9
+  - first:
+      213: -5547921586201624945
+    second: All tools Iron 64x32_10
+  - first:
+      213: -1215089947117789605
+    second: All tools Iron 64x32_11
+  - first:
+      213: -8200965190623080097
+    second: All tools Iron 64x32_12
+  - first:
+      213: 1828019990612904256
+    second: All tools Iron 64x32_13
+  - first:
+      213: 6751842272540321181
+    second: All tools Iron 64x32_14
+  - first:
+      213: 212147865401075142
+    second: All tools Iron 64x32_15
+  - first:
+      213: -2865152947144969599
+    second: All tools Iron 64x32_16
+  - first:
+      213: 8731944708540640231
+    second: All tools Iron 64x32_17
+  - first:
+      213: -9043319858356857417
+    second: All tools Iron 64x32_18
+  - first:
+      213: 3025632651700069262
+    second: All tools Iron 64x32_19
+  - first:
+      213: 5896392252155392569
+    second: All tools Iron 64x32_20
+  - first:
+      213: -3472778381624953003
+    second: All tools Iron 64x32_21
+  - first:
+      213: -8193179327798763395
+    second: All tools Iron 64x32_22
+  - first:
+      213: -8757433758866166480
+    second: All tools Iron 64x32_23
+  - first:
+      213: 2511568298388104510
+    second: All tools Iron 64x32_24
+  - first:
+      213: -3062095597190550660
+    second: All tools Iron 64x32_25
+  - first:
+      213: -494441767800063963
+    second: All tools Iron 64x32_26
+  - first:
+      213: -7013088033743401370
+    second: All tools Iron 64x32_27
+  - first:
+      213: -1814982201042949342
+    second: All tools Iron 64x32_28
+  - first:
+      213: -6337505787188334846
+    second: All tools Iron 64x32_29
+  - first:
+      213: -6930434935269100646
+    second: All tools Iron 64x32_30
+  - first:
+      213: 3029776652642710174
+    second: All tools Iron 64x32_31
+  - first:
+      213: -388655229179269605
+    second: All tools Iron 64x32_32
+  - first:
+      213: -4920381775259157296
+    second: All tools Iron 64x32_33
+  - first:
+      213: -2050913216005187220
+    second: All tools Iron 64x32_34
+  - first:
+      213: -8612227735074245497
+    second: All tools Iron 64x32_35
+  - first:
+      213: 2046436779628670577
+    second: All tools Iron 64x32_36
+  - first:
+      213: -7518057529450811372
+    second: All tools Iron 64x32_37
+  - first:
+      213: 8188924773474622317
+    second: All tools Iron 64x32_38
+  - first:
+      213: -5896082684826290779
+    second: All tools Iron 64x32_39
+  - first:
+      213: -5161298240838611943
+    second: All tools Iron 64x32_40
+  - first:
+      213: -3487678162501131351
+    second: All tools Iron 64x32_41
+  - first:
+      213: -4167655089287260906
+    second: All tools Iron 64x32_42
+  - first:
+      213: -1481350164871470924
+    second: All tools Iron 64x32_43
+  - first:
+      213: 9037929737867155160
+    second: All tools Iron 64x32_44
+  - first:
+      213: 6109957427029745667
+    second: All tools Iron 64x32_45
+  - first:
+      213: -1798680034865999036
+    second: All tools Iron 64x32_46
+  - first:
+      213: 1497199745945157252
+    second: All tools Iron 64x32_47
+  - first:
+      213: -5908113616704036578
+    second: All tools Iron 64x32_48
+  - first:
+      213: -1360168935919274071
+    second: All tools Iron 64x32_49
+  - first:
+      213: 186781336458466228
+    second: All tools Iron 64x32_50
+  - first:
+      213: -457731027904062062
+    second: All tools Iron 64x32_51
+  - first:
+      213: 6999967964700175446
+    second: All tools Iron 64x32_52
+  - first:
+      213: 5972625183027188836
+    second: All tools Iron 64x32_53
+  - first:
+      213: -6331437199848431601
+    second: All tools Iron 64x32_54
+  - first:
+      213: -8064094109133695340
+    second: All tools Iron 64x32_55
+  - first:
+      213: 8268863182686183085
+    second: All tools Iron 64x32_56
+  - first:
+      213: 8859701973267225996
+    second: All tools Iron 64x32_57
+  - first:
+      213: -3321274848547436334
+    second: All tools Iron 64x32_58
+  - first:
+      213: 1533687369456453576
+    second: All tools Iron 64x32_59
+  - first:
+      213: -1438993591740897597
+    second: All tools Iron 64x32_60
+  - first:
+      213: 2707236313784910434
+    second: All tools Iron 64x32_61
+  - first:
+      213: -2036699215834462388
+    second: All tools Iron 64x32_62
+  - first:
+      213: 1624762703231413230
+    second: All tools Iron 64x32_63
+  - first:
+      213: -6694014432632529741
+    second: All tools Iron 64x32_64
+  - first:
+      213: -3326667783348156866
+    second: All tools Iron 64x32_65
+  - first:
+      213: 7331834116653787750
+    second: All tools Iron 64x32_66
+  - first:
+      213: 5463972481137739236
+    second: All tools Iron 64x32_67
+  - first:
+      213: -8761128083627060721
+    second: All tools Iron 64x32_68
+  - first:
+      213: 8340894430641515693
+    second: All tools Iron 64x32_69
+  - first:
+      213: -5761207519828070906
+    second: All tools Iron 64x32_70
+  - first:
+      213: -1425217764677647347
+    second: All tools Iron 64x32_71
+  - first:
+      213: 7742516890222258820
+    second: All tools Iron 64x32_72
+  - first:
+      213: -1915565315007922612
+    second: All tools Iron 64x32_73
+  - first:
+      213: 6389024768781380243
+    second: All tools Iron 64x32_74
+  - first:
+      213: 1039589717525233774
+    second: All tools Iron 64x32_75
+  - first:
+      213: -3235566785942295858
+    second: All tools Iron 64x32_76
+  - first:
+      213: 6537616305870389158
+    second: All tools Iron 64x32_77
+  - first:
+      213: 5532506431090642838
+    second: All tools Iron 64x32_78
+  - first:
+      213: 6157382970638951090
+    second: All tools Iron 64x32_79
+  - first:
+      213: -2890538160906313675
+    second: All tools Iron 64x32_80
+  - first:
+      213: 1522203749896281277
+    second: All tools Iron 64x32_81
+  - first:
+      213: -9057301990047840786
+    second: All tools Iron 64x32_82
+  - first:
+      213: 4689343109960309992
+    second: All tools Iron 64x32_83
+  - first:
+      213: -7107189837650967628
+    second: All tools Iron 64x32_84
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: All tools Iron 64x32_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 287
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60235be973d1d43c0800000000000000
+      internalID: -4373807538383801850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 287
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87695733a7b137450800000000000000
+      internalID: 6085237733170976376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 287
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ca46d0584689200800000000000000
+      internalID: 187009907154005099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 287
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c10f64192536ada0800000000000000
+      internalID: -5933997008461299259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_4
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 291
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca54dc4372829ba0800000000000000
+      internalID: -6083656714902283582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_5
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 287
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020322f27d1a9a900800000000000000
+      internalID: 696265562986262560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_6
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 287
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b240661c4fab2fa50800000000000000
+      internalID: 6553505968156967979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_7
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 287
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3bd59f199fe8bd0800000000000000
+      internalID: -2625887127361178653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_8
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 287
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7368d310306168f80800000000000000
+      internalID: -8104766277245106633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_9
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 255
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb9d5ccf1ecae810800000000000000
+      internalID: 1795474037428558828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 255
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8efab426b2d103b0800000000000000
+      internalID: -5547921586201624945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_11
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 255
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e55e38122232fe0800000000000000
+      internalID: -1215089947117789605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_12
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 255
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5151951c91503e80800000000000000
+      internalID: -8200965190623080097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_13
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 255
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0498bc60f7e6e5910800000000000000
+      internalID: 1828019990612904256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_14
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 255
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d956b3a26cc53bd50800000000000000
+      internalID: 6751842272540321181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_15
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 255
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5a61d0c53b1f200800000000000000
+      internalID: 212147865401075142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_16
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 255
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182b246239eec38d0800000000000000
+      internalID: -2865152947144969599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_17
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 223
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ebaae6d2791e2970800000000000000
+      internalID: 8731944708540640231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_18
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 223
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5576c908caf7280800000000000000
+      internalID: -9043319858356857417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_19
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 223
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83e761cdd43df920800000000000000
+      internalID: 3025632651700069262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_20
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 223
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932761e438134d150800000000000000
+      internalID: 5896392252155392569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_21
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 223
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557b69326763ecfc0800000000000000
+      internalID: -3472778381624953003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_22
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 223
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d702b798fcafb4e80800000000000000
+      internalID: -8193179327798763395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_23
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 223
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03da4ca2568577680800000000000000
+      internalID: -8757433758866166480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_24
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 223
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e352e8e7f02ead220800000000000000
+      internalID: 2511568298388104510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_25
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 223
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b6b2d27404185d0800000000000000
+      internalID: -3062095597190550660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_26
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 191
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5283924f4d36329f0800000000000000
+      internalID: -494441767800063963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_27
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 191
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e8e2a17918cae90800000000000000
+      internalID: -7013088033743401370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_28
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 191
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22bad29ed43efc6e0800000000000000
+      internalID: -1814982201042949342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_29
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 191
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f28a86018ac08a0800000000000000
+      internalID: -6337505787188334846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_30
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 191
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93f358352622df90800000000000000
+      internalID: -6930434935269100646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_31
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 191
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e927a8920ddeb0a20800000000000000
+      internalID: 3029776652642710174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_32
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 191
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1eeba4d0283b9af0800000000000000
+      internalID: -388655229179269605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_33
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 191
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc3f5e38da47bbb0800000000000000
+      internalID: -4920381775259157296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_34
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 191
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c695bd6db41b983e0800000000000000
+      internalID: -2050913216005187220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_35
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 159
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784f12621883b7880800000000000000
+      internalID: -8612227735074245497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_36
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 159
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17eaf099867666c10800000000000000
+      internalID: 2046436779628670577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_37
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 159
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4103224628e7aa790800000000000000
+      internalID: -7518057529450811372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_38
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 159
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6bd957d1b7e4a170800000000000000
+      internalID: 8188924773474622317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_39
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 161
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5f8947908ec2ea0800000000000000
+      internalID: -5896082684826290779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_40
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 159
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c47fe78926f58b0800000000000000
+      internalID: -5161298240838611943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_41
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 159
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3ab319037499fc0800000000000000
+      internalID: -3487678162501131351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_42
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 159
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6151fa807c38926c0800000000000000
+      internalID: -4167655089287260906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_43
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 159
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0aed2afdf217be0800000000000000
+      internalID: -1481350164871470924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_44
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 127
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6d28a263d2d6d70800000000000000
+      internalID: 9037929737867155160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_45
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 127
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3002ede68edeac450800000000000000
+      internalID: 6109957427029745667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_46
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 127
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4439931c90ec907e0800000000000000
+      internalID: -1798680034865999036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_47
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 127
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ebdd68c3f17c410800000000000000
+      internalID: 1497199745945157252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_48
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 127
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1125b7d7f9220ea0800000000000000
+      internalID: -5908113616704036578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_49
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 127
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7b20c2f85bf1de0800000000000000
+      internalID: -1360168935919274071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_50
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 127
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3974ac2a4979200800000000000000
+      internalID: 186781336458466228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_51
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 127
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d9a172e00d5a9f0800000000000000
+      internalID: -457731027904062062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_52
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 95
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c6117c6c1e42160800000000000000
+      internalID: 6999967964700175446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_53
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 95
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46453eaa5f603e250800000000000000
+      internalID: 5972625183027188836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_54
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 95
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00275189673228a0800000000000000
+      internalID: -6331437199848431601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_55
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 95
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49614c51225961090800000000000000
+      internalID: -8064094109133695340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_56
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 95
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daed05c1147e0c270800000000000000
+      internalID: 8268863182686183085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_57
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 110
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d9b64010cf3fa70800000000000000
+      internalID: 8859701973267225996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_58
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 95
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d804e24f1678e1d0800000000000000
+      internalID: -3321274848547436334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_59
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 95
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c784f46980c84510800000000000000
+      internalID: 1533687369456453576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_60
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 95
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c66832d3faa70ce0800000000000000
+      internalID: -1438993591740897597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_61
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 63
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26200367519029520800000000000000
+      internalID: 2707236313784910434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_62
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 63
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47ced5aad03cb3e0800000000000000
+      internalID: -2036699215834462388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_63
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 63
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb696af1115c8610800000000000000
+      internalID: 1624762703231413230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_64
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 63
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc999507551a13a0800000000000000
+      internalID: -6694014432632529741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_65
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 63
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e360cc7c64d45d1d0800000000000000
+      internalID: -3326667783348156866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_66
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 63
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a2d3b8848efb560800000000000000
+      internalID: 7331834116653787750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_67
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 63
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e589b0b50ee3db40800000000000000
+      internalID: 5463972481137739236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_68
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 63
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02d5b72d683a6680800000000000000
+      internalID: -8761128083627060721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_69
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 31
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daceb6fea4fc0c370800000000000000
+      internalID: 8340894430641515693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_70
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 31
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ea65fe8441c00b0800000000000000
+      internalID: -5761207519828070906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_71
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 31
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0400d08efb983ce0800000000000000
+      internalID: -1425217764677647347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_72
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 31
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ae82d0712f27b60800000000000000
+      internalID: 7742516890222258820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_73
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 31
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4eb4eebe7b8a65e0800000000000000
+      internalID: -1915565315007922612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_74
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 31
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ae26c3d206aa850800000000000000
+      internalID: 6389024768781380243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_75
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 31
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e608d31175d5d6e00800000000000000
+      internalID: 1039589717525233774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_76
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 31
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca6bd4a625f813d0800000000000000
+      internalID: -3235566785942295858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_77
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6afb43574674aba50800000000000000
+      internalID: 6537616305870389158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_78
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 0
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69fc8be594967cc40800000000000000
+      internalID: 5532506431090642838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_79
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 0
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b269f6403b637550800000000000000
+      internalID: 6157382970638951090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_80
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 0
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 530e77d7bdeb2e7d0800000000000000
+      internalID: -2890538160906313675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_81
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 0
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbcd55cde34ff1510800000000000000
+      internalID: 1522203749896281277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_82
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 0
+        width: 75
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee582c3e3dffd4280800000000000000
+      internalID: -9057301990047840786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_83
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 0
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec1c1b96b4e31140800000000000000
+      internalID: 4689343109960309992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron 64x32_84
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 0
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b34c878f703e5d90800000000000000
+      internalID: -7107189837650967628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      All tools Iron 64x32_0: -4373807538383801850
+      All tools Iron 64x32_1: 6085237733170976376
+      All tools Iron 64x32_10: -5547921586201624945
+      All tools Iron 64x32_11: -1215089947117789605
+      All tools Iron 64x32_12: -8200965190623080097
+      All tools Iron 64x32_13: 1828019990612904256
+      All tools Iron 64x32_14: 6751842272540321181
+      All tools Iron 64x32_15: 212147865401075142
+      All tools Iron 64x32_16: -2865152947144969599
+      All tools Iron 64x32_17: 8731944708540640231
+      All tools Iron 64x32_18: -9043319858356857417
+      All tools Iron 64x32_19: 3025632651700069262
+      All tools Iron 64x32_2: 187009907154005099
+      All tools Iron 64x32_20: 5896392252155392569
+      All tools Iron 64x32_21: -3472778381624953003
+      All tools Iron 64x32_22: -8193179327798763395
+      All tools Iron 64x32_23: -8757433758866166480
+      All tools Iron 64x32_24: 2511568298388104510
+      All tools Iron 64x32_25: -3062095597190550660
+      All tools Iron 64x32_26: -494441767800063963
+      All tools Iron 64x32_27: -7013088033743401370
+      All tools Iron 64x32_28: -1814982201042949342
+      All tools Iron 64x32_29: -6337505787188334846
+      All tools Iron 64x32_3: -5933997008461299259
+      All tools Iron 64x32_30: -6930434935269100646
+      All tools Iron 64x32_31: 3029776652642710174
+      All tools Iron 64x32_32: -388655229179269605
+      All tools Iron 64x32_33: -4920381775259157296
+      All tools Iron 64x32_34: -2050913216005187220
+      All tools Iron 64x32_35: -8612227735074245497
+      All tools Iron 64x32_36: 2046436779628670577
+      All tools Iron 64x32_37: -7518057529450811372
+      All tools Iron 64x32_38: 8188924773474622317
+      All tools Iron 64x32_39: -5896082684826290779
+      All tools Iron 64x32_4: -6083656714902283582
+      All tools Iron 64x32_40: -5161298240838611943
+      All tools Iron 64x32_41: -3487678162501131351
+      All tools Iron 64x32_42: -4167655089287260906
+      All tools Iron 64x32_43: -1481350164871470924
+      All tools Iron 64x32_44: 9037929737867155160
+      All tools Iron 64x32_45: 6109957427029745667
+      All tools Iron 64x32_46: -1798680034865999036
+      All tools Iron 64x32_47: 1497199745945157252
+      All tools Iron 64x32_48: -5908113616704036578
+      All tools Iron 64x32_49: -1360168935919274071
+      All tools Iron 64x32_5: 696265562986262560
+      All tools Iron 64x32_50: 186781336458466228
+      All tools Iron 64x32_51: -457731027904062062
+      All tools Iron 64x32_52: 6999967964700175446
+      All tools Iron 64x32_53: 5972625183027188836
+      All tools Iron 64x32_54: -6331437199848431601
+      All tools Iron 64x32_55: -8064094109133695340
+      All tools Iron 64x32_56: 8268863182686183085
+      All tools Iron 64x32_57: 8859701973267225996
+      All tools Iron 64x32_58: -3321274848547436334
+      All tools Iron 64x32_59: 1533687369456453576
+      All tools Iron 64x32_6: 6553505968156967979
+      All tools Iron 64x32_60: -1438993591740897597
+      All tools Iron 64x32_61: 2707236313784910434
+      All tools Iron 64x32_62: -2036699215834462388
+      All tools Iron 64x32_63: 1624762703231413230
+      All tools Iron 64x32_64: -6694014432632529741
+      All tools Iron 64x32_65: -3326667783348156866
+      All tools Iron 64x32_66: 7331834116653787750
+      All tools Iron 64x32_67: 5463972481137739236
+      All tools Iron 64x32_68: -8761128083627060721
+      All tools Iron 64x32_69: 8340894430641515693
+      All tools Iron 64x32_7: -2625887127361178653
+      All tools Iron 64x32_70: -5761207519828070906
+      All tools Iron 64x32_71: -1425217764677647347
+      All tools Iron 64x32_72: 7742516890222258820
+      All tools Iron 64x32_73: -1915565315007922612
+      All tools Iron 64x32_74: 6389024768781380243
+      All tools Iron 64x32_75: 1039589717525233774
+      All tools Iron 64x32_76: -3235566785942295858
+      All tools Iron 64x32_77: 6537616305870389158
+      All tools Iron 64x32_78: 5532506431090642838
+      All tools Iron 64x32_79: 6157382970638951090
+      All tools Iron 64x32_8: -8104766277245106633
+      All tools Iron 64x32_80: -2890538160906313675
+      All tools Iron 64x32_81: 1522203749896281277
+      All tools Iron 64x32_82: -9057301990047840786
+      All tools Iron 64x32_83: 4689343109960309992
+      All tools Iron 64x32_84: -7107189837650967628
+      All tools Iron 64x32_9: 1795474037428558828
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

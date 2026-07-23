@@ -1,0 +1,2288 @@
+fileFormatVersion: 2
+guid: 7db4462a4ca19974bad5adc98dec5a23
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1083801196764019216
+    second: All tools Gold No hands 64x32_0
+  - first:
+      213: -8177522619313681204
+    second: All tools Gold No hands 64x32_1
+  - first:
+      213: 3851975764258160160
+    second: All tools Gold No hands 64x32_2
+  - first:
+      213: 5808000130732248002
+    second: All tools Gold No hands 64x32_3
+  - first:
+      213: -2846120275209246505
+    second: All tools Gold No hands 64x32_4
+  - first:
+      213: -2408579735704185874
+    second: All tools Gold No hands 64x32_5
+  - first:
+      213: 4115309351836095506
+    second: All tools Gold No hands 64x32_6
+  - first:
+      213: -9201389942991595710
+    second: All tools Gold No hands 64x32_7
+  - first:
+      213: -7920417610808170829
+    second: All tools Gold No hands 64x32_8
+  - first:
+      213: 8497738690179865058
+    second: All tools Gold No hands 64x32_9
+  - first:
+      213: -2647451007538474470
+    second: All tools Gold No hands 64x32_10
+  - first:
+      213: 6626203947844763730
+    second: All tools Gold No hands 64x32_11
+  - first:
+      213: -5334114794952877530
+    second: All tools Gold No hands 64x32_12
+  - first:
+      213: 7884435107441226391
+    second: All tools Gold No hands 64x32_13
+  - first:
+      213: 8589376519984132592
+    second: All tools Gold No hands 64x32_14
+  - first:
+      213: -3234323566433165933
+    second: All tools Gold No hands 64x32_15
+  - first:
+      213: 8071993222106506607
+    second: All tools Gold No hands 64x32_16
+  - first:
+      213: 8263821251147144675
+    second: All tools Gold No hands 64x32_17
+  - first:
+      213: 3643321474373278176
+    second: All tools Gold No hands 64x32_18
+  - first:
+      213: -2308070634042836701
+    second: All tools Gold No hands 64x32_19
+  - first:
+      213: -4001061956329642725
+    second: All tools Gold No hands 64x32_20
+  - first:
+      213: 8884720611486407737
+    second: All tools Gold No hands 64x32_21
+  - first:
+      213: -5170639264291671392
+    second: All tools Gold No hands 64x32_22
+  - first:
+      213: -3049290914081836230
+    second: All tools Gold No hands 64x32_23
+  - first:
+      213: 8288310728979974539
+    second: All tools Gold No hands 64x32_24
+  - first:
+      213: -4978414734482508397
+    second: All tools Gold No hands 64x32_25
+  - first:
+      213: -4344123964632094037
+    second: All tools Gold No hands 64x32_26
+  - first:
+      213: -6266150769178792270
+    second: All tools Gold No hands 64x32_27
+  - first:
+      213: 4926169226722206732
+    second: All tools Gold No hands 64x32_28
+  - first:
+      213: 3012709185735581871
+    second: All tools Gold No hands 64x32_29
+  - first:
+      213: -1477381026443547227
+    second: All tools Gold No hands 64x32_30
+  - first:
+      213: 7315043548683338255
+    second: All tools Gold No hands 64x32_31
+  - first:
+      213: -1938136412371471862
+    second: All tools Gold No hands 64x32_32
+  - first:
+      213: -9192145221109575410
+    second: All tools Gold No hands 64x32_33
+  - first:
+      213: -8958542108994473601
+    second: All tools Gold No hands 64x32_34
+  - first:
+      213: -2301819719084230325
+    second: All tools Gold No hands 64x32_35
+  - first:
+      213: -1227991005007651736
+    second: All tools Gold No hands 64x32_36
+  - first:
+      213: 264956756311898476
+    second: All tools Gold No hands 64x32_37
+  - first:
+      213: -7462237163259986207
+    second: All tools Gold No hands 64x32_38
+  - first:
+      213: 3995012924764358062
+    second: All tools Gold No hands 64x32_39
+  - first:
+      213: 943350235446016148
+    second: All tools Gold No hands 64x32_40
+  - first:
+      213: 9133786734762847265
+    second: All tools Gold No hands 64x32_41
+  - first:
+      213: 873935676082954263
+    second: All tools Gold No hands 64x32_42
+  - first:
+      213: -5180318606277173125
+    second: All tools Gold No hands 64x32_43
+  - first:
+      213: -280580602583079813
+    second: All tools Gold No hands 64x32_44
+  - first:
+      213: 4480664420354531282
+    second: All tools Gold No hands 64x32_45
+  - first:
+      213: 37977255953460816
+    second: All tools Gold No hands 64x32_46
+  - first:
+      213: -5882379733136465334
+    second: All tools Gold No hands 64x32_47
+  - first:
+      213: 6384525315928592594
+    second: All tools Gold No hands 64x32_48
+  - first:
+      213: -3692262368065184388
+    second: All tools Gold No hands 64x32_49
+  - first:
+      213: 4384396209634785926
+    second: All tools Gold No hands 64x32_50
+  - first:
+      213: -2252370293845032040
+    second: All tools Gold No hands 64x32_51
+  - first:
+      213: -2167318472091315334
+    second: All tools Gold No hands 64x32_52
+  - first:
+      213: -1606792603727902721
+    second: All tools Gold No hands 64x32_53
+  - first:
+      213: -8492911379771888779
+    second: All tools Gold No hands 64x32_54
+  - first:
+      213: 8571783826416444176
+    second: All tools Gold No hands 64x32_55
+  - first:
+      213: -6425407583561725755
+    second: All tools Gold No hands 64x32_56
+  - first:
+      213: 3923524858125551431
+    second: All tools Gold No hands 64x32_57
+  - first:
+      213: -1192862566914160662
+    second: All tools Gold No hands 64x32_58
+  - first:
+      213: 6342352236370947973
+    second: All tools Gold No hands 64x32_59
+  - first:
+      213: -7192966176167207139
+    second: All tools Gold No hands 64x32_60
+  - first:
+      213: 480102696258678888
+    second: All tools Gold No hands 64x32_61
+  - first:
+      213: 1980142897444634783
+    second: All tools Gold No hands 64x32_62
+  - first:
+      213: 5546200840795896411
+    second: All tools Gold No hands 64x32_63
+  - first:
+      213: -7755906284347956587
+    second: All tools Gold No hands 64x32_64
+  - first:
+      213: 5247660947523233288
+    second: All tools Gold No hands 64x32_65
+  - first:
+      213: 5432382274713301236
+    second: All tools Gold No hands 64x32_66
+  - first:
+      213: 7442517894637681317
+    second: All tools Gold No hands 64x32_67
+  - first:
+      213: 6135973440971905896
+    second: All tools Gold No hands 64x32_68
+  - first:
+      213: -5745195700980710219
+    second: All tools Gold No hands 64x32_69
+  - first:
+      213: 4514260095820988085
+    second: All tools Gold No hands 64x32_70
+  - first:
+      213: -5630499936633611526
+    second: All tools Gold No hands 64x32_71
+  - first:
+      213: 5901007473963135816
+    second: All tools Gold No hands 64x32_72
+  - first:
+      213: 7917735960279680520
+    second: All tools Gold No hands 64x32_73
+  - first:
+      213: 4818746072427864136
+    second: All tools Gold No hands 64x32_74
+  - first:
+      213: 7407860545370082651
+    second: All tools Gold No hands 64x32_75
+  - first:
+      213: -1811332993618371834
+    second: All tools Gold No hands 64x32_76
+  - first:
+      213: 6486193723895570091
+    second: All tools Gold No hands 64x32_77
+  - first:
+      213: 6305831504528608614
+    second: All tools Gold No hands 64x32_78
+  - first:
+      213: 8576565937912889452
+    second: All tools Gold No hands 64x32_79
+  - first:
+      213: 7988467293376277427
+    second: All tools Gold No hands 64x32_80
+  - first:
+      213: -9005207845116011124
+    second: All tools Gold No hands 64x32_81
+  - first:
+      213: 697649336050774941
+    second: All tools Gold No hands 64x32_82
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 290
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a334c327f6a0f00800000000000000
+      internalID: 1083801196764019216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 290
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc061d018a938e80800000000000000
+      internalID: -8177522619313681204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 289
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e75088c87f47530800000000000000
+      internalID: 3851975764258160160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 291
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cbc7b7c8592a9050800000000000000
+      internalID: 5808000130732248002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 255
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8ad1860bc8088d0800000000000000
+      internalID: -2846120275209246505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_5
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 288
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3d528dd71039ed0800000000000000
+      internalID: -2408579735704185874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_6
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 289
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21498093d048c1930800000000000000
+      internalID: 4115309351836095506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_7
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 290
+        width: 35
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247522019981e4080800000000000000
+      internalID: -9201389942991595710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 260
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6e70ba526051290800000000000000
+      internalID: -7920417610808170829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 260
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e99346d0580ee570800000000000000
+      internalID: 8497738690179865058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_10
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 255
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a125b6fd55d524bd0800000000000000
+      internalID: -2647451007538474470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_11
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 255
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2500498226105fb50800000000000000
+      internalID: 6626203947844763730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_12
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 255
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a9da7fada69f5b0800000000000000
+      internalID: -5334114794952877530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_13
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 255
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79237a9e4f32b6d60800000000000000
+      internalID: 7884435107441226391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_14
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 255
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f13cbbbf68933770800000000000000
+      internalID: 8589376519984132592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 228
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d931e3adf5d13d0800000000000000
+      internalID: -3234323566433165933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_16
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 228
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65e409711b750070800000000000000
+      internalID: 8071993222106506607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_17
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 223
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed13f1f4adfea270800000000000000
+      internalID: 8263821251147144675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_18
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 223
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9529ae39daf8230800000000000000
+      internalID: 3643321474373278176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_19
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 223
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329bd5dacf518ffd0800000000000000
+      internalID: -2308070634042836701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_20
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 223
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1564a8695f5978c0800000000000000
+      internalID: -4001061956329642725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_21
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 223
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c1d38a25edc4b70800000000000000
+      internalID: 8884720611486407737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_22
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 223
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2353efbf23e38b0800000000000000
+      internalID: -5170639264291671392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_23
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 223
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a337359c11ebea5d0800000000000000
+      internalID: -3049290914081836230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 196
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8909e4d1bef50370800000000000000
+      internalID: 8288310728979974539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_25
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 196
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395799efc2e19eab0800000000000000
+      internalID: -4978414734482508397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_26
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 191
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baaa7d3354296b3c0800000000000000
+      internalID: -4344123964632094037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_27
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 191
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2beae0e23192a09a0800000000000000
+      internalID: -6266150769178792270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_28
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 191
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04ec3ecfc44d5440800000000000000
+      internalID: 4926169226722206732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_29
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 191
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0635bda0b4fc920800000000000000
+      internalID: 3012709185735581871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_30
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 191
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad2ee0b8c94f7be0800000000000000
+      internalID: -1477381026443547227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_31
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 191
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0288cbc951448560800000000000000
+      internalID: 7315043548683338255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_32
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 191
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02395e933b5a15e0800000000000000
+      internalID: -1938136412371471862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0195fb9f90fe6080800000000000000
+      internalID: -9192145221109575410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_34
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 163
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7171009a6ddca380800000000000000
+      internalID: -8958542108994473601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_35
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 160
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49befa392b4e00e0800000000000000
+      internalID: -2301819719084230325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_36
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 160
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86cd427efac45fee0800000000000000
+      internalID: -1227991005007651736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_37
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 161
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c697fcc14c05da300800000000000000
+      internalID: 264956756311898476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_38
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 162
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee7b2e26dec07890800000000000000
+      internalID: -7462237163259986207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_39
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 163
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea58cada613217730800000000000000
+      internalID: 3995012924764358062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_40
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 162
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4987a828a04771d00800000000000000
+      internalID: 943350235446016148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_41
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 161
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ce6b374aab1ce70800000000000000
+      internalID: 9133786734762847265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_42
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 127
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7102779fdd7d02c00800000000000000
+      internalID: 873935676082954263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_43
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 128
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70a0819cafcb18b0800000000000000
+      internalID: -5180318606277173125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_44
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 129
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74ab24bd6d2b1cf0800000000000000
+      internalID: -280580602583079813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_45
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 129
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df96fcfc848e2e30800000000000000
+      internalID: 4480664420354531282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_46
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 128
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e66a2fc1ce68000800000000000000
+      internalID: 37977255953460816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_47
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 127
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42a1748cc69d5ea0800000000000000
+      internalID: -5882379733136465334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_48
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 127
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0996bb2f36a9850800000000000000
+      internalID: 6384525315928592594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_49
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 127
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d9eed40f272ccc0800000000000000
+      internalID: -3692262368065184388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_50
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 99
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ab9d58f1188dc30800000000000000
+      internalID: 4384396209634785926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_51
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 110
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89389bcb629fdb0e0800000000000000
+      internalID: -2252370293845032040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_52
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 99
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73dad325532ce1e0800000000000000
+      internalID: -2167318472091315334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_53
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 98
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7c21bd3a683b9e0800000000000000
+      internalID: -1606792603727902721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_54
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 97
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57be2d3f81e132a80800000000000000
+      internalID: -8492911379771888779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_55
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 96
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013adf099f715f670800000000000000
+      internalID: 8571783826416444176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_56
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 97
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8c3b498dd54d6a0800000000000000
+      internalID: -6425407583561725755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_57
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 95
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7470dfb1219237630800000000000000
+      internalID: 3923524858125551431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_58
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae78831c0d9127fe0800000000000000
+      internalID: -1192862566914160662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_59
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 65
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f6b4971cf840850800000000000000
+      internalID: 6342352236370947973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_60
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 65
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f572c6f537d2c90800000000000000
+      internalID: -7192966176167207139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_61
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 66
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860b43acbdaa9a600800000000000000
+      internalID: 480102696258678888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_62
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 66
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9043b65971ea7b10800000000000000
+      internalID: 1980142897444634783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_63
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 66
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5abc98974018fc40800000000000000
+      internalID: 5546200840795896411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_64
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 65
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5926832b35c7d5490800000000000000
+      internalID: -7755906284347956587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_65
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 65
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806efc614df63d840800000000000000
+      internalID: 5247660947523233288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_66
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 64
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f03a6895e2b36b40800000000000000
+      internalID: 5432382274713301236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_67
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 31
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aafd50d792294760800000000000000
+      internalID: 7442517894637681317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_68
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 31
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b9c54b55b572550800000000000000
+      internalID: 6135973440971905896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_69
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 31
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b481f503f6f440b0800000000000000
+      internalID: -5745195700980710219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_70
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 31
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be712bb3afd5ae30800000000000000
+      internalID: 4514260095820988085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_71
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 31
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa1819a3227cd1b0800000000000000
+      internalID: -5630499936633611526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_72
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 31
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8437f7e580794e150800000000000000
+      internalID: 5901007473963135816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_73
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 31
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8068ec9e7e271ed60800000000000000
+      internalID: 7917735960279680520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_74
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 31
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8402fd5a500afd240800000000000000
+      internalID: 4818746072427864136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_75
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d4a60eae10ec660800000000000000
+      internalID: 7407860545370082651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_76
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b9e693d3adcd6e0800000000000000
+      internalID: -1811332993618371834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_77
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 0
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baed92993d6930a50800000000000000
+      internalID: 6486193723895570091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_78
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 0
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d05e8f750d28750800000000000000
+      internalID: 6305831504528608614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_79
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 3
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60430aa745160770800000000000000
+      internalID: 8576565937912889452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_80
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 75
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bbe489bdacbcde60800000000000000
+      internalID: 7988467293376277427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_81
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 3
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d9c4f2d23170380800000000000000
+      internalID: -9005207845116011124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Gold No hands 64x32_82
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 3
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93f715ff5c8ea900800000000000000
+      internalID: 697649336050774941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      All tools Gold No hands 64x32_0: 1083801196764019216
+      All tools Gold No hands 64x32_1: -8177522619313681204
+      All tools Gold No hands 64x32_10: -2647451007538474470
+      All tools Gold No hands 64x32_11: 6626203947844763730
+      All tools Gold No hands 64x32_12: -5334114794952877530
+      All tools Gold No hands 64x32_13: 7884435107441226391
+      All tools Gold No hands 64x32_14: 8589376519984132592
+      All tools Gold No hands 64x32_15: -3234323566433165933
+      All tools Gold No hands 64x32_16: 8071993222106506607
+      All tools Gold No hands 64x32_17: 8263821251147144675
+      All tools Gold No hands 64x32_18: 3643321474373278176
+      All tools Gold No hands 64x32_19: -2308070634042836701
+      All tools Gold No hands 64x32_2: 3851975764258160160
+      All tools Gold No hands 64x32_20: -4001061956329642725
+      All tools Gold No hands 64x32_21: 8884720611486407737
+      All tools Gold No hands 64x32_22: -5170639264291671392
+      All tools Gold No hands 64x32_23: -3049290914081836230
+      All tools Gold No hands 64x32_24: 8288310728979974539
+      All tools Gold No hands 64x32_25: -4978414734482508397
+      All tools Gold No hands 64x32_26: -4344123964632094037
+      All tools Gold No hands 64x32_27: -6266150769178792270
+      All tools Gold No hands 64x32_28: 4926169226722206732
+      All tools Gold No hands 64x32_29: 3012709185735581871
+      All tools Gold No hands 64x32_3: 5808000130732248002
+      All tools Gold No hands 64x32_30: -1477381026443547227
+      All tools Gold No hands 64x32_31: 7315043548683338255
+      All tools Gold No hands 64x32_32: -1938136412371471862
+      All tools Gold No hands 64x32_33: -9192145221109575410
+      All tools Gold No hands 64x32_34: -8958542108994473601
+      All tools Gold No hands 64x32_35: -2301819719084230325
+      All tools Gold No hands 64x32_36: -1227991005007651736
+      All tools Gold No hands 64x32_37: 264956756311898476
+      All tools Gold No hands 64x32_38: -7462237163259986207
+      All tools Gold No hands 64x32_39: 3995012924764358062
+      All tools Gold No hands 64x32_4: -2846120275209246505
+      All tools Gold No hands 64x32_40: 943350235446016148
+      All tools Gold No hands 64x32_41: 9133786734762847265
+      All tools Gold No hands 64x32_42: 873935676082954263
+      All tools Gold No hands 64x32_43: -5180318606277173125
+      All tools Gold No hands 64x32_44: -280580602583079813
+      All tools Gold No hands 64x32_45: 4480664420354531282
+      All tools Gold No hands 64x32_46: 37977255953460816
+      All tools Gold No hands 64x32_47: -5882379733136465334
+      All tools Gold No hands 64x32_48: 6384525315928592594
+      All tools Gold No hands 64x32_49: -3692262368065184388
+      All tools Gold No hands 64x32_5: -2408579735704185874
+      All tools Gold No hands 64x32_50: 4384396209634785926
+      All tools Gold No hands 64x32_51: -2252370293845032040
+      All tools Gold No hands 64x32_52: -2167318472091315334
+      All tools Gold No hands 64x32_53: -1606792603727902721
+      All tools Gold No hands 64x32_54: -8492911379771888779
+      All tools Gold No hands 64x32_55: 8571783826416444176
+      All tools Gold No hands 64x32_56: -6425407583561725755
+      All tools Gold No hands 64x32_57: 3923524858125551431
+      All tools Gold No hands 64x32_58: -1192862566914160662
+      All tools Gold No hands 64x32_59: 6342352236370947973
+      All tools Gold No hands 64x32_6: 4115309351836095506
+      All tools Gold No hands 64x32_60: -7192966176167207139
+      All tools Gold No hands 64x32_61: 480102696258678888
+      All tools Gold No hands 64x32_62: 1980142897444634783
+      All tools Gold No hands 64x32_63: 5546200840795896411
+      All tools Gold No hands 64x32_64: -7755906284347956587
+      All tools Gold No hands 64x32_65: 5247660947523233288
+      All tools Gold No hands 64x32_66: 5432382274713301236
+      All tools Gold No hands 64x32_67: 7442517894637681317
+      All tools Gold No hands 64x32_68: 6135973440971905896
+      All tools Gold No hands 64x32_69: -5745195700980710219
+      All tools Gold No hands 64x32_7: -9201389942991595710
+      All tools Gold No hands 64x32_70: 4514260095820988085
+      All tools Gold No hands 64x32_71: -5630499936633611526
+      All tools Gold No hands 64x32_72: 5901007473963135816
+      All tools Gold No hands 64x32_73: 7917735960279680520
+      All tools Gold No hands 64x32_74: 4818746072427864136
+      All tools Gold No hands 64x32_75: 7407860545370082651
+      All tools Gold No hands 64x32_76: -1811332993618371834
+      All tools Gold No hands 64x32_77: 6486193723895570091
+      All tools Gold No hands 64x32_78: 6305831504528608614
+      All tools Gold No hands 64x32_79: 8576565937912889452
+      All tools Gold No hands 64x32_8: -7920417610808170829
+      All tools Gold No hands 64x32_80: 7988467293376277427
+      All tools Gold No hands 64x32_81: -9005207845116011124
+      All tools Gold No hands 64x32_82: 697649336050774941
+      All tools Gold No hands 64x32_9: 8497738690179865058
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

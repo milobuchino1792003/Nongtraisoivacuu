@@ -1,0 +1,2288 @@
+fileFormatVersion: 2
+guid: c7c7c1a6d3a07f54a8392c4ff5568c5c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5571614590836475226
+    second: All tools Onix No hands 64x32_0
+  - first:
+      213: 4336044817575622134
+    second: All tools Onix No hands 64x32_1
+  - first:
+      213: -8561807372113748511
+    second: All tools Onix No hands 64x32_2
+  - first:
+      213: -2253755164221237324
+    second: All tools Onix No hands 64x32_3
+  - first:
+      213: 2439617449983623945
+    second: All tools Onix No hands 64x32_4
+  - first:
+      213: 254680630977191293
+    second: All tools Onix No hands 64x32_5
+  - first:
+      213: 6628178160567848226
+    second: All tools Onix No hands 64x32_6
+  - first:
+      213: 5071134851697255657
+    second: All tools Onix No hands 64x32_7
+  - first:
+      213: -5915126651375548664
+    second: All tools Onix No hands 64x32_8
+  - first:
+      213: -7549341733422739475
+    second: All tools Onix No hands 64x32_9
+  - first:
+      213: -8553666045215466286
+    second: All tools Onix No hands 64x32_10
+  - first:
+      213: -2517853315817755666
+    second: All tools Onix No hands 64x32_11
+  - first:
+      213: 1497075664173945196
+    second: All tools Onix No hands 64x32_12
+  - first:
+      213: 4548294058517761721
+    second: All tools Onix No hands 64x32_13
+  - first:
+      213: -6125112258468536873
+    second: All tools Onix No hands 64x32_14
+  - first:
+      213: -476430731984118076
+    second: All tools Onix No hands 64x32_15
+  - first:
+      213: -3609056709208823607
+    second: All tools Onix No hands 64x32_16
+  - first:
+      213: -991472579434899571
+    second: All tools Onix No hands 64x32_17
+  - first:
+      213: 5310395347439549494
+    second: All tools Onix No hands 64x32_18
+  - first:
+      213: 4927865843069187403
+    second: All tools Onix No hands 64x32_19
+  - first:
+      213: 4758519886927822201
+    second: All tools Onix No hands 64x32_20
+  - first:
+      213: -4744043181895410604
+    second: All tools Onix No hands 64x32_21
+  - first:
+      213: 7075967475870161616
+    second: All tools Onix No hands 64x32_22
+  - first:
+      213: -4882473245298570034
+    second: All tools Onix No hands 64x32_23
+  - first:
+      213: 5566317584391330060
+    second: All tools Onix No hands 64x32_24
+  - first:
+      213: 1201530766250169227
+    second: All tools Onix No hands 64x32_25
+  - first:
+      213: 9188469303185015381
+    second: All tools Onix No hands 64x32_26
+  - first:
+      213: -389625574662285855
+    second: All tools Onix No hands 64x32_27
+  - first:
+      213: 172850692511398933
+    second: All tools Onix No hands 64x32_28
+  - first:
+      213: -5320857908558514149
+    second: All tools Onix No hands 64x32_29
+  - first:
+      213: 764728207062321647
+    second: All tools Onix No hands 64x32_30
+  - first:
+      213: 7106380751404468928
+    second: All tools Onix No hands 64x32_31
+  - first:
+      213: 2274724566938323125
+    second: All tools Onix No hands 64x32_32
+  - first:
+      213: -2002996770590924410
+    second: All tools Onix No hands 64x32_33
+  - first:
+      213: -1148049374578942681
+    second: All tools Onix No hands 64x32_34
+  - first:
+      213: 7685020842141220516
+    second: All tools Onix No hands 64x32_35
+  - first:
+      213: -4371044262847092873
+    second: All tools Onix No hands 64x32_36
+  - first:
+      213: -6683027481432507435
+    second: All tools Onix No hands 64x32_37
+  - first:
+      213: -2438971340422281827
+    second: All tools Onix No hands 64x32_38
+  - first:
+      213: -4074330583758566056
+    second: All tools Onix No hands 64x32_39
+  - first:
+      213: 3024479030978875467
+    second: All tools Onix No hands 64x32_40
+  - first:
+      213: 6783463396396722416
+    second: All tools Onix No hands 64x32_41
+  - first:
+      213: -5948640923813074017
+    second: All tools Onix No hands 64x32_42
+  - first:
+      213: 6678109911863240435
+    second: All tools Onix No hands 64x32_43
+  - first:
+      213: -4066641311984848688
+    second: All tools Onix No hands 64x32_44
+  - first:
+      213: 2327404848187044110
+    second: All tools Onix No hands 64x32_45
+  - first:
+      213: 2099352551390343375
+    second: All tools Onix No hands 64x32_46
+  - first:
+      213: 3927287711805882134
+    second: All tools Onix No hands 64x32_47
+  - first:
+      213: -5245862861955026139
+    second: All tools Onix No hands 64x32_48
+  - first:
+      213: 8590430052886145538
+    second: All tools Onix No hands 64x32_49
+  - first:
+      213: -6309389243581650609
+    second: All tools Onix No hands 64x32_50
+  - first:
+      213: 5014540696131678217
+    second: All tools Onix No hands 64x32_51
+  - first:
+      213: -4750312180887217278
+    second: All tools Onix No hands 64x32_52
+  - first:
+      213: -1332735283540466811
+    second: All tools Onix No hands 64x32_53
+  - first:
+      213: -5634861254158078176
+    second: All tools Onix No hands 64x32_54
+  - first:
+      213: 6940452939410646319
+    second: All tools Onix No hands 64x32_55
+  - first:
+      213: -6742326782886217606
+    second: All tools Onix No hands 64x32_56
+  - first:
+      213: 4144072934916696227
+    second: All tools Onix No hands 64x32_57
+  - first:
+      213: -3196203537392557754
+    second: All tools Onix No hands 64x32_58
+  - first:
+      213: -5459463791163087933
+    second: All tools Onix No hands 64x32_59
+  - first:
+      213: 8399084458975715515
+    second: All tools Onix No hands 64x32_60
+  - first:
+      213: -1595273191437446294
+    second: All tools Onix No hands 64x32_61
+  - first:
+      213: 3688513368795231954
+    second: All tools Onix No hands 64x32_62
+  - first:
+      213: 153207370745910014
+    second: All tools Onix No hands 64x32_63
+  - first:
+      213: 4356794934278335148
+    second: All tools Onix No hands 64x32_64
+  - first:
+      213: 7657293060041247954
+    second: All tools Onix No hands 64x32_65
+  - first:
+      213: -3081359424309335606
+    second: All tools Onix No hands 64x32_66
+  - first:
+      213: -4130329146108471744
+    second: All tools Onix No hands 64x32_67
+  - first:
+      213: 3504585286241203162
+    second: All tools Onix No hands 64x32_68
+  - first:
+      213: -8411880469073924011
+    second: All tools Onix No hands 64x32_69
+  - first:
+      213: 7373121031185466342
+    second: All tools Onix No hands 64x32_70
+  - first:
+      213: 2917622884667486708
+    second: All tools Onix No hands 64x32_71
+  - first:
+      213: -2027647313844974840
+    second: All tools Onix No hands 64x32_72
+  - first:
+      213: -8836303941167641764
+    second: All tools Onix No hands 64x32_73
+  - first:
+      213: 589749748368218321
+    second: All tools Onix No hands 64x32_74
+  - first:
+      213: 8482781772329809194
+    second: All tools Onix No hands 64x32_75
+  - first:
+      213: 2033540210818275190
+    second: All tools Onix No hands 64x32_76
+  - first:
+      213: -270476976104470095
+    second: All tools Onix No hands 64x32_77
+  - first:
+      213: 154117599328599910
+    second: All tools Onix No hands 64x32_78
+  - first:
+      213: 5120184022135126152
+    second: All tools Onix No hands 64x32_79
+  - first:
+      213: 6782235470647612575
+    second: All tools Onix No hands 64x32_80
+  - first:
+      213: 2879739669570288598
+    second: All tools Onix No hands 64x32_81
+  - first:
+      213: -9041799549705749967
+    second: All tools Onix No hands 64x32_82
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 290
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aafecf9c06ada2b0800000000000000
+      internalID: -5571614590836475226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 290
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5b4c9c9c9bc2c30800000000000000
+      internalID: 4336044817575622134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 289
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1edd6d5be895e2980800000000000000
+      internalID: -8561807372113748511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 291
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b714e97e9d09b0e0800000000000000
+      internalID: -2253755164221237324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 255
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9034e1625234bd120800000000000000
+      internalID: 2439617449983623945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_5
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 288
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d519c3faec88300800000000000000
+      internalID: 254680630977191293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_6
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 289
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d06a06be40cfb50800000000000000
+      internalID: 6628178160567848226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_7
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 290
+        width: 35
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4a483974a406640800000000000000
+      internalID: 5071134851697255657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 260
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807805776af39eda0800000000000000
+      internalID: -5915126651375548664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 260
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def4e4b01b95b3790800000000000000
+      internalID: -7549341733422739475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_10
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 255
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc9c971d064b4980800000000000000
+      internalID: -8553666045215466286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_11
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 255
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeba42adfb9ce0dd0800000000000000
+      internalID: -2517853315817755666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_12
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 255
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6158fc726ea6c410800000000000000
+      internalID: 1497075664173945196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_13
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 255
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be88fb2959ce1f30800000000000000
+      internalID: 4548294058517761721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_14
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 255
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd97986ada3ffaa0800000000000000
+      internalID: -6125112258468536873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 228
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ced10406c06369f0800000000000000
+      internalID: -476430731984118076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_16
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 228
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c82e596b0e0aedc0800000000000000
+      internalID: -3609056709208823607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_17
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 223
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d871e3a21f49d32f0800000000000000
+      internalID: -991472579434899571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_18
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 223
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c750dce6052b940800000000000000
+      internalID: 5310395347439549494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_19
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 223
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b457be410eb436440800000000000000
+      internalID: 4927865843069187403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_20
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 223
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97df6fc10a8a90240800000000000000
+      internalID: 4758519886927822201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_21
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 223
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c92007cd5c92eb0800000000000000
+      internalID: -4744043181895410604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_22
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 223
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da5571ede2e23260800000000000000
+      internalID: 7075967475870161616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_23
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 223
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc41aca378fd3cb0800000000000000
+      internalID: -4882473245298570034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 196
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09d7a4f9588f3d40800000000000000
+      internalID: 5566317584391330060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_25
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 196
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b835b0dadd1bca010800000000000000
+      internalID: 1201530766250169227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_26
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 191
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5528ced0620048f70800000000000000
+      internalID: 9188469303185015381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_27
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 191
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5d8daaa95c79af0800000000000000
+      internalID: -389625574662285855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_28
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 191
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c725ef9c6166200800000000000000
+      internalID: 172850692511398933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_29
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 191
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18ba0c5ce38826b0800000000000000
+      internalID: -5320857908558514149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_30
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 191
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9cbaba04cdc9a00800000000000000
+      internalID: 764728207062321647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_31
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 191
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca032664afee9260800000000000000
+      internalID: 7106380751404468928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_32
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 191
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8863e01f1719f10800000000000000
+      internalID: 2274724566938323125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6816caaac0de334e0800000000000000
+      internalID: -2002996770590924410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_34
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 163
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ddc9b2d2f4110f0800000000000000
+      internalID: -1148049374578942681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_35
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 160
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aefc4b2dbda6aa60800000000000000
+      internalID: 7685020842141220516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_36
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 160
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7776d77d66ee653c0800000000000000
+      internalID: -4371044262847092873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_37
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 161
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dbba01f9ed1143a0800000000000000
+      internalID: -6683027481432507435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_38
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 162
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9585c4fc78072ed0800000000000000
+      internalID: -2438971340422281827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_39
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 163
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d8f89bbe11577c0800000000000000
+      internalID: -4074330583758566056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_40
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 162
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b401d1087ab19f920800000000000000
+      internalID: 3024479030978875467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_41
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 161
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f86719c404b32e50800000000000000
+      internalID: 6783463396396722416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_42
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 127
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b25c7d89e227da0800000000000000
+      internalID: -5948640923813074017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_43
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 128
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6af9b25996dac50800000000000000
+      internalID: 6678109911863240435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_44
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 129
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0f632d5436097c0800000000000000
+      internalID: -4066641311984848688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_45
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 129
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01f5b8d06a9c4020800000000000000
+      internalID: 2327404848187044110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_46
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 128
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc07eebc506622d10800000000000000
+      internalID: 2099352551390343375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_47
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 127
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f32f0cd57808630800000000000000
+      internalID: 3927287711805882134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_48
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 127
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523b1c45583f237b0800000000000000
+      internalID: -5245862861955026139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_49
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 127
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a6e1a7e96573770800000000000000
+      internalID: 8590430052886145538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_50
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 99
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4925aa59eb8078a0800000000000000
+      internalID: -6309389243581650609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_51
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 110
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9003ba8e13a379540800000000000000
+      internalID: 5014540696131678217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_52
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 99
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b910e5d30831eb0800000000000000
+      internalID: -4750312180887217278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_53
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 98
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583e0fc125c218de0800000000000000
+      internalID: -1332735283540466811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_54
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 97
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02fab4b4b83fcc1b0800000000000000
+      internalID: -5634861254158078176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_55
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 96
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2523e12d21715060800000000000000
+      internalID: 6940452939410646319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_56
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 97
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78f67a63817e62a0800000000000000
+      internalID: -6742326782886217606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_57
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 95
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a82509c064b28930800000000000000
+      internalID: 4144072934916696227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_58
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641aed321ddc4a3d0800000000000000
+      internalID: -3196203537392557754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_59
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 65
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3ed9f7b961c34b0800000000000000
+      internalID: -5459463791163087933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_60
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 65
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb060cfa0da8f8470800000000000000
+      internalID: 8399084458975715515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_61
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 66
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63daa80c737cd9e0800000000000000
+      internalID: -1595273191437446294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_62
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 66
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6b158cd5b303330800000000000000
+      internalID: 3688513368795231954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_63
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 66
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2184eba4d402200800000000000000
+      internalID: 153207370745910014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_64
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 65
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caaa1e0d8e1767c30800000000000000
+      internalID: 4356794934278335148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_65
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 65
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc82d0d77b244a60800000000000000
+      internalID: 7657293060041247954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_66
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 64
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac96db8edefcc35d0800000000000000
+      internalID: -3081359424309335606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_67
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 31
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04613c8668f1ea6c0800000000000000
+      internalID: -4130329146108471744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_68
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 31
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3b77fefb9c2a030800000000000000
+      internalID: 3504585286241203162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_69
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 31
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5507dcb084ff24b80800000000000000
+      internalID: -8411880469073924011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_70
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 31
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e385cd6386925660800000000000000
+      internalID: 7373121031185466342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_71
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 31
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1f72d2e8a7d7820800000000000000
+      internalID: 2917622884667486708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_72
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 31
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80bce70d2895cd3e0800000000000000
+      internalID: -2027647313844974840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_73
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 31
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b815bd1642f5580800000000000000
+      internalID: -8836303941167641764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_74
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 31
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d81dd185463f2800800000000000000
+      internalID: 589749748368218321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_75
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2570e60415e8b570800000000000000
+      internalID: 8482781772329809194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_76
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 677db4e2c06983c10800000000000000
+      internalID: 2033540210818275190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_77
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 0
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b90f5f8f921f3cf0800000000000000
+      internalID: -270476976104470095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_78
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 0
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ffd99d329832200800000000000000
+      internalID: 154117599328599910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_79
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 3
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888beff7d3c8e0740800000000000000
+      internalID: 5120184022135126152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_80
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 75
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94510b0a375f1e50800000000000000
+      internalID: 6782235470647612575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_81
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 3
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db7652d8f3e6f720800000000000000
+      internalID: 2879739669570288598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Onix No hands 64x32_82
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 3
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a708d0733158280800000000000000
+      internalID: -9041799549705749967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      All tools Onix No hands 64x32_0: -5571614590836475226
+      All tools Onix No hands 64x32_1: 4336044817575622134
+      All tools Onix No hands 64x32_10: -8553666045215466286
+      All tools Onix No hands 64x32_11: -2517853315817755666
+      All tools Onix No hands 64x32_12: 1497075664173945196
+      All tools Onix No hands 64x32_13: 4548294058517761721
+      All tools Onix No hands 64x32_14: -6125112258468536873
+      All tools Onix No hands 64x32_15: -476430731984118076
+      All tools Onix No hands 64x32_16: -3609056709208823607
+      All tools Onix No hands 64x32_17: -991472579434899571
+      All tools Onix No hands 64x32_18: 5310395347439549494
+      All tools Onix No hands 64x32_19: 4927865843069187403
+      All tools Onix No hands 64x32_2: -8561807372113748511
+      All tools Onix No hands 64x32_20: 4758519886927822201
+      All tools Onix No hands 64x32_21: -4744043181895410604
+      All tools Onix No hands 64x32_22: 7075967475870161616
+      All tools Onix No hands 64x32_23: -4882473245298570034
+      All tools Onix No hands 64x32_24: 5566317584391330060
+      All tools Onix No hands 64x32_25: 1201530766250169227
+      All tools Onix No hands 64x32_26: 9188469303185015381
+      All tools Onix No hands 64x32_27: -389625574662285855
+      All tools Onix No hands 64x32_28: 172850692511398933
+      All tools Onix No hands 64x32_29: -5320857908558514149
+      All tools Onix No hands 64x32_3: -2253755164221237324
+      All tools Onix No hands 64x32_30: 764728207062321647
+      All tools Onix No hands 64x32_31: 7106380751404468928
+      All tools Onix No hands 64x32_32: 2274724566938323125
+      All tools Onix No hands 64x32_33: -2002996770590924410
+      All tools Onix No hands 64x32_34: -1148049374578942681
+      All tools Onix No hands 64x32_35: 7685020842141220516
+      All tools Onix No hands 64x32_36: -4371044262847092873
+      All tools Onix No hands 64x32_37: -6683027481432507435
+      All tools Onix No hands 64x32_38: -2438971340422281827
+      All tools Onix No hands 64x32_39: -4074330583758566056
+      All tools Onix No hands 64x32_4: 2439617449983623945
+      All tools Onix No hands 64x32_40: 3024479030978875467
+      All tools Onix No hands 64x32_41: 6783463396396722416
+      All tools Onix No hands 64x32_42: -5948640923813074017
+      All tools Onix No hands 64x32_43: 6678109911863240435
+      All tools Onix No hands 64x32_44: -4066641311984848688
+      All tools Onix No hands 64x32_45: 2327404848187044110
+      All tools Onix No hands 64x32_46: 2099352551390343375
+      All tools Onix No hands 64x32_47: 3927287711805882134
+      All tools Onix No hands 64x32_48: -5245862861955026139
+      All tools Onix No hands 64x32_49: 8590430052886145538
+      All tools Onix No hands 64x32_5: 254680630977191293
+      All tools Onix No hands 64x32_50: -6309389243581650609
+      All tools Onix No hands 64x32_51: 5014540696131678217
+      All tools Onix No hands 64x32_52: -4750312180887217278
+      All tools Onix No hands 64x32_53: -1332735283540466811
+      All tools Onix No hands 64x32_54: -5634861254158078176
+      All tools Onix No hands 64x32_55: 6940452939410646319
+      All tools Onix No hands 64x32_56: -6742326782886217606
+      All tools Onix No hands 64x32_57: 4144072934916696227
+      All tools Onix No hands 64x32_58: -3196203537392557754
+      All tools Onix No hands 64x32_59: -5459463791163087933
+      All tools Onix No hands 64x32_6: 6628178160567848226
+      All tools Onix No hands 64x32_60: 8399084458975715515
+      All tools Onix No hands 64x32_61: -1595273191437446294
+      All tools Onix No hands 64x32_62: 3688513368795231954
+      All tools Onix No hands 64x32_63: 153207370745910014
+      All tools Onix No hands 64x32_64: 4356794934278335148
+      All tools Onix No hands 64x32_65: 7657293060041247954
+      All tools Onix No hands 64x32_66: -3081359424309335606
+      All tools Onix No hands 64x32_67: -4130329146108471744
+      All tools Onix No hands 64x32_68: 3504585286241203162
+      All tools Onix No hands 64x32_69: -8411880469073924011
+      All tools Onix No hands 64x32_7: 5071134851697255657
+      All tools Onix No hands 64x32_70: 7373121031185466342
+      All tools Onix No hands 64x32_71: 2917622884667486708
+      All tools Onix No hands 64x32_72: -2027647313844974840
+      All tools Onix No hands 64x32_73: -8836303941167641764
+      All tools Onix No hands 64x32_74: 589749748368218321
+      All tools Onix No hands 64x32_75: 8482781772329809194
+      All tools Onix No hands 64x32_76: 2033540210818275190
+      All tools Onix No hands 64x32_77: -270476976104470095
+      All tools Onix No hands 64x32_78: 154117599328599910
+      All tools Onix No hands 64x32_79: 5120184022135126152
+      All tools Onix No hands 64x32_8: -5915126651375548664
+      All tools Onix No hands 64x32_80: 6782235470647612575
+      All tools Onix No hands 64x32_81: 2879739669570288598
+      All tools Onix No hands 64x32_82: -9041799549705749967
+      All tools Onix No hands 64x32_9: -7549341733422739475
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

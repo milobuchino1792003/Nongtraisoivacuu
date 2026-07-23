@@ -1,0 +1,4004 @@
+fileFormatVersion: 2
+guid: b22d3759af38c654fb031741756cdcec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3141805485869679004
+    second: All Diamond 64x32_0
+  - first:
+      213: 7692840429709969796
+    second: All Diamond 64x32_1
+  - first:
+      213: -5142765251395622474
+    second: All Diamond 64x32_2
+  - first:
+      213: 5580774562101167294
+    second: All Diamond 64x32_3
+  - first:
+      213: 3690119097818018925
+    second: All Diamond 64x32_4
+  - first:
+      213: 4962535742125402406
+    second: All Diamond 64x32_5
+  - first:
+      213: 4912873498272794655
+    second: All Diamond 64x32_6
+  - first:
+      213: -2137273250054094039
+    second: All Diamond 64x32_7
+  - first:
+      213: -4527330677879503392
+    second: All Diamond 64x32_8
+  - first:
+      213: 1274614797602952444
+    second: All Diamond 64x32_9
+  - first:
+      213: 4445756677735403929
+    second: All Diamond 64x32_10
+  - first:
+      213: -1999272994218774132
+    second: All Diamond 64x32_11
+  - first:
+      213: 349288801805851458
+    second: All Diamond 64x32_12
+  - first:
+      213: -1908390974653140014
+    second: All Diamond 64x32_13
+  - first:
+      213: 5889388180044728272
+    second: All Diamond 64x32_14
+  - first:
+      213: 8505675468197749706
+    second: All Diamond 64x32_15
+  - first:
+      213: -8966201070061318148
+    second: All Diamond 64x32_16
+  - first:
+      213: -6569237591193740367
+    second: All Diamond 64x32_17
+  - first:
+      213: 8378527003854541959
+    second: All Diamond 64x32_18
+  - first:
+      213: -8337988243939819161
+    second: All Diamond 64x32_19
+  - first:
+      213: -2150870064512789792
+    second: All Diamond 64x32_20
+  - first:
+      213: -4362310113244611407
+    second: All Diamond 64x32_21
+  - first:
+      213: 8940097851963410834
+    second: All Diamond 64x32_22
+  - first:
+      213: 7330629258285972812
+    second: All Diamond 64x32_23
+  - first:
+      213: -4307739662017657753
+    second: All Diamond 64x32_24
+  - first:
+      213: -6707170534683081695
+    second: All Diamond 64x32_25
+  - first:
+      213: 8708680419666589885
+    second: All Diamond 64x32_26
+  - first:
+      213: 3022680506230546022
+    second: All Diamond 64x32_27
+  - first:
+      213: -7058840185773716855
+    second: All Diamond 64x32_28
+  - first:
+      213: 4635005221661688436
+    second: All Diamond 64x32_29
+  - first:
+      213: 327411396973320293
+    second: All Diamond 64x32_30
+  - first:
+      213: -3680644938866020355
+    second: All Diamond 64x32_31
+  - first:
+      213: -1185325046665739001
+    second: All Diamond 64x32_32
+  - first:
+      213: 570906450734374936
+    second: All Diamond 64x32_33
+  - first:
+      213: -6078555866346209930
+    second: All Diamond 64x32_34
+  - first:
+      213: 407406471634364262
+    second: All Diamond 64x32_35
+  - first:
+      213: 6397763301412724019
+    second: All Diamond 64x32_36
+  - first:
+      213: -373345499592249227
+    second: All Diamond 64x32_37
+  - first:
+      213: 5651261015394439636
+    second: All Diamond 64x32_38
+  - first:
+      213: -4946525761324585778
+    second: All Diamond 64x32_39
+  - first:
+      213: 4878589130444563361
+    second: All Diamond 64x32_40
+  - first:
+      213: 4479533235531717942
+    second: All Diamond 64x32_41
+  - first:
+      213: 7183975116813071053
+    second: All Diamond 64x32_42
+  - first:
+      213: 8583478901187344796
+    second: All Diamond 64x32_43
+  - first:
+      213: 6440231652251856512
+    second: All Diamond 64x32_44
+  - first:
+      213: -6771481317344816882
+    second: All Diamond 64x32_45
+  - first:
+      213: 2231910779621254482
+    second: All Diamond 64x32_46
+  - first:
+      213: 5523971761767142020
+    second: All Diamond 64x32_47
+  - first:
+      213: 7633439522707098795
+    second: All Diamond 64x32_48
+  - first:
+      213: 4097877702117111381
+    second: All Diamond 64x32_49
+  - first:
+      213: -417972733416974156
+    second: All Diamond 64x32_50
+  - first:
+      213: 1709008653095508427
+    second: All Diamond 64x32_51
+  - first:
+      213: 7121048044161160694
+    second: All Diamond 64x32_52
+  - first:
+      213: 7644637776140190479
+    second: All Diamond 64x32_53
+  - first:
+      213: -4761101158591766619
+    second: All Diamond 64x32_54
+  - first:
+      213: 2008171891341606401
+    second: All Diamond 64x32_55
+  - first:
+      213: -96722251913266667
+    second: All Diamond 64x32_56
+  - first:
+      213: 7430036101940710952
+    second: All Diamond 64x32_57
+  - first:
+      213: -5034705354111346109
+    second: All Diamond 64x32_58
+  - first:
+      213: 3389691579143326394
+    second: All Diamond 64x32_59
+  - first:
+      213: 173649391400311377
+    second: All Diamond 64x32_60
+  - first:
+      213: -244188078687047628
+    second: All Diamond 64x32_61
+  - first:
+      213: -4281600042194529513
+    second: All Diamond 64x32_62
+  - first:
+      213: 3537407734324783247
+    second: All Diamond 64x32_63
+  - first:
+      213: 7576198610501682458
+    second: All Diamond 64x32_64
+  - first:
+      213: 6592979775052486675
+    second: All Diamond 64x32_65
+  - first:
+      213: -705188737215639493
+    second: All Diamond 64x32_66
+  - first:
+      213: 346481692796560356
+    second: All Diamond 64x32_67
+  - first:
+      213: 3191498823595071169
+    second: All Diamond 64x32_68
+  - first:
+      213: -27623298511551617
+    second: All Diamond 64x32_69
+  - first:
+      213: -8024422935899267801
+    second: All Diamond 64x32_70
+  - first:
+      213: -8100737638054576609
+    second: All Diamond 64x32_71
+  - first:
+      213: -8851586432069478526
+    second: All Diamond 64x32_72
+  - first:
+      213: 5421081432565583963
+    second: All Diamond 64x32_73
+  - first:
+      213: 3741330834554663592
+    second: All Diamond 64x32_74
+  - first:
+      213: 6623162440313581975
+    second: All Diamond 64x32_75
+  - first:
+      213: -3186705507684594162
+    second: All Diamond 64x32_76
+  - first:
+      213: -7834079286345838321
+    second: All Diamond 64x32_77
+  - first:
+      213: -5370508487207116685
+    second: All Diamond 64x32_78
+  - first:
+      213: -6336426276508287103
+    second: All Diamond 64x32_79
+  - first:
+      213: 4617488514079001741
+    second: All Diamond 64x32_80
+  - first:
+      213: -8231634157603675413
+    second: All Diamond 64x32_81
+  - first:
+      213: -8842335998209164502
+    second: All Diamond 64x32_82
+  - first:
+      213: -462954842051057215
+    second: All Diamond 64x32_83
+  - first:
+      213: -8187014006737784499
+    second: All Diamond 64x32_84
+  - first:
+      213: -1432148138744394095
+    second: All Diamond 64x32_85
+  - first:
+      213: 6607103970064565094
+    second: All Diamond 64x32_86
+  - first:
+      213: -6116505096860027383
+    second: All Diamond 64x32_87
+  - first:
+      213: -5753371271248065988
+    second: All Diamond 64x32_88
+  - first:
+      213: -7839353251663352828
+    second: All Diamond 64x32_89
+  - first:
+      213: -1336890409065698713
+    second: All Diamond 64x32_90
+  - first:
+      213: -903470627484512369
+    second: All Diamond 64x32_91
+  - first:
+      213: -6913553955828430494
+    second: All Diamond 64x32_92
+  - first:
+      213: -3950286217443030711
+    second: All Diamond 64x32_93
+  - first:
+      213: -4385796974494045684
+    second: All Diamond 64x32_94
+  - first:
+      213: -498655323993737990
+    second: All Diamond 64x32_95
+  - first:
+      213: 3452464639832294679
+    second: All Diamond 64x32_96
+  - first:
+      213: 6731344043612158005
+    second: All Diamond 64x32_97
+  - first:
+      213: -6471732086854049724
+    second: All Diamond 64x32_98
+  - first:
+      213: 2079175452123737918
+    second: All Diamond 64x32_99
+  - first:
+      213: -570038574360117078
+    second: All Diamond 64x32_100
+  - first:
+      213: 906966923768425722
+    second: All Diamond 64x32_101
+  - first:
+      213: -7750356098109993184
+    second: All Diamond 64x32_102
+  - first:
+      213: -5237257139292509369
+    second: All Diamond 64x32_103
+  - first:
+      213: 8809195620708151574
+    second: All Diamond 64x32_104
+  - first:
+      213: 7991632907610625189
+    second: All Diamond 64x32_105
+  - first:
+      213: -6266430764094707722
+    second: All Diamond 64x32_106
+  - first:
+      213: -8739423477703676152
+    second: All Diamond 64x32_107
+  - first:
+      213: 6182139351044535971
+    second: All Diamond 64x32_108
+  - first:
+      213: 4932677754481194363
+    second: All Diamond 64x32_109
+  - first:
+      213: 8512744257034503340
+    second: All Diamond 64x32_110
+  - first:
+      213: -6796797028090779586
+    second: All Diamond 64x32_111
+  - first:
+      213: -8451781157691669118
+    second: All Diamond 64x32_112
+  - first:
+      213: -2557976038450199278
+    second: All Diamond 64x32_113
+  - first:
+      213: 7964033050764215272
+    second: All Diamond 64x32_114
+  - first:
+      213: -8033678827191659692
+    second: All Diamond 64x32_115
+  - first:
+      213: -1770727429859982337
+    second: All Diamond 64x32_116
+  - first:
+      213: 7662282171121334123
+    second: All Diamond 64x32_117
+  - first:
+      213: -1697500465875581147
+    second: All Diamond 64x32_118
+  - first:
+      213: 3630344204927706724
+    second: All Diamond 64x32_119
+  - first:
+      213: 6341813287855008832
+    second: All Diamond 64x32_120
+  - first:
+      213: -3290631503093160231
+    second: All Diamond 64x32_121
+  - first:
+      213: 8542993428885566683
+    second: All Diamond 64x32_122
+  - first:
+      213: -6600323494097522240
+    second: All Diamond 64x32_123
+  - first:
+      213: 5659726175968230317
+    second: All Diamond 64x32_124
+  - first:
+      213: 6120140479707456627
+    second: All Diamond 64x32_125
+  - first:
+      213: 8774806431780020891
+    second: All Diamond 64x32_126
+  - first:
+      213: -6392050532672787073
+    second: All Diamond 64x32_127
+  - first:
+      213: -58190268024361125
+    second: All Diamond 64x32_128
+  - first:
+      213: -3499606287618234181
+    second: All Diamond 64x32_129
+  - first:
+      213: -2676861337763868424
+    second: All Diamond 64x32_130
+  - first:
+      213: -7098564783340106294
+    second: All Diamond 64x32_131
+  - first:
+      213: 5716504517571942027
+    second: All Diamond 64x32_132
+  - first:
+      213: 3155097731916555850
+    second: All Diamond 64x32_133
+  - first:
+      213: 711532382342742942
+    second: All Diamond 64x32_134
+  - first:
+      213: -5261392987343098546
+    second: All Diamond 64x32_135
+  - first:
+      213: -3105932813063036565
+    second: All Diamond 64x32_136
+  - first:
+      213: -3617850281483430515
+    second: All Diamond 64x32_137
+  - first:
+      213: -7590614917341119072
+    second: All Diamond 64x32_138
+  - first:
+      213: 8183707426766795896
+    second: All Diamond 64x32_139
+  - first:
+      213: 6492816907314594350
+    second: All Diamond 64x32_140
+  - first:
+      213: -7950209318227448773
+    second: All Diamond 64x32_141
+  - first:
+      213: -1006815771570788132
+    second: All Diamond 64x32_142
+  - first:
+      213: 2772096562110945913
+    second: All Diamond 64x32_143
+  - first:
+      213: 3194625090403664558
+    second: All Diamond 64x32_144
+  - first:
+      213: -3711103897541319420
+    second: All Diamond 64x32_145
+  - first:
+      213: -2861329676114028095
+    second: All Diamond 64x32_146
+  - first:
+      213: -2022502130305212396
+    second: All Diamond 64x32_147
+  - first:
+      213: 194063736576996434
+    second: All Diamond 64x32_148
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: All Diamond 64x32_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 607
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e3d5d7e801664d0800000000000000
+      internalID: -3141805485869679004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 607
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48940a6cc9572ca60800000000000000
+      internalID: 7692840429709969796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 607
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9675b504a31a8b0800000000000000
+      internalID: -5142765251395622474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 607
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4839165e4e27d40800000000000000
+      internalID: 5580774562101167294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_4
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 611
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d64f354b4cfe53330800000000000000
+      internalID: 3690119097818018925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_5
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 607
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629609ef6f77ed440800000000000000
+      internalID: 4962535742125402406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_6
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 607
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f180bfaca680e2440800000000000000
+      internalID: 4912873498272794655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_7
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 607
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923c4968d41e652e0800000000000000
+      internalID: -2137273250054094039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_8
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 607
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5834c3cb0bb21c0800000000000000
+      internalID: -4527330677879503392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_9
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 575
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4949cb76750b110800000000000000
+      internalID: 1274614797602952444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 575
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9915d3ec42082bd30800000000000000
+      internalID: 4445756677735403929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_11
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 575
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81fe8aedc72144e0800000000000000
+      internalID: -1999272994218774132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_12
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 575
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24bd8ab805ce8d400800000000000000
+      internalID: 349288801805851458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_13
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 575
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3fc3705880485e0800000000000000
+      internalID: -1908390974653140014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_14
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 575
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d743ffa85f4bb150800000000000000
+      internalID: 5889388180044728272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_15
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 575
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac36ea8f5ca3a0670800000000000000
+      internalID: 8505675468197749706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_16
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 575
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff844ab1a7a19380800000000000000
+      internalID: -8966201070061318148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_17
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 543
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb11c3573165d4a0800000000000000
+      internalID: -6569237591193740367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_18
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 543
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78494cd2be1864470800000000000000
+      internalID: 8378527003854541959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_19
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 543
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76185926ed3894c80800000000000000
+      internalID: -8337988243939819161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_20
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 543
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e291b672139622e0800000000000000
+      internalID: -2150870064512789792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_21
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 543
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bcf5f38016f573c0800000000000000
+      internalID: -4362310113244611407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_22
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 543
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299038331ab911c70800000000000000
+      internalID: 8940097851963410834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_23
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 543
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d78389870abb560800000000000000
+      internalID: 7330629258285972812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_24
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 543
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764839cc995d734c0800000000000000
+      internalID: -4307739662017657753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_25
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 543
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1248f305fe75be2a0800000000000000
+      internalID: -6707170534683081695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_26
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 511
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db870ac73b27bd870800000000000000
+      internalID: 8708680419666589885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_27
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 511
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e9e53d7e7b2f920800000000000000
+      internalID: 3022680506230546022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_28
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 511
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a84b81046f90e90800000000000000
+      internalID: -7058840185773716855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_29
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 511
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472c93911b8d25040800000000000000
+      internalID: 4635005221661688436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_30
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 511
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568520c4ee23b8400800000000000000
+      internalID: 327411396973320293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_31
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 511
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff2d82dde8bbecc0800000000000000
+      internalID: -3680644938866020355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_32
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 511
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7058d127621ec8fe0800000000000000
+      internalID: -1185325046665739001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_33
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 511
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810600464644ce700800000000000000
+      internalID: 570906450734374936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_34
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 511
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d311725a1a4aba0800000000000000
+      internalID: -6078555866346209930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_35
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 479
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66726f4070667a500800000000000000
+      internalID: 407406471634364262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_36
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 479
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d5cb963db69c850800000000000000
+      internalID: 6397763301412724019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_37
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 479
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57030560f3c91daf0800000000000000
+      internalID: -373345499592249227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_38
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 479
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1599ba3ff4d6e40800000000000000
+      internalID: 5651261015394439636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_39
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 481
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eccede327096a5bb0800000000000000
+      internalID: -4946525761324585778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_40
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 479
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3ea3d57fa34b340800000000000000
+      internalID: 4878589130444563361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_41
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 479
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d9c6f7ebf7a2e30800000000000000
+      internalID: 4479533235531717942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_42
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 479
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc273e07e4b92b360800000000000000
+      internalID: 7183975116813071053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_43
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 479
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99f45a5594ae1770800000000000000
+      internalID: 8583478901187344796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_44
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 447
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ee2bfd09c406950800000000000000
+      internalID: 6440231652251856512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_45
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 447
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01d7746e9dd602a0800000000000000
+      internalID: -6771481317344816882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_46
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 447
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255a0b5670759fe10800000000000000
+      internalID: 2231910779621254482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_47
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 447
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4825b61dc0719ac40800000000000000
+      internalID: 5523971761767142020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_48
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 447
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac426d5dcc6fe960800000000000000
+      internalID: 7633439522707098795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_49
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 447
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5563faffe069ed830800000000000000
+      internalID: 4097877702117111381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_50
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 447
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8d1e27300133af0800000000000000
+      internalID: -417972733416974156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_51
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 447
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc993d5b05e97b710800000000000000
+      internalID: 1709008653095508427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_52
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 415
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f557bc977b03d260800000000000000
+      internalID: 7121048044161160694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_53
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 415
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f034e5bed85371a60800000000000000
+      internalID: 7644637776140190479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_54
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 415
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5afdf6eb8bb2dedb0800000000000000
+      internalID: -4761101158591766619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_55
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 415
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e375702b57edb10800000000000000
+      internalID: 2008171891341606401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_56
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 415
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a75d4df9f58aef0800000000000000
+      internalID: -96722251913266667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_57
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 430
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e018cf77acc1760800000000000000
+      internalID: 7430036101940710952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_58
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 415
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a9f6bc722212ab0800000000000000
+      internalID: -5034705354111346109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_59
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 415
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba88f8288a9a0f20800000000000000
+      internalID: 3389691579143326394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_60
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 415
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ad0e1933de86200800000000000000
+      internalID: 173649391400311377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_61
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 383
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43039777c387c9cf0800000000000000
+      internalID: -244188078687047628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_62
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 383
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71392be4273b494c0800000000000000
+      internalID: -4281600042194529513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_63
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 383
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88e526a795671130800000000000000
+      internalID: 3537407734324783247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_64
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 383
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15c2ceee70142960800000000000000
+      internalID: 7576198610501682458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_65
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 383
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318965f9c28fe7b50800000000000000
+      internalID: 6592979775052486675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_66
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 383
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30d7aa649aa636f0800000000000000
+      internalID: -705188737215639493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_67
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 383
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3a05c8343fec400800000000000000
+      internalID: 346481692796560356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_68
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 383
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c61671554b7a4c20800000000000000
+      internalID: 3191498823595071169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_69
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 351
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73c1b0a1ccdd9ff0800000000000000
+      internalID: -27623298511551617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_70
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 351
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d1a32ead583a090800000000000000
+      internalID: -8024422935899267801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_71
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 351
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ebe19a906649f80800000000000000
+      internalID: -8100737638054576609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_72
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 351
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 287d4d9a909d82580800000000000000
+      internalID: -8851586432069478526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_73
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 351
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50998e37dc8b3b40800000000000000
+      internalID: 5421081432565583963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_74
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 351
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2b8d45290ebe330800000000000000
+      internalID: 3741330834554663592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_75
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 351
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791b99006233aeb50800000000000000
+      internalID: 6623162440313581975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_76
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 351
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ecda2893c86c3d0800000000000000
+      internalID: -3186705507684594162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_77
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 319
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f015c135562c74390800000000000000
+      internalID: -7834079286345838321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_78
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 319
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370accc2cfe1875b0800000000000000
+      internalID: -5370508487207116685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_79
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 319
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18fb5439fdd7018a0800000000000000
+      internalID: -6336426276508287103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_80
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 319
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c002cc65d941040800000000000000
+      internalID: 4617488514079001741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_81
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 319
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2af03c85c53cd80800000000000000
+      internalID: -8231634157603675413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_82
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 319
+        width: 75
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2bf7122246b94580800000000000000
+      internalID: -8842335998209164502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_83
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 319
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9ef7426014399f0800000000000000
+      internalID: -462954842051057215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_84
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 319
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d413f353322e16e80800000000000000
+      internalID: -8187014006737784499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_85
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 287
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e476c0bdcff1ce0800000000000000
+      internalID: -1432148138744394095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_86
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 287
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66385c90e0621bb50800000000000000
+      internalID: 6607103970064565094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_87
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 287
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906bac2650fcd1ba0800000000000000
+      internalID: -6116505096860027383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_88
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 287
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a425cbf4be720b0800000000000000
+      internalID: -5753371271248065988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_89
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 287
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c6dc590c5053390800000000000000
+      internalID: -7839353251663352828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_90
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 287
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a23009149627de0800000000000000
+      internalID: -1336890409065698713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_91
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 287
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f49c7404a3673f0800000000000000
+      internalID: -903470627484512369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_92
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 287
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26989578e4f1e00a0800000000000000
+      internalID: -6913553955828430494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_93
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 257
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949cf206d93cd29c0800000000000000
+      internalID: -3950286217443030711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_94
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 257
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0aac4e73e48223c0800000000000000
+      internalID: -4385796974494045684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_95
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 255
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4fef3ff9b6419f0800000000000000
+      internalID: -498655323993737990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_96
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 255
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7150dc84c4e99ef20800000000000000
+      internalID: 3452464639832294679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_97
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 257
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538b1745eb98a6d50800000000000000
+      internalID: 6731344043612158005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_98
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 257
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4402199a4f9cf26a0800000000000000
+      internalID: -6471732086854049724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_99
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 255
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f2c89ce07badc10800000000000000
+      internalID: 2079175452123737918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_100
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 255
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0cef2dfe0d618f0800000000000000
+      internalID: -570038574360117078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_101
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 226
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afcee32ac91369c00800000000000000
+      internalID: 906966923768425722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_102
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 227
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f0f512134317490800000000000000
+      internalID: -7750356098109993184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_103
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 227
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b671741668157b0800000000000000
+      internalID: -5237257139292509369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_104
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 226
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6117c317ebc804a70800000000000000
+      internalID: 8809195620708151574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_105
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 224
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a41479b9cbf7ee60800000000000000
+      internalID: 7991632907610625189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_106
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 191
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f72e88cb6a2909a0800000000000000
+      internalID: -6266430764094707722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_107
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 191
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f63c586a457b680800000000000000
+      internalID: -8739423477703676152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_108
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 191
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a639f24cfe5bc550800000000000000
+      internalID: 6182139351044535971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_109
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 191
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75b2538844647440800000000000000
+      internalID: 4932677754481194363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_110
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 191
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4c940acc7532670800000000000000
+      internalID: 8512744257034503340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_111
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 162
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38e73a2d1deca1a0800000000000000
+      internalID: -6796797028090779586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_112
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 163
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285c27801dd35ba80800000000000000
+      internalID: -8451781157691669118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_113
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 163
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2150734885e308cd0800000000000000
+      internalID: -2557976038450199278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_114
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 162
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3854a4ddde58e60800000000000000
+      internalID: 7964033050764215272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_115
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 160
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4531aa1cba3a28090800000000000000
+      internalID: -8033678827191659692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_116
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 127
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff3c725c8cc1d67e0800000000000000
+      internalID: -1770727429859982337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_117
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 127
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67fe72c905e55a60800000000000000
+      internalID: 7662282171121334123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_118
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 127
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5270d6de1544178e0800000000000000
+      internalID: -1697500465875581147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_119
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 127
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4662d1be1d2916230800000000000000
+      internalID: 3630344204927706724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_120
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 95
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c237eb595a20850800000000000000
+      internalID: 6341813287855008832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_121
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 95
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d62c6b15145552d0800000000000000
+      internalID: -3290631503093160231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_122
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 95
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd47837c24fce8670800000000000000
+      internalID: 8542993428885566683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_123
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 95
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1f6ab80c0f664a0800000000000000
+      internalID: -6600323494097522240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_124
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 95
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dabf09478f26b8e40800000000000000
+      internalID: 5659726175968230317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_125
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 63
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374a374275b1fe450800000000000000
+      internalID: 6120140479707456627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_126
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 63
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92af0375ff56c970800000000000000
+      internalID: 8774806431780020891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_127
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 63
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d21b538efda47a0800000000000000
+      internalID: -6392050532672787073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_128
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 63
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5fe5017244413ff0800000000000000
+      internalID: -58190268024361125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_129
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 63
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8aac48f96ee6fc0800000000000000
+      internalID: -3499606287618234181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_130
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 63
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f09b91cbc0e9dad0800000000000000
+      internalID: -2676861337763868424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_131
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 63
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd4ae970f4dc7d90800000000000000
+      internalID: -7098564783340106294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_132
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 63
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b869ac6429a155f40800000000000000
+      internalID: 5716504517571942027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_133
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 31
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46e686bba829cb20800000000000000
+      internalID: 3155097731916555850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_134
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 31
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e930abf8eeedfd900800000000000000
+      internalID: 711532382342742942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_135
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 31
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4deead34f6cbf6b0800000000000000
+      internalID: -5261392987343098546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_136
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 31
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61e52dff8285e4d0800000000000000
+      internalID: -3105932813063036565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_137
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 31
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8512a15650dacdc0800000000000000
+      internalID: -3617850281483430515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_138
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 31
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0adf91113f7b8a690800000000000000
+      internalID: -7590614917341119072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_139
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 31
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8743926ab8e529170800000000000000
+      internalID: 8183707426766795896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_140
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 31
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e220328a39e1b1a50800000000000000
+      internalID: 6492816907314594350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_141
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c6d014fbe2ba190800000000000000
+      internalID: -7950209318227448773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_142
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8234dd3621702f0800000000000000
+      internalID: -1006815771570788132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_143
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a54b3d227787620800000000000000
+      internalID: 2772096562110945913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_144
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea28f080896955c20800000000000000
+      internalID: 3194625090403664558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_145
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4056b7edaa28f7cc0800000000000000
+      internalID: -3711103897541319420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_146
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 0
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c990fdc1d38a48d0800000000000000
+      internalID: -2861329676114028095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_147
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 0
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410efa53701aee3e0800000000000000
+      internalID: -2022502130305212396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Diamond 64x32_148
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 0
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 254f472b0f371b200800000000000000
+      internalID: 194063736576996434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      All Diamond 64x32_0: -3141805485869679004
+      All Diamond 64x32_1: 7692840429709969796
+      All Diamond 64x32_10: 4445756677735403929
+      All Diamond 64x32_100: -570038574360117078
+      All Diamond 64x32_101: 906966923768425722
+      All Diamond 64x32_102: -7750356098109993184
+      All Diamond 64x32_103: -5237257139292509369
+      All Diamond 64x32_104: 8809195620708151574
+      All Diamond 64x32_105: 7991632907610625189
+      All Diamond 64x32_106: -6266430764094707722
+      All Diamond 64x32_107: -8739423477703676152
+      All Diamond 64x32_108: 6182139351044535971
+      All Diamond 64x32_109: 4932677754481194363
+      All Diamond 64x32_11: -1999272994218774132
+      All Diamond 64x32_110: 8512744257034503340
+      All Diamond 64x32_111: -6796797028090779586
+      All Diamond 64x32_112: -8451781157691669118
+      All Diamond 64x32_113: -2557976038450199278
+      All Diamond 64x32_114: 7964033050764215272
+      All Diamond 64x32_115: -8033678827191659692
+      All Diamond 64x32_116: -1770727429859982337
+      All Diamond 64x32_117: 7662282171121334123
+      All Diamond 64x32_118: -1697500465875581147
+      All Diamond 64x32_119: 3630344204927706724
+      All Diamond 64x32_12: 349288801805851458
+      All Diamond 64x32_120: 6341813287855008832
+      All Diamond 64x32_121: -3290631503093160231
+      All Diamond 64x32_122: 8542993428885566683
+      All Diamond 64x32_123: -6600323494097522240
+      All Diamond 64x32_124: 5659726175968230317
+      All Diamond 64x32_125: 6120140479707456627
+      All Diamond 64x32_126: 8774806431780020891
+      All Diamond 64x32_127: -6392050532672787073
+      All Diamond 64x32_128: -58190268024361125
+      All Diamond 64x32_129: -3499606287618234181
+      All Diamond 64x32_13: -1908390974653140014
+      All Diamond 64x32_130: -2676861337763868424
+      All Diamond 64x32_131: -7098564783340106294
+      All Diamond 64x32_132: 5716504517571942027
+      All Diamond 64x32_133: 3155097731916555850
+      All Diamond 64x32_134: 711532382342742942
+      All Diamond 64x32_135: -5261392987343098546
+      All Diamond 64x32_136: -3105932813063036565
+      All Diamond 64x32_137: -3617850281483430515
+      All Diamond 64x32_138: -7590614917341119072
+      All Diamond 64x32_139: 8183707426766795896
+      All Diamond 64x32_14: 5889388180044728272
+      All Diamond 64x32_140: 6492816907314594350
+      All Diamond 64x32_141: -7950209318227448773
+      All Diamond 64x32_142: -1006815771570788132
+      All Diamond 64x32_143: 2772096562110945913
+      All Diamond 64x32_144: 3194625090403664558
+      All Diamond 64x32_145: -3711103897541319420
+      All Diamond 64x32_146: -2861329676114028095
+      All Diamond 64x32_147: -2022502130305212396
+      All Diamond 64x32_148: 194063736576996434
+      All Diamond 64x32_15: 8505675468197749706
+      All Diamond 64x32_16: -8966201070061318148
+      All Diamond 64x32_17: -6569237591193740367
+      All Diamond 64x32_18: 8378527003854541959
+      All Diamond 64x32_19: -8337988243939819161
+      All Diamond 64x32_2: -5142765251395622474
+      All Diamond 64x32_20: -2150870064512789792
+      All Diamond 64x32_21: -4362310113244611407
+      All Diamond 64x32_22: 8940097851963410834
+      All Diamond 64x32_23: 7330629258285972812
+      All Diamond 64x32_24: -4307739662017657753
+      All Diamond 64x32_25: -6707170534683081695
+      All Diamond 64x32_26: 8708680419666589885
+      All Diamond 64x32_27: 3022680506230546022
+      All Diamond 64x32_28: -7058840185773716855
+      All Diamond 64x32_29: 4635005221661688436
+      All Diamond 64x32_3: 5580774562101167294
+      All Diamond 64x32_30: 327411396973320293
+      All Diamond 64x32_31: -3680644938866020355
+      All Diamond 64x32_32: -1185325046665739001
+      All Diamond 64x32_33: 570906450734374936
+      All Diamond 64x32_34: -6078555866346209930
+      All Diamond 64x32_35: 407406471634364262
+      All Diamond 64x32_36: 6397763301412724019
+      All Diamond 64x32_37: -373345499592249227
+      All Diamond 64x32_38: 5651261015394439636
+      All Diamond 64x32_39: -4946525761324585778
+      All Diamond 64x32_4: 3690119097818018925
+      All Diamond 64x32_40: 4878589130444563361
+      All Diamond 64x32_41: 4479533235531717942
+      All Diamond 64x32_42: 7183975116813071053
+      All Diamond 64x32_43: 8583478901187344796
+      All Diamond 64x32_44: 6440231652251856512
+      All Diamond 64x32_45: -6771481317344816882
+      All Diamond 64x32_46: 2231910779621254482
+      All Diamond 64x32_47: 5523971761767142020
+      All Diamond 64x32_48: 7633439522707098795
+      All Diamond 64x32_49: 4097877702117111381
+      All Diamond 64x32_5: 4962535742125402406
+      All Diamond 64x32_50: -417972733416974156
+      All Diamond 64x32_51: 1709008653095508427
+      All Diamond 64x32_52: 7121048044161160694
+      All Diamond 64x32_53: 7644637776140190479
+      All Diamond 64x32_54: -4761101158591766619
+      All Diamond 64x32_55: 2008171891341606401
+      All Diamond 64x32_56: -96722251913266667
+      All Diamond 64x32_57: 7430036101940710952
+      All Diamond 64x32_58: -5034705354111346109
+      All Diamond 64x32_59: 3389691579143326394
+      All Diamond 64x32_6: 4912873498272794655
+      All Diamond 64x32_60: 173649391400311377
+      All Diamond 64x32_61: -244188078687047628
+      All Diamond 64x32_62: -4281600042194529513
+      All Diamond 64x32_63: 3537407734324783247
+      All Diamond 64x32_64: 7576198610501682458
+      All Diamond 64x32_65: 6592979775052486675
+      All Diamond 64x32_66: -705188737215639493
+      All Diamond 64x32_67: 346481692796560356
+      All Diamond 64x32_68: 3191498823595071169
+      All Diamond 64x32_69: -27623298511551617
+      All Diamond 64x32_7: -2137273250054094039
+      All Diamond 64x32_70: -8024422935899267801
+      All Diamond 64x32_71: -8100737638054576609
+      All Diamond 64x32_72: -8851586432069478526
+      All Diamond 64x32_73: 5421081432565583963
+      All Diamond 64x32_74: 3741330834554663592
+      All Diamond 64x32_75: 6623162440313581975
+      All Diamond 64x32_76: -3186705507684594162
+      All Diamond 64x32_77: -7834079286345838321
+      All Diamond 64x32_78: -5370508487207116685
+      All Diamond 64x32_79: -6336426276508287103
+      All Diamond 64x32_8: -4527330677879503392
+      All Diamond 64x32_80: 4617488514079001741
+      All Diamond 64x32_81: -8231634157603675413
+      All Diamond 64x32_82: -8842335998209164502
+      All Diamond 64x32_83: -462954842051057215
+      All Diamond 64x32_84: -8187014006737784499
+      All Diamond 64x32_85: -1432148138744394095
+      All Diamond 64x32_86: 6607103970064565094
+      All Diamond 64x32_87: -6116505096860027383
+      All Diamond 64x32_88: -5753371271248065988
+      All Diamond 64x32_89: -7839353251663352828
+      All Diamond 64x32_9: 1274614797602952444
+      All Diamond 64x32_90: -1336890409065698713
+      All Diamond 64x32_91: -903470627484512369
+      All Diamond 64x32_92: -6913553955828430494
+      All Diamond 64x32_93: -3950286217443030711
+      All Diamond 64x32_94: -4385796974494045684
+      All Diamond 64x32_95: -498655323993737990
+      All Diamond 64x32_96: 3452464639832294679
+      All Diamond 64x32_97: 6731344043612158005
+      All Diamond 64x32_98: -6471732086854049724
+      All Diamond 64x32_99: 2079175452123737918
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

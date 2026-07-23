@@ -1,0 +1,2288 @@
+fileFormatVersion: 2
+guid: 45204844c090a7844a86c20fda3c40a8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -853620413554454240
+    second: All tools Iron No hands 64x32_0
+  - first:
+      213: 6888670103762924969
+    second: All tools Iron No hands 64x32_1
+  - first:
+      213: 7954466027378934722
+    second: All tools Iron No hands 64x32_2
+  - first:
+      213: 8998429863916680487
+    second: All tools Iron No hands 64x32_3
+  - first:
+      213: -6859723530824458864
+    second: All tools Iron No hands 64x32_4
+  - first:
+      213: -3111161893675318017
+    second: All tools Iron No hands 64x32_5
+  - first:
+      213: -7002570273743044528
+    second: All tools Iron No hands 64x32_6
+  - first:
+      213: -7280136930034404019
+    second: All tools Iron No hands 64x32_7
+  - first:
+      213: 6187508761346935752
+    second: All tools Iron No hands 64x32_8
+  - first:
+      213: 1583549648330771956
+    second: All tools Iron No hands 64x32_9
+  - first:
+      213: -1874683330293322438
+    second: All tools Iron No hands 64x32_10
+  - first:
+      213: 3276658187736091629
+    second: All tools Iron No hands 64x32_11
+  - first:
+      213: 4449669723358917539
+    second: All tools Iron No hands 64x32_12
+  - first:
+      213: -4855891699211824964
+    second: All tools Iron No hands 64x32_13
+  - first:
+      213: 7426633957746410002
+    second: All tools Iron No hands 64x32_14
+  - first:
+      213: 3283920455610917282
+    second: All tools Iron No hands 64x32_15
+  - first:
+      213: -6194770884542439381
+    second: All tools Iron No hands 64x32_16
+  - first:
+      213: -3523376526396892916
+    second: All tools Iron No hands 64x32_17
+  - first:
+      213: -3254547526521100776
+    second: All tools Iron No hands 64x32_18
+  - first:
+      213: -312348655772900909
+    second: All tools Iron No hands 64x32_19
+  - first:
+      213: -494272504465893556
+    second: All tools Iron No hands 64x32_20
+  - first:
+      213: -3399102184713933773
+    second: All tools Iron No hands 64x32_21
+  - first:
+      213: 8019007305459311119
+    second: All tools Iron No hands 64x32_22
+  - first:
+      213: 7774792315098968608
+    second: All tools Iron No hands 64x32_23
+  - first:
+      213: -5606963980444076923
+    second: All tools Iron No hands 64x32_24
+  - first:
+      213: 98352523060431557
+    second: All tools Iron No hands 64x32_25
+  - first:
+      213: 6316312353792032280
+    second: All tools Iron No hands 64x32_26
+  - first:
+      213: -1381500990520622268
+    second: All tools Iron No hands 64x32_27
+  - first:
+      213: 5558024373739426528
+    second: All tools Iron No hands 64x32_28
+  - first:
+      213: 7702232529118411638
+    second: All tools Iron No hands 64x32_29
+  - first:
+      213: -2272912348447792458
+    second: All tools Iron No hands 64x32_30
+  - first:
+      213: -4399953790696619448
+    second: All tools Iron No hands 64x32_31
+  - first:
+      213: -297115701633083228
+    second: All tools Iron No hands 64x32_32
+  - first:
+      213: 8221318979750335991
+    second: All tools Iron No hands 64x32_33
+  - first:
+      213: 9145123641307690966
+    second: All tools Iron No hands 64x32_34
+  - first:
+      213: -8699274959966698479
+    second: All tools Iron No hands 64x32_35
+  - first:
+      213: 9058808215664494569
+    second: All tools Iron No hands 64x32_36
+  - first:
+      213: 7712049681342378374
+    second: All tools Iron No hands 64x32_37
+  - first:
+      213: -993387983445627418
+    second: All tools Iron No hands 64x32_38
+  - first:
+      213: 2789703013564878429
+    second: All tools Iron No hands 64x32_39
+  - first:
+      213: -7403158629263066299
+    second: All tools Iron No hands 64x32_40
+  - first:
+      213: -9171111335040189452
+    second: All tools Iron No hands 64x32_41
+  - first:
+      213: 2337371956354468720
+    second: All tools Iron No hands 64x32_42
+  - first:
+      213: -2845900685737144025
+    second: All tools Iron No hands 64x32_43
+  - first:
+      213: 4908194941783734819
+    second: All tools Iron No hands 64x32_44
+  - first:
+      213: 4580909943614743591
+    second: All tools Iron No hands 64x32_45
+  - first:
+      213: 6167205521263370629
+    second: All tools Iron No hands 64x32_46
+  - first:
+      213: 4431008000825254375
+    second: All tools Iron No hands 64x32_47
+  - first:
+      213: 3972334508548090601
+    second: All tools Iron No hands 64x32_48
+  - first:
+      213: -3872200832938545394
+    second: All tools Iron No hands 64x32_49
+  - first:
+      213: 3127358284071190595
+    second: All tools Iron No hands 64x32_50
+  - first:
+      213: 1470365008800106963
+    second: All tools Iron No hands 64x32_51
+  - first:
+      213: 4714770317159081860
+    second: All tools Iron No hands 64x32_52
+  - first:
+      213: -1103737991562275371
+    second: All tools Iron No hands 64x32_53
+  - first:
+      213: -2288079364769428178
+    second: All tools Iron No hands 64x32_54
+  - first:
+      213: 1102245106987185806
+    second: All tools Iron No hands 64x32_55
+  - first:
+      213: 9023490213555934746
+    second: All tools Iron No hands 64x32_56
+  - first:
+      213: -8114841459915762260
+    second: All tools Iron No hands 64x32_57
+  - first:
+      213: 7089243151983283346
+    second: All tools Iron No hands 64x32_58
+  - first:
+      213: -5196110120976314134
+    second: All tools Iron No hands 64x32_59
+  - first:
+      213: 6861656353620011014
+    second: All tools Iron No hands 64x32_60
+  - first:
+      213: -6601284651591604153
+    second: All tools Iron No hands 64x32_61
+  - first:
+      213: -8226798609142473196
+    second: All tools Iron No hands 64x32_62
+  - first:
+      213: -2620291570636578202
+    second: All tools Iron No hands 64x32_63
+  - first:
+      213: 8953578778269038736
+    second: All tools Iron No hands 64x32_64
+  - first:
+      213: 3769190912147280365
+    second: All tools Iron No hands 64x32_65
+  - first:
+      213: 2724403817544875371
+    second: All tools Iron No hands 64x32_66
+  - first:
+      213: -8412019827061340336
+    second: All tools Iron No hands 64x32_67
+  - first:
+      213: 3052403198389177240
+    second: All tools Iron No hands 64x32_68
+  - first:
+      213: -2187146602198350866
+    second: All tools Iron No hands 64x32_69
+  - first:
+      213: 2382523839965228851
+    second: All tools Iron No hands 64x32_70
+  - first:
+      213: -8411348126109137107
+    second: All tools Iron No hands 64x32_71
+  - first:
+      213: -7934760156776405699
+    second: All tools Iron No hands 64x32_72
+  - first:
+      213: -9021109273457711982
+    second: All tools Iron No hands 64x32_73
+  - first:
+      213: 1603789501992023221
+    second: All tools Iron No hands 64x32_74
+  - first:
+      213: -9041184476198819398
+    second: All tools Iron No hands 64x32_75
+  - first:
+      213: -8020621493730946005
+    second: All tools Iron No hands 64x32_76
+  - first:
+      213: -7215284961874707526
+    second: All tools Iron No hands 64x32_77
+  - first:
+      213: -7142241699829286835
+    second: All tools Iron No hands 64x32_78
+  - first:
+      213: -1603561599684431460
+    second: All tools Iron No hands 64x32_79
+  - first:
+      213: -7075398022639302309
+    second: All tools Iron No hands 64x32_80
+  - first:
+      213: 8040942991822228469
+    second: All tools Iron No hands 64x32_81
+  - first:
+      213: -7914384916839957589
+    second: All tools Iron No hands 64x32_82
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 290
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021901da1c45724f0800000000000000
+      internalID: -853620413554454240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 290
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a574ad26f8799f50800000000000000
+      internalID: 6888670103762924969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 289
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c385d315b0f36e60800000000000000
+      internalID: 7954466027378934722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 291
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72535071948d0ec70800000000000000
+      internalID: 8998429863916680487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 255
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09dd1d70bcd5dc0a0800000000000000
+      internalID: -6859723530824458864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_5
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 288
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff440c8cdbee2d4d0800000000000000
+      internalID: -3111161893675318017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_6
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 289
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05006deef6fd1de90800000000000000
+      internalID: -7002570273743044528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_7
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 290
+        width: 35
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45b811b802c7fa90800000000000000
+      internalID: -7280136930034404019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 260
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb83b48f627ed550800000000000000
+      internalID: 6187508761346935752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 260
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd43f0e306e9f510800000000000000
+      internalID: 1583549648330771956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_10
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 255
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d258f8179cbf5e0800000000000000
+      internalID: -1874683330293322438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_11
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 255
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb8262e247097d20800000000000000
+      internalID: 3276658187736091629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_12
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 255
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a37e9cb90760cd30800000000000000
+      internalID: 4449669723358917539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_13
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 255
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb016b82a386c9cb0800000000000000
+      internalID: -4855891699211824964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_14
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 255
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21204509c34b01760800000000000000
+      internalID: 7426633957746410002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 228
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1e3536144d29d20800000000000000
+      internalID: 3283920455610917282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_16
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 228
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b206ae9a3b0c70aa0800000000000000
+      internalID: -6194770884542439381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_17
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 223
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09d92687b37a1fc0800000000000000
+      internalID: -3523376526396892916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_18
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 223
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8166519944685d2d0800000000000000
+      internalID: -3254547526521100776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_19
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 223
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1e59e6d805aabf0800000000000000
+      internalID: -312348655772900909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_20
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 223
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c475115a6cdf329f0800000000000000
+      internalID: -494272504465893556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_21
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 223
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c2fdc7296f3d0d0800000000000000
+      internalID: -3399102184713933773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_22
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 223
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f022a2568ac394f60800000000000000
+      internalID: 8019007305459311119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_23
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 223
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02239effa6c95eb60800000000000000
+      internalID: 7774792315098968608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 196
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584783d77ff0032b0800000000000000
+      internalID: -5606963980444076923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_25
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 196
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cac7cf391b6d5100800000000000000
+      internalID: 98352523060431557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_26
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 191
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e7f2ade9c08a750800000000000000
+      internalID: 6316312353792032280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_27
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 191
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4430b2b2b2ce3dce0800000000000000
+      internalID: -1381500990520622268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_28
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 191
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e293b168b1122d40800000000000000
+      internalID: 5558024373739426528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_29
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 191
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67bbf835da3d3ea60800000000000000
+      internalID: 7702232529118411638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_30
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 191
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2ab21f24ef470e0800000000000000
+      internalID: -2272912348447792458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_31
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 191
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842056dd65930f2c0800000000000000
+      internalID: -4399953790696619448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_32
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 191
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a818f2f7de60ebf0800000000000000
+      internalID: -297115701633083228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5123dbd0ef71270800000000000000
+      internalID: 8221318979750335991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_34
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 163
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7fb23bf710aee70800000000000000
+      internalID: 9145123641307690966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_35
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 160
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1140cbfb387f54780800000000000000
+      internalID: -8699274959966698479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_36
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 160
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e78217931a57bd70800000000000000
+      internalID: 9058808215664494569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_37
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 161
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681b3923354b60b60800000000000000
+      internalID: 7712049681342378374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_38
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 162
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ede49a64e6c632f0800000000000000
+      internalID: -993387983445627418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_39
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 163
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e0f504c1407b620800000000000000
+      internalID: 2789703013564878429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_40
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 162
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b38e64372b24990800000000000000
+      internalID: -7403158629263066299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_41
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 161
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fbfe57d4daa9b080800000000000000
+      internalID: -9171111335040189452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_42
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 127
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07bc77e0963007020800000000000000
+      internalID: 2337371956354468720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_43
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 128
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721d89097645188d0800000000000000
+      internalID: -2845900685737144025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_44
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 129
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a73697b496d1440800000000000000
+      internalID: 4908194941783734819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_45
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 129
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7242631b259a29f30800000000000000
+      internalID: 4580909943614743591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_46
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 128
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5812bbf0fb0569550800000000000000
+      internalID: 6167205521263370629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_47
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 127
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e16a1edc4a1e7d30800000000000000
+      internalID: 4431008000825254375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_48
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 127
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eae80f6031902730800000000000000
+      internalID: 3972334508548090601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_49
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 127
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0fe9b5bbdd234ac0800000000000000
+      internalID: -3872200832938545394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_50
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 99
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34040773acb966b20800000000000000
+      internalID: 3127358284071190595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_51
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 110
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9c1b76f29c76410800000000000000
+      internalID: 1470365008800106963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_52
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 99
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487a2df9f9a3e6140800000000000000
+      internalID: 4714770317159081860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_53
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 98
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5d3dff42cbea0f0800000000000000
+      internalID: -1103737991562275371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_54
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 97
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d4405c0fb1f30e0800000000000000
+      internalID: -2288079364769428178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_55
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 96
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e863269b516fb4f00800000000000000
+      internalID: 1102245106987185806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_56
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 97
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16173d6a80e93d70800000000000000
+      internalID: 9023490213555934746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_57
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 95
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5db1dbfaa426f80800000000000000
+      internalID: -8114841459915762260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_58
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c8558161d026260800000000000000
+      internalID: 7089243151983283346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_59
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 65
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae015690065b3e7b0800000000000000
+      internalID: -5196110120976314134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_60
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 65
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608a2585910893f50800000000000000
+      internalID: 6861656353620011014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_61
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 66
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748e4a0a5968364a0800000000000000
+      internalID: -6601284651591604153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_62
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 66
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e926f904a84dd80800000000000000
+      internalID: -8226798609142473196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_63
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 66
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662a14c03bad2abd0800000000000000
+      internalID: -2620291570636578202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_64
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 65
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098b333f570814c70800000000000000
+      internalID: 8953578778269038736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_65
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 65
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de15b212a2bde4430800000000000000
+      internalID: 3769190912147280365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_66
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 64
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6dfa7966d60fc520800000000000000
+      internalID: 2724403817544875371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_67
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 31
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057477c3980824b80800000000000000
+      internalID: -8412019827061340336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_68
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 31
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89bc04f59805c5a20800000000000000
+      internalID: 3052403198389177240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_69
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 31
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3c348d0c1b5a1e0800000000000000
+      internalID: -2187146602198350866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_70
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 31
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33fe60e2fcc601120800000000000000
+      internalID: 2382523839965228851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_71
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 31
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d270e1dc173e44b80800000000000000
+      internalID: -8411348126109137107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_72
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 31
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d356b657da112e190800000000000000
+      internalID: -7934760156776405699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_73
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 31
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294229369e49ec280800000000000000
+      internalID: -9021109273457711982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_74
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 31
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b43cb80e0ec14610800000000000000
+      internalID: 1603789501992023221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_75
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9a4630f92478280800000000000000
+      internalID: -9041184476198819398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_76
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24dd4c1f3701b090800000000000000
+      internalID: -8020621493730946005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_77
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 0
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb7d3e2e882edb90800000000000000
+      internalID: -7215284961874707526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_78
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 0
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4871b5e309a1ec90800000000000000
+      internalID: -7142241699829286835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_79
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 3
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c913a5b98310fb9e0800000000000000
+      internalID: -1603561599684431460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_80
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 75
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5945184cf22fcd90800000000000000
+      internalID: -7075398022639302309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_81
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 3
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb0bbe5c0b279f60800000000000000
+      internalID: 8040942991822228469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Iron No hands 64x32_82
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 3
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab7b00b9d47a2290800000000000000
+      internalID: -7914384916839957589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      All tools Iron No hands 64x32_0: -853620413554454240
+      All tools Iron No hands 64x32_1: 6888670103762924969
+      All tools Iron No hands 64x32_10: -1874683330293322438
+      All tools Iron No hands 64x32_11: 3276658187736091629
+      All tools Iron No hands 64x32_12: 4449669723358917539
+      All tools Iron No hands 64x32_13: -4855891699211824964
+      All tools Iron No hands 64x32_14: 7426633957746410002
+      All tools Iron No hands 64x32_15: 3283920455610917282
+      All tools Iron No hands 64x32_16: -6194770884542439381
+      All tools Iron No hands 64x32_17: -3523376526396892916
+      All tools Iron No hands 64x32_18: -3254547526521100776
+      All tools Iron No hands 64x32_19: -312348655772900909
+      All tools Iron No hands 64x32_2: 7954466027378934722
+      All tools Iron No hands 64x32_20: -494272504465893556
+      All tools Iron No hands 64x32_21: -3399102184713933773
+      All tools Iron No hands 64x32_22: 8019007305459311119
+      All tools Iron No hands 64x32_23: 7774792315098968608
+      All tools Iron No hands 64x32_24: -5606963980444076923
+      All tools Iron No hands 64x32_25: 98352523060431557
+      All tools Iron No hands 64x32_26: 6316312353792032280
+      All tools Iron No hands 64x32_27: -1381500990520622268
+      All tools Iron No hands 64x32_28: 5558024373739426528
+      All tools Iron No hands 64x32_29: 7702232529118411638
+      All tools Iron No hands 64x32_3: 8998429863916680487
+      All tools Iron No hands 64x32_30: -2272912348447792458
+      All tools Iron No hands 64x32_31: -4399953790696619448
+      All tools Iron No hands 64x32_32: -297115701633083228
+      All tools Iron No hands 64x32_33: 8221318979750335991
+      All tools Iron No hands 64x32_34: 9145123641307690966
+      All tools Iron No hands 64x32_35: -8699274959966698479
+      All tools Iron No hands 64x32_36: 9058808215664494569
+      All tools Iron No hands 64x32_37: 7712049681342378374
+      All tools Iron No hands 64x32_38: -993387983445627418
+      All tools Iron No hands 64x32_39: 2789703013564878429
+      All tools Iron No hands 64x32_4: -6859723530824458864
+      All tools Iron No hands 64x32_40: -7403158629263066299
+      All tools Iron No hands 64x32_41: -9171111335040189452
+      All tools Iron No hands 64x32_42: 2337371956354468720
+      All tools Iron No hands 64x32_43: -2845900685737144025
+      All tools Iron No hands 64x32_44: 4908194941783734819
+      All tools Iron No hands 64x32_45: 4580909943614743591
+      All tools Iron No hands 64x32_46: 6167205521263370629
+      All tools Iron No hands 64x32_47: 4431008000825254375
+      All tools Iron No hands 64x32_48: 3972334508548090601
+      All tools Iron No hands 64x32_49: -3872200832938545394
+      All tools Iron No hands 64x32_5: -3111161893675318017
+      All tools Iron No hands 64x32_50: 3127358284071190595
+      All tools Iron No hands 64x32_51: 1470365008800106963
+      All tools Iron No hands 64x32_52: 4714770317159081860
+      All tools Iron No hands 64x32_53: -1103737991562275371
+      All tools Iron No hands 64x32_54: -2288079364769428178
+      All tools Iron No hands 64x32_55: 1102245106987185806
+      All tools Iron No hands 64x32_56: 9023490213555934746
+      All tools Iron No hands 64x32_57: -8114841459915762260
+      All tools Iron No hands 64x32_58: 7089243151983283346
+      All tools Iron No hands 64x32_59: -5196110120976314134
+      All tools Iron No hands 64x32_6: -7002570273743044528
+      All tools Iron No hands 64x32_60: 6861656353620011014
+      All tools Iron No hands 64x32_61: -6601284651591604153
+      All tools Iron No hands 64x32_62: -8226798609142473196
+      All tools Iron No hands 64x32_63: -2620291570636578202
+      All tools Iron No hands 64x32_64: 8953578778269038736
+      All tools Iron No hands 64x32_65: 3769190912147280365
+      All tools Iron No hands 64x32_66: 2724403817544875371
+      All tools Iron No hands 64x32_67: -8412019827061340336
+      All tools Iron No hands 64x32_68: 3052403198389177240
+      All tools Iron No hands 64x32_69: -2187146602198350866
+      All tools Iron No hands 64x32_7: -7280136930034404019
+      All tools Iron No hands 64x32_70: 2382523839965228851
+      All tools Iron No hands 64x32_71: -8411348126109137107
+      All tools Iron No hands 64x32_72: -7934760156776405699
+      All tools Iron No hands 64x32_73: -9021109273457711982
+      All tools Iron No hands 64x32_74: 1603789501992023221
+      All tools Iron No hands 64x32_75: -9041184476198819398
+      All tools Iron No hands 64x32_76: -8020621493730946005
+      All tools Iron No hands 64x32_77: -7215284961874707526
+      All tools Iron No hands 64x32_78: -7142241699829286835
+      All tools Iron No hands 64x32_79: -1603561599684431460
+      All tools Iron No hands 64x32_8: 6187508761346935752
+      All tools Iron No hands 64x32_80: -7075398022639302309
+      All tools Iron No hands 64x32_81: 8040942991822228469
+      All tools Iron No hands 64x32_82: -7914384916839957589
+      All tools Iron No hands 64x32_9: 1583549648330771956
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

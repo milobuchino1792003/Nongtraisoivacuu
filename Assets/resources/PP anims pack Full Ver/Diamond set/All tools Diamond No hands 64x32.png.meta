@@ -1,0 +1,2288 @@
+fileFormatVersion: 2
+guid: 97ad13363bf49c6498492b7260865edf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2148446846357516755
+    second: All tools Diamond No hands 64x32_0
+  - first:
+      213: -7035265059617731424
+    second: All tools Diamond No hands 64x32_1
+  - first:
+      213: 4617806349689835751
+    second: All tools Diamond No hands 64x32_2
+  - first:
+      213: 7042620363679896352
+    second: All tools Diamond No hands 64x32_3
+  - first:
+      213: -2334673270506054125
+    second: All tools Diamond No hands 64x32_4
+  - first:
+      213: -4883315132245731819
+    second: All tools Diamond No hands 64x32_5
+  - first:
+      213: 4324185251109466478
+    second: All tools Diamond No hands 64x32_6
+  - first:
+      213: 2086411339240111176
+    second: All tools Diamond No hands 64x32_7
+  - first:
+      213: 4205131143178143498
+    second: All tools Diamond No hands 64x32_8
+  - first:
+      213: 5348827754681939059
+    second: All tools Diamond No hands 64x32_9
+  - first:
+      213: -1113495241152386177
+    second: All tools Diamond No hands 64x32_10
+  - first:
+      213: -3843631276081601987
+    second: All tools Diamond No hands 64x32_11
+  - first:
+      213: 6238506192226652978
+    second: All tools Diamond No hands 64x32_12
+  - first:
+      213: 678691151903832688
+    second: All tools Diamond No hands 64x32_13
+  - first:
+      213: 5256526478453723485
+    second: All tools Diamond No hands 64x32_14
+  - first:
+      213: 4864847682805443070
+    second: All tools Diamond No hands 64x32_15
+  - first:
+      213: 961068816451176677
+    second: All tools Diamond No hands 64x32_16
+  - first:
+      213: 2760004349638492300
+    second: All tools Diamond No hands 64x32_17
+  - first:
+      213: -6677329812784495496
+    second: All tools Diamond No hands 64x32_18
+  - first:
+      213: 1694255916583067587
+    second: All tools Diamond No hands 64x32_19
+  - first:
+      213: -6147898804902642636
+    second: All tools Diamond No hands 64x32_20
+  - first:
+      213: -4781094767383253950
+    second: All tools Diamond No hands 64x32_21
+  - first:
+      213: 3796726997984914457
+    second: All tools Diamond No hands 64x32_22
+  - first:
+      213: 2574311574845163443
+    second: All tools Diamond No hands 64x32_23
+  - first:
+      213: -4855688276151731933
+    second: All tools Diamond No hands 64x32_24
+  - first:
+      213: -2356856153895878540
+    second: All tools Diamond No hands 64x32_25
+  - first:
+      213: -474154920295447982
+    second: All tools Diamond No hands 64x32_26
+  - first:
+      213: -3592072678395895145
+    second: All tools Diamond No hands 64x32_27
+  - first:
+      213: -8495024171083279079
+    second: All tools Diamond No hands 64x32_28
+  - first:
+      213: 8332755000993405951
+    second: All tools Diamond No hands 64x32_29
+  - first:
+      213: 7217032718653390011
+    second: All tools Diamond No hands 64x32_30
+  - first:
+      213: 6261427060717550651
+    second: All tools Diamond No hands 64x32_31
+  - first:
+      213: -7016351894772625166
+    second: All tools Diamond No hands 64x32_32
+  - first:
+      213: -7772782721428197777
+    second: All tools Diamond No hands 64x32_33
+  - first:
+      213: 1418652539511659488
+    second: All tools Diamond No hands 64x32_34
+  - first:
+      213: -8692242456386761717
+    second: All tools Diamond No hands 64x32_35
+  - first:
+      213: 2050412473594939232
+    second: All tools Diamond No hands 64x32_36
+  - first:
+      213: -5087285630996409338
+    second: All tools Diamond No hands 64x32_37
+  - first:
+      213: -7541403846772221386
+    second: All tools Diamond No hands 64x32_38
+  - first:
+      213: 1295590784886457881
+    second: All tools Diamond No hands 64x32_39
+  - first:
+      213: 7739718910100921755
+    second: All tools Diamond No hands 64x32_40
+  - first:
+      213: 5747097508944110109
+    second: All tools Diamond No hands 64x32_41
+  - first:
+      213: -1683197997719381279
+    second: All tools Diamond No hands 64x32_42
+  - first:
+      213: -6764119398585654669
+    second: All tools Diamond No hands 64x32_43
+  - first:
+      213: 2484852568968292667
+    second: All tools Diamond No hands 64x32_44
+  - first:
+      213: -634677041081568366
+    second: All tools Diamond No hands 64x32_45
+  - first:
+      213: -809062305623349187
+    second: All tools Diamond No hands 64x32_46
+  - first:
+      213: -7621238971230073099
+    second: All tools Diamond No hands 64x32_47
+  - first:
+      213: 6612988627952907854
+    second: All tools Diamond No hands 64x32_48
+  - first:
+      213: 4107706065786208580
+    second: All tools Diamond No hands 64x32_49
+  - first:
+      213: -486956094528657367
+    second: All tools Diamond No hands 64x32_50
+  - first:
+      213: 162568582678696523
+    second: All tools Diamond No hands 64x32_51
+  - first:
+      213: -7268825079374965347
+    second: All tools Diamond No hands 64x32_52
+  - first:
+      213: -8950036791229596383
+    second: All tools Diamond No hands 64x32_53
+  - first:
+      213: 7635930454165621864
+    second: All tools Diamond No hands 64x32_54
+  - first:
+      213: -1893368460382006019
+    second: All tools Diamond No hands 64x32_55
+  - first:
+      213: -5116635125763571131
+    second: All tools Diamond No hands 64x32_56
+  - first:
+      213: 4997119985345644585
+    second: All tools Diamond No hands 64x32_57
+  - first:
+      213: 8729331000189308609
+    second: All tools Diamond No hands 64x32_58
+  - first:
+      213: 3599830521420834358
+    second: All tools Diamond No hands 64x32_59
+  - first:
+      213: -5675888438668082621
+    second: All tools Diamond No hands 64x32_60
+  - first:
+      213: 2553116534190535865
+    second: All tools Diamond No hands 64x32_61
+  - first:
+      213: 7323639679823387028
+    second: All tools Diamond No hands 64x32_62
+  - first:
+      213: 2732642996477070074
+    second: All tools Diamond No hands 64x32_63
+  - first:
+      213: 8528810590491521286
+    second: All tools Diamond No hands 64x32_64
+  - first:
+      213: -3974414371571349172
+    second: All tools Diamond No hands 64x32_65
+  - first:
+      213: -30595765027915692
+    second: All tools Diamond No hands 64x32_66
+  - first:
+      213: 4637483447821088059
+    second: All tools Diamond No hands 64x32_67
+  - first:
+      213: 1381037339347630934
+    second: All tools Diamond No hands 64x32_68
+  - first:
+      213: -2668241267328701956
+    second: All tools Diamond No hands 64x32_69
+  - first:
+      213: 1806924745641742039
+    second: All tools Diamond No hands 64x32_70
+  - first:
+      213: 5516431152260602617
+    second: All tools Diamond No hands 64x32_71
+  - first:
+      213: -3590657383575717624
+    second: All tools Diamond No hands 64x32_72
+  - first:
+      213: -5837750617703357092
+    second: All tools Diamond No hands 64x32_73
+  - first:
+      213: 4022381123192605138
+    second: All tools Diamond No hands 64x32_74
+  - first:
+      213: 5814517591464576021
+    second: All tools Diamond No hands 64x32_75
+  - first:
+      213: 5017510788795702842
+    second: All tools Diamond No hands 64x32_76
+  - first:
+      213: -331423125593634331
+    second: All tools Diamond No hands 64x32_77
+  - first:
+      213: -7644012949597804295
+    second: All tools Diamond No hands 64x32_78
+  - first:
+      213: -5418682348138797963
+    second: All tools Diamond No hands 64x32_79
+  - first:
+      213: 1293207711222152123
+    second: All tools Diamond No hands 64x32_80
+  - first:
+      213: -1002886133089165127
+    second: All tools Diamond No hands 64x32_81
+  - first:
+      213: -287824970688501390
+    second: All tools Diamond No hands 64x32_82
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 290
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1b2f71601d0dd10800000000000000
+      internalID: 2148446846357516755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 290
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac84c4e3b7bd5e90800000000000000
+      internalID: -7035265059617731424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 289
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e05ecaa86eb51040800000000000000
+      internalID: 4617806349689835751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 291
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023921948e96cb160800000000000000
+      internalID: 7042620363679896352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 255
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e13e4b703999fd0800000000000000
+      internalID: -2334673270506054125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_5
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 288
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516143892cafa3cb0800000000000000
+      internalID: -4883315132245731819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_6
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 289
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61fc5b4397920c30800000000000000
+      internalID: 4324185251109466478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_7
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 290
+        width: 35
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84cf0ca0f0c64fc10800000000000000
+      internalID: 2086411339240111176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 260
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07c017be70ab5a30800000000000000
+      internalID: 4205131143178143498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 260
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374319ae08ada3a40800000000000000
+      internalID: 5348827754681939059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_10
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 255
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b260c4af11c80f0800000000000000
+      internalID: -1113495241152386177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_11
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 255
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32239508bda8aac0800000000000000
+      internalID: -3843631276081601987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_12
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 255
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2339ebc2450a39650800000000000000
+      internalID: 6238506192226652978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_13
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 255
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07abd6db1023b6900800000000000000
+      internalID: 678691151903832688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_14
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 255
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d515bac5bfee2f840800000000000000
+      internalID: 5256526478453723485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 228
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef920044139638340800000000000000
+      internalID: 4864847682805443070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_16
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 228
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e807412ff6665d00800000000000000
+      internalID: 961068816451176677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_17
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 223
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c804cb635518d4620800000000000000
+      internalID: 2760004349638492300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_18
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 223
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874cadcc9eb5553a0800000000000000
+      internalID: -6677329812784495496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_19
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 223
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf998297c4338710800000000000000
+      internalID: 1694255916583067587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_20
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 223
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43cbab22c964eaaa0800000000000000
+      internalID: -6147898804902642636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_21
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 223
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c64a0f3a326adb0800000000000000
+      internalID: -4781094767383253950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_22
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 223
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ca608b61fa0b430800000000000000
+      internalID: 3796726997984914457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_23
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 223
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b782dfecbac9b320800000000000000
+      internalID: 2574311574845163443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 196
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32972f74d312d9cb0800000000000000
+      internalID: -4855688276151731933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_25
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 196
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 470c750b0d3ca4fd0800000000000000
+      internalID: -2356856153895878540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_26
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 191
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2524947bc967b69f0800000000000000
+      internalID: -474154920295447982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_27
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 191
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792a3dc3ee4662ec0800000000000000
+      internalID: -3592072678395895145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_28
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 191
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9155934668c9b1a80800000000000000
+      internalID: -8495024171083279079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_29
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 191
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb529a4684e3a370800000000000000
+      internalID: 8332755000993405951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_30
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 191
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbcf4b7250d082460800000000000000
+      internalID: 7217032718653390011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_31
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 191
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c761dbcbe05e650800000000000000
+      internalID: 6261427060717550651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_32
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 191
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f050fc3029e0ae90800000000000000
+      internalID: -7016351894772625166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e6afcfb47812490800000000000000
+      internalID: -7772782721428197777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_34
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 163
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb5c45e7f010b310800000000000000
+      internalID: 1418652539511659488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_35
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 160
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c8f751a83fe5780800000000000000
+      internalID: -8692242456386761717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_36
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 160
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06708abf747847c10800000000000000
+      internalID: 2050412473594939232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_37
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 161
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60492851ca45669b0800000000000000
+      internalID: -5087285630996409338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_38
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 162
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a906d482d875790800000000000000
+      internalID: -7541403846772221386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_39
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 163
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9164d6b54fcdaf110800000000000000
+      internalID: 1295590784886457881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_40
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 162
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d50f98751096b60800000000000000
+      internalID: 7739718910100921755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_41
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 161
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1265262cbac1cf40800000000000000
+      internalID: 5747097508944110109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_42
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 127
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea994bc65414a8e0800000000000000
+      internalID: -1683197997719381279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_43
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 128
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37229fcae350122a0800000000000000
+      internalID: -6764119398585654669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_44
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 129
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3962940f38fb7220800000000000000
+      internalID: 2484852568968292667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_45
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 129
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293bc33089c2137f0800000000000000
+      internalID: -634677041081568366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_46
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 128
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d386920ae12a5c4f0800000000000000
+      internalID: -809062305623349187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_47
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 127
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fec773e88beb3690800000000000000
+      internalID: -7621238971230073099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_48
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 127
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46b4d8be1e06cb50800000000000000
+      internalID: 6612988627952907854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_49
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 127
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44187ec37e0810930800000000000000
+      internalID: 4107706065786208580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_50
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 99
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9286864130cfd39f0800000000000000
+      internalID: -486956094528657367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_51
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 110
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42d33eb34f814200800000000000000
+      internalID: 162568582678696523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_52
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 99
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9597692a12ff1b90800000000000000
+      internalID: -7268825079374965347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_53
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 98
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d351c25f41bc380800000000000000
+      internalID: -8950036791229596383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_54
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 97
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c012a8a4648f960800000000000000
+      internalID: 7635930454165621864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_55
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 96
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df49002ba6769b5e0800000000000000
+      internalID: -1893368460382006019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_56
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 97
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5428393567f0ef8b0800000000000000
+      internalID: -5116635125763571131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_57
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 95
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928488a9626595540800000000000000
+      internalID: 4997119985345644585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_58
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cec6117b40d42970800000000000000
+      internalID: 8729331000189308609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_59
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 65
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636e5e859ca25f130800000000000000
+      internalID: 3599830521420834358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_60
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 65
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342417489813b31b0800000000000000
+      internalID: -5675888438668082621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_61
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 66
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b47a9af5fd7e6320800000000000000
+      internalID: 2553116534190535865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_62
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 66
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49914da8c7bc2a560800000000000000
+      internalID: 7323639679823387028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_63
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 66
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa89feb35c4ce520800000000000000
+      internalID: 2732642996477070074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_64
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 65
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60136d26b0c6c5670800000000000000
+      internalID: 8528810590491521286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_65
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 65
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c494848bf2b08d8c0800000000000000
+      internalID: -3974414371571349172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_66
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 64
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45831e5505d439ff0800000000000000
+      internalID: -30595765027915692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_67
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 31
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35312710a6ab5040800000000000000
+      internalID: 4637483447821088059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_68
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 31
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65bbd51a42e6a2310800000000000000
+      internalID: 1381037339347630934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_69
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 31
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9a5dd44b088fad0800000000000000
+      internalID: -2668241267328701956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_70
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 31
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dec6df8b7c731910800000000000000
+      internalID: 1806924745641742039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_71
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 31
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa546ad7ec4e8c40800000000000000
+      internalID: 5516431152260602617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_72
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 31
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809f5dd322c6b2ec0800000000000000
+      internalID: -3590657383575717624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_73
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 31
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5569703eb42cfea0800000000000000
+      internalID: -5837750617703357092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_74
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 31
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9c12fe15e52d730800000000000000
+      internalID: 4022381123192605138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_75
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514818b51f051b050800000000000000
+      internalID: 5814517591464576021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_76
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e9bde7a77c1a540800000000000000
+      internalID: 5017510788795702842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_77
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 0
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e944a85c6c866bf0800000000000000
+      internalID: -331423125593634331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_78
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 0
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8acb8d8b20be590800000000000000
+      internalID: -7644012949597804295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_79
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 3
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574e1802d19fcc4b0800000000000000
+      internalID: -5418682348138797963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_80
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 75
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb3138cf8562f110800000000000000
+      internalID: 1293207711222152123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_81
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 3
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b02e0f10680512f0800000000000000
+      internalID: -1002886133089165127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All tools Diamond No hands 64x32_82
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 3
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279ef90d6b0710cf0800000000000000
+      internalID: -287824970688501390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      All tools Diamond No hands 64x32_0: 2148446846357516755
+      All tools Diamond No hands 64x32_1: -7035265059617731424
+      All tools Diamond No hands 64x32_10: -1113495241152386177
+      All tools Diamond No hands 64x32_11: -3843631276081601987
+      All tools Diamond No hands 64x32_12: 6238506192226652978
+      All tools Diamond No hands 64x32_13: 678691151903832688
+      All tools Diamond No hands 64x32_14: 5256526478453723485
+      All tools Diamond No hands 64x32_15: 4864847682805443070
+      All tools Diamond No hands 64x32_16: 961068816451176677
+      All tools Diamond No hands 64x32_17: 2760004349638492300
+      All tools Diamond No hands 64x32_18: -6677329812784495496
+      All tools Diamond No hands 64x32_19: 1694255916583067587
+      All tools Diamond No hands 64x32_2: 4617806349689835751
+      All tools Diamond No hands 64x32_20: -6147898804902642636
+      All tools Diamond No hands 64x32_21: -4781094767383253950
+      All tools Diamond No hands 64x32_22: 3796726997984914457
+      All tools Diamond No hands 64x32_23: 2574311574845163443
+      All tools Diamond No hands 64x32_24: -4855688276151731933
+      All tools Diamond No hands 64x32_25: -2356856153895878540
+      All tools Diamond No hands 64x32_26: -474154920295447982
+      All tools Diamond No hands 64x32_27: -3592072678395895145
+      All tools Diamond No hands 64x32_28: -8495024171083279079
+      All tools Diamond No hands 64x32_29: 8332755000993405951
+      All tools Diamond No hands 64x32_3: 7042620363679896352
+      All tools Diamond No hands 64x32_30: 7217032718653390011
+      All tools Diamond No hands 64x32_31: 6261427060717550651
+      All tools Diamond No hands 64x32_32: -7016351894772625166
+      All tools Diamond No hands 64x32_33: -7772782721428197777
+      All tools Diamond No hands 64x32_34: 1418652539511659488
+      All tools Diamond No hands 64x32_35: -8692242456386761717
+      All tools Diamond No hands 64x32_36: 2050412473594939232
+      All tools Diamond No hands 64x32_37: -5087285630996409338
+      All tools Diamond No hands 64x32_38: -7541403846772221386
+      All tools Diamond No hands 64x32_39: 1295590784886457881
+      All tools Diamond No hands 64x32_4: -2334673270506054125
+      All tools Diamond No hands 64x32_40: 7739718910100921755
+      All tools Diamond No hands 64x32_41: 5747097508944110109
+      All tools Diamond No hands 64x32_42: -1683197997719381279
+      All tools Diamond No hands 64x32_43: -6764119398585654669
+      All tools Diamond No hands 64x32_44: 2484852568968292667
+      All tools Diamond No hands 64x32_45: -634677041081568366
+      All tools Diamond No hands 64x32_46: -809062305623349187
+      All tools Diamond No hands 64x32_47: -7621238971230073099
+      All tools Diamond No hands 64x32_48: 6612988627952907854
+      All tools Diamond No hands 64x32_49: 4107706065786208580
+      All tools Diamond No hands 64x32_5: -4883315132245731819
+      All tools Diamond No hands 64x32_50: -486956094528657367
+      All tools Diamond No hands 64x32_51: 162568582678696523
+      All tools Diamond No hands 64x32_52: -7268825079374965347
+      All tools Diamond No hands 64x32_53: -8950036791229596383
+      All tools Diamond No hands 64x32_54: 7635930454165621864
+      All tools Diamond No hands 64x32_55: -1893368460382006019
+      All tools Diamond No hands 64x32_56: -5116635125763571131
+      All tools Diamond No hands 64x32_57: 4997119985345644585
+      All tools Diamond No hands 64x32_58: 8729331000189308609
+      All tools Diamond No hands 64x32_59: 3599830521420834358
+      All tools Diamond No hands 64x32_6: 4324185251109466478
+      All tools Diamond No hands 64x32_60: -5675888438668082621
+      All tools Diamond No hands 64x32_61: 2553116534190535865
+      All tools Diamond No hands 64x32_62: 7323639679823387028
+      All tools Diamond No hands 64x32_63: 2732642996477070074
+      All tools Diamond No hands 64x32_64: 8528810590491521286
+      All tools Diamond No hands 64x32_65: -3974414371571349172
+      All tools Diamond No hands 64x32_66: -30595765027915692
+      All tools Diamond No hands 64x32_67: 4637483447821088059
+      All tools Diamond No hands 64x32_68: 1381037339347630934
+      All tools Diamond No hands 64x32_69: -2668241267328701956
+      All tools Diamond No hands 64x32_7: 2086411339240111176
+      All tools Diamond No hands 64x32_70: 1806924745641742039
+      All tools Diamond No hands 64x32_71: 5516431152260602617
+      All tools Diamond No hands 64x32_72: -3590657383575717624
+      All tools Diamond No hands 64x32_73: -5837750617703357092
+      All tools Diamond No hands 64x32_74: 4022381123192605138
+      All tools Diamond No hands 64x32_75: 5814517591464576021
+      All tools Diamond No hands 64x32_76: 5017510788795702842
+      All tools Diamond No hands 64x32_77: -331423125593634331
+      All tools Diamond No hands 64x32_78: -7644012949597804295
+      All tools Diamond No hands 64x32_79: -5418682348138797963
+      All tools Diamond No hands 64x32_8: 4205131143178143498
+      All tools Diamond No hands 64x32_80: 1293207711222152123
+      All tools Diamond No hands 64x32_81: -1002886133089165127
+      All tools Diamond No hands 64x32_82: -287824970688501390
+      All tools Diamond No hands 64x32_9: 5348827754681939059
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
